@@ -1,0 +1,3237 @@
+Age,Gender,Smoking Status,Lung Capacity,Disease Type,Treatment Type,Hospital Visits,Recovered
+71.0,female,no,4.49,copd,therapy,14.0,yes
+22.0,female,no,3.65,bronchitis,medication,11.0,yes
+41.0,male,yes,2.98,asthma,medication,12.0,yes
+21.0,female,no,4.05,lung cancer,medication,12.0,no
+49.0,male,yes,5.7,pneumonia,medication,11.0,yes
+57.0,female,yes,4.36,bronchitis,therapy,11.0,yes
+21.0,male,no,1.37,pneumonia,surgery,1.0,yes
+83.0,male,no,3.3,pneumonia,therapy,8.0,yes
+79.0,male,yes,5.45,bronchitis,medication,12.0,no
+40.0,female,no,1.47,lung cancer,medication,13.0,yes
+77.0,male,yes,5.75,asthma,therapy,11.0,no
+61.0,female,yes,5.22,pneumonia,medication,5.0,yes
+34.0,male,no,3.2,pneumonia,surgery,5.0,no
+81.0,male,yes,4.17,bronchitis,therapy,10.0,yes
+81.0,male,yes,4.87,lung cancer,medication,7.0,yes
+81.0,female,yes,3.97,pneumonia,surgery,9.0,no
+70.0,female,no,1.93,bronchitis,medication,8.0,yes
+74.0,male,no,2.73,pneumonia,therapy,4.0,yes
+83.0,male,no,2.74,asthma,therapy,5.0,yes
+70.0,female,no,2.67,lung cancer,medication,10.0,yes
+26.0,male,no,1.54,pneumonia,therapy,12.0,yes
+40.0,male,yes,1.73,asthma,surgery,2.0,no
+58.0,female,no,1.17,copd,therapy,12.0,no
+37.0,female,yes,3.35,asthma,therapy,7.0,no
+79.0,female,no,1.58,pneumonia,surgery,9.0,yes
+28.0,female,no,4.67,pneumonia,surgery,9.0,no
+63.0,male,yes,1.53,pneumonia,surgery,10.0,no
+27.0,female,no,3.52,bronchitis,medication,7.0,no
+66.0,male,no,4.49,lung cancer,medication,11.0,no
+54.0,female,no,3.93,lung cancer,therapy,10.0,no
+55.0,female,no,5.16,bronchitis,surgery,11.0,no
+23.0,male,no,4.45,copd,surgery,8.0,no
+25.0,male,yes,2.9,asthma,therapy,12.0,no
+73.0,male,no,2.7,bronchitis,surgery,9.0,yes
+73.0,female,no,5.45,copd,therapy,4.0,no
+82.0,female,yes,3.48,copd,medication,1.0,yes
+37.0,female,yes,5.12,bronchitis,surgery,1.0,yes
+81.0,female,yes,1.31,copd,surgery,5.0,no
+33.0,female,no,1.26,copd,surgery,13.0,yes
+67.0,female,no,2.9,asthma,therapy,3.0,yes
+81.0,male,yes,4.59,copd,medication,7.0,yes
+59.0,male,yes,4.71,bronchitis,therapy,1.0,no
+79.0,male,yes,3.74,asthma,therapy,2.0,yes
+60.0,female,no,1.72,bronchitis,therapy,1.0,yes
+48.0,male,yes,1.67,bronchitis,medication,9.0,yes
+64.0,male,yes,5.02,bronchitis,therapy,7.0,yes
+84.0,female,yes,1.9,asthma,medication,5.0,no
+28.0,female,no,3.03,pneumonia,medication,14.0,yes
+20.0,male,yes,2.78,lung cancer,therapy,7.0,yes
+27.0,female,yes,4.96,copd,therapy,13.0,no
+54.0,male,yes,2.31,pneumonia,therapy,11.0,no
+52.0,male,no,2.88,bronchitis,medication,3.0,no
+26.0,female,yes,2.99,asthma,medication,7.0,yes
+31.0,male,no,1.1,pneumonia,therapy,3.0,no
+67.0,male,yes,1.22,bronchitis,medication,12.0,no
+42.0,female,no,4.27,lung cancer,medication,11.0,no
+81.0,female,no,4.87,pneumonia,therapy,1.0,yes
+56.0,male,yes,5.07,copd,medication,3.0,no
+63.0,female,no,3.47,bronchitis,medication,13.0,no
+84.0,male,no,4.69,lung cancer,medication,6.0,no
+22.0,female,no,2.23,copd,surgery,9.0,yes
+20.0,male,no,5.52,lung cancer,medication,5.0,no
+24.0,female,no,1.52,pneumonia,therapy,3.0,yes
+33.0,male,yes,5.91,asthma,surgery,8.0,yes
+34.0,male,yes,5.69,asthma,medication,12.0,yes
+61.0,female,yes,4.61,bronchitis,surgery,5.0,yes
+82.0,male,no,3.21,asthma,surgery,13.0,yes
+42.0,male,yes,4.71,copd,medication,1.0,yes
+62.0,male,yes,2.65,copd,therapy,13.0,no
+55.0,female,yes,5.36,bronchitis,therapy,1.0,yes
+32.0,male,no,1.24,bronchitis,therapy,4.0,no
+78.0,male,yes,1.79,bronchitis,therapy,2.0,yes
+47.0,female,no,4.48,pneumonia,medication,6.0,no
+85.0,female,no,1.53,lung cancer,medication,6.0,yes
+61.0,female,yes,4.32,copd,surgery,8.0,yes
+64.0,male,yes,2.43,bronchitis,therapy,9.0,no
+81.0,female,no,1.99,pneumonia,medication,8.0,yes
+47.0,female,no,3.19,lung cancer,surgery,3.0,no
+47.0,female,no,1.11,bronchitis,therapy,6.0,yes
+81.0,male,yes,2.61,bronchitis,surgery,14.0,no
+81.0,female,yes,1.66,lung cancer,medication,6.0,yes
+20.0,female,no,2.88,pneumonia,therapy,1.0,no
+46.0,male,yes,4.36,copd,medication,10.0,no
+22.0,male,yes,3.65,asthma,therapy,6.0,yes
+89.0,male,no,3.95,asthma,therapy,10.0,yes
+81.0,male,yes,1.81,asthma,medication,5.0,yes
+56.0,male,yes,2.25,asthma,therapy,1.0,no
+70.0,male,no,2.12,bronchitis,therapy,14.0,no
+43.0,male,no,3.81,pneumonia,surgery,2.0,yes
+78.0,male,yes,5.72,bronchitis,therapy,4.0,yes
+81.0,female,no,5.09,lung cancer,surgery,2.0,no
+31.0,male,no,2.31,pneumonia,medication,7.0,yes
+58.0,female,yes,1.2,copd,medication,13.0,no
+75.0,female,yes,1.24,copd,surgery,12.0,yes
+21.0,female,no,4.91,copd,therapy,1.0,no
+73.0,male,no,3.28,pneumonia,medication,9.0,yes
+20.0,female,no,4.49,pneumonia,surgery,2.0,no
+72.0,male,yes,2.99,pneumonia,medication,1.0,no
+51.0,male,no,5.74,lung cancer,therapy,7.0,no
+51.0,female,yes,3.54,bronchitis,medication,10.0,no
+87.0,female,no,2.64,bronchitis,therapy,3.0,no
+74.0,male,yes,3.54,copd,surgery,10.0,yes
+57.0,male,no,5.1,lung cancer,surgery,14.0,no
+43.0,female,yes,3.77,bronchitis,therapy,14.0,no
+35.0,female,no,2.92,copd,therapy,11.0,yes
+89.0,female,no,5.84,asthma,surgery,8.0,yes
+22.0,female,no,3.19,bronchitis,surgery,12.0,no
+39.0,male,yes,2.97,lung cancer,therapy,3.0,yes
+78.0,female,no,5.23,copd,medication,7.0,yes
+55.0,male,no,3.13,copd,surgery,14.0,yes
+38.0,male,no,3.76,copd,therapy,7.0,no
+38.0,male,yes,4.72,bronchitis,medication,14.0,no
+71.0,male,no,5.05,pneumonia,therapy,1.0,no
+52.0,female,yes,4.9,asthma,surgery,11.0,yes
+59.0,male,no,2.08,copd,surgery,5.0,no
+20.0,female,no,5.0,pneumonia,medication,11.0,no
+30.0,female,yes,2.73,copd,surgery,1.0,no
+76.0,male,yes,1.86,copd,therapy,7.0,no
+42.0,male,no,3.25,bronchitis,surgery,13.0,yes
+50.0,male,yes,2.76,asthma,surgery,8.0,no
+35.0,male,no,5.3,copd,surgery,3.0,no
+20.0,male,yes,3.4,lung cancer,medication,7.0,no
+67.0,female,no,3.49,copd,therapy,4.0,no
+88.0,female,no,2.36,bronchitis,medication,3.0,yes
+56.0,female,no,1.85,bronchitis,medication,6.0,yes
+28.0,male,yes,4.85,copd,medication,10.0,yes
+39.0,male,yes,1.69,lung cancer,surgery,12.0,no
+73.0,male,yes,5.11,pneumonia,medication,3.0,yes
+55.0,female,yes,1.63,copd,therapy,10.0,no
+57.0,female,no,1.69,bronchitis,therapy,5.0,yes
+37.0,female,no,3.35,asthma,surgery,4.0,yes
+85.0,female,no,4.91,pneumonia,surgery,11.0,no
+54.0,male,no,4.02,asthma,surgery,5.0,no
+52.0,female,yes,2.56,asthma,medication,3.0,no
+87.0,male,no,4.19,lung cancer,medication,4.0,no
+52.0,male,no,1.05,copd,surgery,12.0,yes
+40.0,female,yes,5.26,lung cancer,surgery,5.0,no
+39.0,male,no,2.33,pneumonia,surgery,4.0,yes
+27.0,female,yes,4.44,pneumonia,therapy,11.0,no
+26.0,male,no,4.96,lung cancer,surgery,7.0,no
+86.0,male,yes,2.53,pneumonia,medication,9.0,no
+36.0,female,no,1.18,copd,medication,3.0,yes
+67.0,female,no,2.73,pneumonia,therapy,4.0,no
+41.0,male,no,3.46,lung cancer,surgery,5.0,yes
+49.0,female,yes,4.84,copd,medication,10.0,yes
+70.0,female,no,2.35,pneumonia,surgery,10.0,no
+73.0,male,no,2.21,copd,therapy,1.0,no
+27.0,female,no,5.96,copd,medication,7.0,yes
+46.0,female,yes,1.99,asthma,therapy,11.0,yes
+46.0,male,yes,3.88,pneumonia,surgery,1.0,no
+40.0,female,yes,5.63,pneumonia,therapy,8.0,yes
+83.0,female,yes,5.74,copd,medication,9.0,yes
+88.0,male,yes,5.42,copd,medication,10.0,no
+23.0,female,yes,5.93,copd,therapy,14.0,yes
+54.0,female,yes,1.9,pneumonia,therapy,14.0,yes
+83.0,female,yes,4.83,pneumonia,therapy,9.0,yes
+68.0,male,no,2.69,asthma,surgery,3.0,no
+36.0,male,yes,1.88,copd,medication,6.0,yes
+63.0,male,no,3.11,asthma,therapy,4.0,no
+49.0,male,no,4.97,pneumonia,therapy,9.0,no
+65.0,male,no,3.32,copd,medication,1.0,yes
+25.0,male,yes,3.69,copd,medication,9.0,no
+56.0,male,yes,5.98,asthma,therapy,12.0,yes
+43.0,female,yes,3.0,asthma,medication,4.0,yes
+65.0,female,no,4.08,pneumonia,therapy,10.0,yes
+79.0,female,no,2.96,copd,therapy,11.0,no
+44.0,female,no,2.06,lung cancer,surgery,10.0,yes
+77.0,male,yes,1.1,asthma,medication,1.0,yes
+86.0,male,no,2.26,asthma,therapy,13.0,no
+65.0,male,yes,3.59,bronchitis,medication,2.0,no
+51.0,female,no,2.32,bronchitis,therapy,14.0,yes
+66.0,male,no,3.57,pneumonia,surgery,3.0,yes
+42.0,female,no,3.87,copd,medication,7.0,no
+36.0,male,yes,5.65,asthma,surgery,12.0,no
+52.0,female,no,4.92,asthma,surgery,12.0,no
+62.0,male,no,1.65,bronchitis,medication,8.0,no
+67.0,female,no,4.38,pneumonia,surgery,12.0,yes
+58.0,male,yes,3.8,lung cancer,therapy,8.0,no
+61.0,female,yes,4.95,lung cancer,therapy,11.0,no
+69.0,male,no,4.13,pneumonia,therapy,1.0,no
+32.0,male,no,1.57,pneumonia,medication,12.0,no
+26.0,female,yes,2.26,copd,surgery,9.0,no
+76.0,male,yes,4.89,bronchitis,therapy,11.0,no
+55.0,female,yes,5.79,asthma,medication,14.0,no
+39.0,male,no,3.98,bronchitis,surgery,11.0,no
+84.0,female,yes,3.3,copd,surgery,7.0,yes
+33.0,male,yes,4.18,bronchitis,medication,10.0,yes
+34.0,female,no,4.76,bronchitis,medication,13.0,no
+51.0,male,no,1.99,copd,medication,10.0,no
+70.0,male,no,4.96,lung cancer,medication,14.0,no
+44.0,male,yes,3.38,pneumonia,surgery,1.0,yes
+77.0,male,yes,3.68,asthma,surgery,5.0,yes
+81.0,male,no,4.31,lung cancer,therapy,6.0,yes
+41.0,female,yes,3.05,copd,medication,6.0,yes
+77.0,female,yes,5.48,asthma,therapy,12.0,yes
+77.0,female,yes,1.81,bronchitis,surgery,1.0,yes
+68.0,male,yes,5.98,pneumonia,therapy,7.0,no
+61.0,female,yes,1.07,asthma,surgery,12.0,yes
+34.0,female,no,2.22,pneumonia,therapy,2.0,no
+73.0,female,yes,4.65,asthma,surgery,2.0,no
+72.0,female,no,5.96,pneumonia,medication,7.0,no
+79.0,male,no,2.47,bronchitis,medication,7.0,no
+24.0,male,no,4.55,bronchitis,therapy,13.0,no
+25.0,female,no,3.03,bronchitis,medication,11.0,yes
+66.0,male,yes,5.24,pneumonia,surgery,14.0,no
+59.0,male,no,3.96,asthma,medication,9.0,no
+71.0,male,no,3.52,copd,therapy,12.0,no
+49.0,male,yes,1.28,lung cancer,surgery,7.0,no
+36.0,female,no,5.32,lung cancer,medication,1.0,yes
+82.0,female,no,3.41,bronchitis,surgery,11.0,no
+28.0,female,yes,3.61,pneumonia,medication,14.0,yes
+31.0,female,yes,5.67,bronchitis,medication,3.0,no
+53.0,female,no,3.14,bronchitis,medication,4.0,no
+67.0,female,yes,1.99,pneumonia,medication,7.0,yes
+20.0,male,yes,5.55,bronchitis,medication,4.0,yes
+35.0,female,yes,1.87,bronchitis,therapy,3.0,no
+80.0,female,no,2.43,copd,therapy,10.0,yes
+83.0,male,no,3.58,lung cancer,therapy,1.0,yes
+82.0,male,yes,2.32,bronchitis,surgery,14.0,no
+88.0,female,yes,2.05,bronchitis,medication,12.0,yes
+41.0,female,no,4.0,bronchitis,surgery,9.0,yes
+86.0,female,yes,1.44,asthma,surgery,13.0,no
+45.0,male,yes,1.29,bronchitis,therapy,11.0,no
+35.0,male,yes,2.86,bronchitis,medication,1.0,no
+76.0,male,yes,3.77,asthma,medication,13.0,no
+48.0,female,yes,3.11,bronchitis,surgery,1.0,no
+88.0,male,yes,3.83,bronchitis,therapy,1.0,no
+66.0,male,yes,2.83,copd,surgery,14.0,no
+88.0,female,no,1.27,asthma,medication,7.0,yes
+35.0,female,no,4.37,pneumonia,surgery,7.0,no
+67.0,male,yes,5.46,asthma,surgery,10.0,yes
+52.0,female,yes,1.92,copd,therapy,6.0,yes
+42.0,male,no,2.48,copd,medication,9.0,yes
+29.0,male,yes,4.59,pneumonia,therapy,6.0,no
+29.0,female,yes,4.65,lung cancer,medication,13.0,no
+88.0,male,yes,5.15,copd,therapy,4.0,yes
+23.0,male,yes,1.21,lung cancer,medication,4.0,yes
+21.0,male,yes,1.74,pneumonia,medication,13.0,no
+51.0,female,yes,3.79,copd,medication,11.0,no
+43.0,female,no,5.59,asthma,surgery,11.0,no
+31.0,female,no,2.96,pneumonia,medication,7.0,yes
+69.0,female,yes,5.22,pneumonia,medication,14.0,no
+54.0,male,no,1.0,pneumonia,therapy,9.0,yes
+52.0,male,no,1.84,lung cancer,medication,14.0,yes
+52.0,male,yes,1.15,lung cancer,therapy,11.0,no
+80.0,female,yes,2.64,lung cancer,medication,3.0,no
+70.0,female,no,5.54,lung cancer,therapy,8.0,no
+59.0,female,no,2.06,lung cancer,medication,5.0,no
+63.0,female,yes,3.17,asthma,therapy,8.0,yes
+48.0,male,yes,2.39,pneumonia,therapy,8.0,no
+32.0,male,yes,5.35,asthma,medication,12.0,no
+21.0,male,yes,3.66,lung cancer,surgery,2.0,yes
+54.0,female,yes,1.46,pneumonia,therapy,1.0,yes
+27.0,female,yes,3.23,pneumonia,medication,2.0,yes
+45.0,female,yes,6.0,pneumonia,therapy,10.0,yes
+53.0,male,yes,5.18,copd,medication,6.0,no
+26.0,male,no,5.47,copd,medication,12.0,no
+77.0,female,yes,1.52,bronchitis,therapy,6.0,yes
+55.0,male,yes,1.02,asthma,surgery,2.0,yes
+55.0,male,no,1.54,bronchitis,therapy,14.0,no
+29.0,female,no,3.36,asthma,medication,6.0,yes
+43.0,male,no,4.39,pneumonia,therapy,9.0,no
+83.0,male,yes,5.37,copd,surgery,1.0,yes
+68.0,female,yes,4.75,asthma,surgery,5.0,yes
+55.0,female,no,5.69,bronchitis,therapy,7.0,yes
+43.0,female,no,1.27,lung cancer,medication,9.0,yes
+42.0,female,yes,1.06,asthma,medication,14.0,no
+56.0,female,no,2.45,pneumonia,surgery,9.0,no
+31.0,male,no,2.27,bronchitis,surgery,4.0,yes
+74.0,male,yes,2.65,bronchitis,medication,13.0,no
+49.0,female,yes,3.2,asthma,medication,3.0,no
+36.0,male,yes,3.56,asthma,surgery,8.0,yes
+78.0,male,yes,2.26,bronchitis,surgery,10.0,no
+68.0,male,yes,2.75,asthma,surgery,14.0,no
+80.0,female,no,4.78,copd,therapy,14.0,no
+28.0,female,yes,2.17,bronchitis,therapy,6.0,yes
+47.0,male,no,3.94,lung cancer,surgery,3.0,no
+71.0,female,yes,3.85,bronchitis,therapy,2.0,yes
+35.0,male,no,3.42,asthma,therapy,3.0,yes
+88.0,male,no,3.75,pneumonia,surgery,2.0,no
+44.0,female,yes,3.83,bronchitis,therapy,10.0,no
+71.0,male,no,4.58,asthma,medication,11.0,yes
+72.0,female,no,1.55,lung cancer,surgery,7.0,yes
+42.0,female,no,4.75,bronchitis,surgery,10.0,yes
+58.0,female,yes,5.88,copd,therapy,13.0,no
+72.0,female,no,5.78,pneumonia,surgery,2.0,no
+61.0,female,no,1.3,pneumonia,therapy,11.0,no
+77.0,female,no,3.22,bronchitis,surgery,11.0,no
+33.0,female,yes,3.43,bronchitis,therapy,3.0,no
+24.0,male,no,5.15,pneumonia,surgery,9.0,yes
+54.0,female,no,5.75,bronchitis,surgery,7.0,yes
+37.0,female,yes,4.17,asthma,medication,9.0,no
+28.0,female,yes,2.77,lung cancer,medication,2.0,yes
+77.0,female,yes,4.02,copd,surgery,6.0,yes
+26.0,male,no,5.55,asthma,medication,14.0,yes
+69.0,male,yes,5.08,copd,medication,7.0,yes
+85.0,male,no,2.63,copd,surgery,5.0,no
+24.0,male,no,3.36,bronchitis,medication,9.0,no
+56.0,male,yes,1.62,pneumonia,surgery,4.0,no
+27.0,female,yes,5.49,bronchitis,medication,8.0,yes
+84.0,male,no,5.73,pneumonia,medication,3.0,no
+23.0,female,no,2.87,bronchitis,medication,5.0,yes
+55.0,female,yes,2.66,pneumonia,medication,3.0,no
+50.0,female,no,4.04,pneumonia,surgery,7.0,yes
+38.0,female,yes,4.81,pneumonia,therapy,2.0,no
+58.0,female,no,4.8,asthma,surgery,7.0,yes
+64.0,female,no,4.65,copd,therapy,12.0,yes
+77.0,female,yes,2.66,lung cancer,medication,12.0,no
+58.0,female,yes,1.03,pneumonia,therapy,10.0,yes
+20.0,female,no,2.2,pneumonia,medication,11.0,no
+81.0,female,yes,2.3,bronchitis,surgery,13.0,no
+82.0,female,yes,1.89,bronchitis,medication,10.0,no
+75.0,male,no,5.55,asthma,medication,13.0,no
+25.0,female,yes,1.76,asthma,therapy,8.0,no
+77.0,male,no,5.56,pneumonia,therapy,6.0,yes
+63.0,male,yes,5.46,pneumonia,therapy,13.0,no
+64.0,male,no,4.27,copd,medication,3.0,yes
+51.0,female,no,4.36,pneumonia,surgery,1.0,no
+64.0,female,no,1.03,bronchitis,therapy,10.0,yes
+40.0,male,yes,5.48,bronchitis,surgery,11.0,no
+38.0,female,no,2.72,pneumonia,therapy,12.0,yes
+39.0,female,no,5.47,pneumonia,therapy,2.0,yes
+76.0,female,no,2.46,lung cancer,surgery,10.0,no
+66.0,female,no,1.5,copd,medication,7.0,yes
+34.0,female,yes,2.12,lung cancer,surgery,4.0,yes
+20.0,male,yes,4.82,asthma,medication,10.0,no
+22.0,female,yes,2.16,pneumonia,therapy,9.0,no
+35.0,male,no,1.0,lung cancer,therapy,1.0,no
+47.0,male,no,5.52,pneumonia,surgery,8.0,no
+27.0,male,yes,3.39,asthma,surgery,10.0,no
+79.0,female,no,4.88,copd,medication,9.0,yes
+60.0,male,no,2.29,copd,therapy,8.0,yes
+83.0,female,no,1.19,pneumonia,surgery,13.0,no
+46.0,female,yes,3.92,bronchitis,surgery,11.0,no
+82.0,male,yes,2.15,pneumonia,surgery,10.0,yes
+36.0,male,no,1.74,pneumonia,surgery,10.0,no
+52.0,male,yes,4.27,asthma,surgery,9.0,no
+32.0,female,yes,4.76,lung cancer,therapy,9.0,no
+65.0,male,no,3.52,bronchitis,therapy,3.0,yes
+54.0,male,no,5.47,asthma,therapy,7.0,yes
+88.0,female,yes,5.04,asthma,medication,1.0,no
+85.0,female,yes,5.91,asthma,surgery,9.0,yes
+29.0,male,no,2.37,asthma,surgery,3.0,yes
+49.0,female,no,3.21,lung cancer,medication,12.0,yes
+24.0,male,yes,1.28,bronchitis,surgery,13.0,no
+37.0,female,no,3.78,asthma,surgery,10.0,no
+68.0,female,yes,4.28,pneumonia,surgery,10.0,yes
+30.0,female,yes,3.49,lung cancer,surgery,9.0,no
+45.0,male,no,1.16,lung cancer,surgery,14.0,no
+46.0,male,no,3.08,copd,surgery,12.0,yes
+68.0,male,yes,4.79,copd,medication,7.0,yes
+20.0,female,no,2.11,pneumonia,therapy,6.0,no
+74.0,female,yes,2.86,bronchitis,medication,5.0,no
+25.0,male,yes,5.24,bronchitis,surgery,4.0,no
+88.0,male,yes,5.14,lung cancer,therapy,5.0,no
+22.0,male,no,3.95,lung cancer,therapy,4.0,no
+72.0,male,no,4.6,lung cancer,therapy,3.0,no
+42.0,female,no,2.21,asthma,surgery,7.0,no
+56.0,male,yes,5.86,pneumonia,surgery,4.0,no
+64.0,male,yes,4.52,lung cancer,therapy,9.0,no
+23.0,male,no,2.11,bronchitis,medication,7.0,no
+81.0,female,yes,2.31,lung cancer,medication,2.0,no
+53.0,male,yes,1.84,asthma,surgery,5.0,yes
+45.0,female,no,1.18,asthma,medication,4.0,yes
+73.0,female,yes,3.46,asthma,therapy,12.0,no
+69.0,male,no,1.86,asthma,surgery,9.0,yes
+31.0,female,no,1.51,pneumonia,surgery,6.0,yes
+84.0,female,yes,4.06,asthma,medication,11.0,yes
+24.0,male,no,4.77,copd,surgery,14.0,no
+76.0,male,no,1.1,copd,surgery,12.0,no
+36.0,male,no,2.25,bronchitis,surgery,6.0,no
+42.0,male,yes,4.59,copd,surgery,13.0,no
+33.0,male,no,1.36,bronchitis,therapy,2.0,yes
+70.0,male,yes,3.47,lung cancer,surgery,8.0,yes
+57.0,male,no,5.23,pneumonia,medication,3.0,yes
+57.0,male,yes,4.41,pneumonia,surgery,14.0,no
+69.0,female,no,5.97,pneumonia,therapy,7.0,no
+70.0,male,no,4.12,lung cancer,surgery,5.0,no
+82.0,female,yes,3.3,lung cancer,medication,5.0,no
+71.0,female,yes,1.2,bronchitis,therapy,8.0,no
+57.0,female,no,1.07,copd,surgery,4.0,yes
+49.0,female,yes,1.6,asthma,therapy,1.0,no
+48.0,male,no,3.77,asthma,surgery,4.0,no
+23.0,female,yes,1.16,asthma,therapy,1.0,yes
+75.0,female,yes,5.62,lung cancer,medication,2.0,yes
+25.0,female,no,3.6,copd,therapy,10.0,no
+72.0,female,no,5.29,pneumonia,therapy,14.0,yes
+62.0,male,yes,5.44,lung cancer,medication,14.0,no
+44.0,male,no,5.51,lung cancer,therapy,13.0,yes
+51.0,male,no,3.37,lung cancer,medication,1.0,yes
+69.0,male,yes,2.96,bronchitis,therapy,5.0,no
+80.0,male,yes,5.58,copd,therapy,5.0,no
+70.0,female,yes,1.63,bronchitis,surgery,9.0,yes
+38.0,male,yes,3.09,lung cancer,surgery,13.0,yes
+80.0,male,no,3.59,copd,surgery,7.0,yes
+41.0,female,no,1.7,asthma,therapy,12.0,no
+40.0,male,yes,3.57,lung cancer,surgery,2.0,yes
+31.0,male,yes,4.81,copd,medication,14.0,no
+65.0,female,no,3.14,copd,surgery,5.0,no
+53.0,male,yes,4.13,pneumonia,therapy,12.0,yes
+68.0,male,yes,4.64,asthma,medication,12.0,yes
+46.0,male,no,3.35,asthma,therapy,13.0,yes
+45.0,female,yes,2.94,asthma,surgery,11.0,yes
+66.0,male,yes,2.88,asthma,surgery,14.0,yes
+75.0,female,no,4.2,asthma,therapy,10.0,yes
+67.0,female,yes,5.25,bronchitis,surgery,9.0,yes
+45.0,female,no,1.85,bronchitis,therapy,1.0,no
+55.0,male,yes,1.68,copd,medication,4.0,yes
+20.0,female,yes,4.15,bronchitis,medication,8.0,yes
+27.0,female,no,2.51,copd,therapy,2.0,no
+66.0,female,no,5.44,asthma,surgery,13.0,no
+75.0,male,yes,2.13,pneumonia,medication,11.0,no
+33.0,male,no,5.65,asthma,therapy,13.0,yes
+47.0,male,yes,4.59,asthma,therapy,8.0,yes
+33.0,female,no,2.17,copd,surgery,12.0,no
+22.0,male,no,2.61,copd,therapy,9.0,no
+42.0,male,yes,1.8,copd,therapy,14.0,yes
+57.0,female,yes,4.94,copd,surgery,9.0,yes
+83.0,male,no,1.14,pneumonia,therapy,12.0,no
+47.0,female,yes,4.15,lung cancer,therapy,12.0,no
+63.0,male,yes,3.85,pneumonia,therapy,9.0,no
+36.0,female,yes,4.92,lung cancer,medication,6.0,no
+32.0,female,no,4.11,copd,therapy,3.0,yes
+44.0,female,no,2.58,pneumonia,therapy,1.0,yes
+87.0,female,yes,3.71,copd,therapy,10.0,yes
+29.0,male,yes,1.46,lung cancer,therapy,6.0,no
+86.0,female,yes,4.39,pneumonia,therapy,5.0,no
+53.0,female,yes,5.83,bronchitis,medication,14.0,yes
+27.0,female,yes,2.3,bronchitis,therapy,14.0,yes
+61.0,female,no,3.73,lung cancer,therapy,2.0,yes
+71.0,female,no,1.97,lung cancer,surgery,10.0,no
+78.0,female,yes,2.65,pneumonia,surgery,4.0,no
+75.0,male,no,5.3,bronchitis,therapy,4.0,yes
+52.0,female,yes,3.9,copd,medication,1.0,yes
+72.0,male,yes,4.87,copd,medication,9.0,yes
+41.0,female,yes,2.66,pneumonia,therapy,11.0,no
+40.0,female,no,5.16,asthma,surgery,10.0,yes
+89.0,female,yes,2.37,pneumonia,therapy,3.0,no
+89.0,female,no,3.73,pneumonia,medication,3.0,yes
+23.0,male,no,2.07,copd,therapy,12.0,yes
+81.0,female,yes,3.38,lung cancer,therapy,3.0,no
+81.0,male,yes,2.59,bronchitis,medication,7.0,yes
+74.0,male,yes,5.83,asthma,therapy,2.0,no
+28.0,female,yes,1.8,bronchitis,therapy,1.0,no
+22.0,male,yes,4.94,copd,medication,5.0,yes
+55.0,male,no,4.5,asthma,medication,3.0,yes
+25.0,female,yes,1.2,copd,surgery,3.0,yes
+85.0,female,yes,3.01,lung cancer,medication,6.0,yes
+25.0,female,no,1.06,pneumonia,medication,4.0,yes
+70.0,female,no,3.94,pneumonia,therapy,14.0,no
+76.0,male,yes,5.37,copd,medication,7.0,yes
+85.0,male,yes,1.42,lung cancer,surgery,11.0,no
+27.0,male,no,4.41,copd,surgery,10.0,no
+45.0,male,no,4.4,copd,therapy,1.0,yes
+70.0,female,yes,4.35,pneumonia,medication,1.0,no
+64.0,female,yes,5.71,bronchitis,medication,5.0,no
+24.0,male,no,1.21,asthma,therapy,5.0,no
+87.0,male,yes,2.55,pneumonia,medication,13.0,yes
+66.0,female,no,5.9,pneumonia,medication,11.0,yes
+33.0,male,no,5.61,copd,surgery,10.0,yes
+83.0,female,no,3.4,asthma,therapy,5.0,no
+57.0,male,yes,4.12,pneumonia,surgery,13.0,no
+30.0,female,no,2.8,lung cancer,surgery,13.0,yes
+22.0,female,yes,3.15,bronchitis,surgery,7.0,yes
+52.0,female,yes,3.05,asthma,surgery,11.0,no
+25.0,female,yes,2.87,asthma,therapy,2.0,no
+69.0,male,no,5.63,asthma,medication,14.0,yes
+29.0,male,no,5.14,asthma,therapy,1.0,no
+24.0,female,yes,1.54,pneumonia,surgery,12.0,yes
+42.0,male,yes,1.54,pneumonia,therapy,3.0,yes
+29.0,male,yes,3.14,pneumonia,medication,10.0,no
+63.0,female,no,1.49,pneumonia,medication,12.0,no
+21.0,female,yes,4.1,copd,surgery,1.0,no
+32.0,male,yes,1.72,pneumonia,surgery,4.0,no
+59.0,female,no,3.61,copd,therapy,6.0,no
+21.0,female,yes,1.04,lung cancer,medication,5.0,no
+84.0,female,no,2.58,pneumonia,medication,13.0,no
+82.0,male,no,4.39,lung cancer,therapy,11.0,yes
+36.0,female,no,3.42,pneumonia,medication,4.0,yes
+57.0,female,yes,1.23,copd,therapy,11.0,yes
+54.0,female,no,5.23,asthma,therapy,6.0,yes
+68.0,female,yes,5.56,lung cancer,surgery,3.0,no
+88.0,female,no,5.1,asthma,therapy,9.0,yes
+69.0,male,yes,2.29,copd,medication,10.0,yes
+20.0,male,no,5.54,bronchitis,medication,5.0,no
+83.0,female,yes,5.88,pneumonia,medication,8.0,no
+41.0,male,no,2.41,bronchitis,medication,4.0,yes
+83.0,female,yes,1.27,bronchitis,therapy,1.0,no
+30.0,female,yes,4.55,copd,therapy,11.0,no
+33.0,female,yes,3.66,asthma,medication,2.0,no
+49.0,male,no,2.12,copd,surgery,10.0,yes
+24.0,male,yes,3.76,asthma,surgery,14.0,yes
+45.0,male,yes,2.27,lung cancer,medication,5.0,no
+81.0,female,yes,5.78,pneumonia,surgery,6.0,yes
+23.0,male,no,1.14,bronchitis,surgery,2.0,yes
+61.0,male,no,2.0,lung cancer,therapy,11.0,no
+37.0,male,no,2.21,pneumonia,medication,12.0,yes
+58.0,female,no,2.16,asthma,medication,6.0,yes
+51.0,female,yes,5.36,pneumonia,surgery,9.0,yes
+70.0,female,no,4.56,bronchitis,surgery,11.0,yes
+57.0,female,no,3.9,bronchitis,surgery,10.0,yes
+42.0,male,no,1.45,copd,surgery,3.0,yes
+34.0,female,no,1.83,pneumonia,medication,10.0,no
+44.0,male,yes,4.93,lung cancer,therapy,5.0,yes
+36.0,male,yes,2.25,bronchitis,medication,9.0,no
+85.0,male,no,3.09,pneumonia,medication,13.0,yes
+72.0,male,yes,2.75,asthma,therapy,10.0,no
+26.0,female,no,3.17,bronchitis,therapy,7.0,yes
+61.0,male,no,5.64,lung cancer,surgery,6.0,yes
+83.0,female,yes,3.6,bronchitis,surgery,2.0,no
+34.0,female,yes,3.44,lung cancer,therapy,5.0,yes
+52.0,female,yes,4.45,pneumonia,surgery,2.0,yes
+46.0,male,no,1.53,copd,surgery,14.0,no
+76.0,male,yes,4.93,copd,surgery,2.0,yes
+52.0,female,yes,4.17,pneumonia,therapy,1.0,no
+87.0,male,yes,5.4,bronchitis,medication,14.0,yes
+85.0,male,yes,5.44,asthma,therapy,7.0,yes
+29.0,female,yes,5.79,asthma,surgery,9.0,yes
+57.0,female,no,1.01,bronchitis,surgery,8.0,no
+50.0,female,yes,5.09,bronchitis,medication,7.0,no
+71.0,male,no,4.01,lung cancer,surgery,7.0,yes
+75.0,male,no,4.03,lung cancer,therapy,13.0,no
+34.0,male,yes,2.83,lung cancer,therapy,6.0,no
+27.0,female,no,3.52,bronchitis,surgery,9.0,no
+24.0,male,yes,3.32,lung cancer,surgery,10.0,yes
+87.0,female,no,1.89,lung cancer,medication,2.0,no
+64.0,male,yes,3.57,copd,medication,14.0,no
+55.0,female,yes,4.94,pneumonia,surgery,8.0,yes
+45.0,female,no,2.27,pneumonia,therapy,4.0,no
+62.0,female,yes,5.31,lung cancer,medication,14.0,yes
+46.0,female,yes,5.47,copd,medication,3.0,yes
+88.0,male,yes,1.97,lung cancer,therapy,13.0,yes
+39.0,female,yes,1.65,asthma,therapy,1.0,yes
+30.0,female,yes,5.88,pneumonia,medication,5.0,no
+57.0,male,no,5.34,bronchitis,surgery,3.0,yes
+42.0,male,no,5.43,copd,surgery,9.0,yes
+65.0,female,no,4.23,lung cancer,medication,14.0,no
+31.0,female,no,3.73,bronchitis,therapy,7.0,yes
+62.0,male,yes,4.24,asthma,medication,6.0,no
+87.0,male,yes,3.51,pneumonia,therapy,10.0,no
+24.0,female,no,3.46,pneumonia,surgery,2.0,no
+56.0,female,yes,1.86,copd,surgery,7.0,no
+50.0,female,yes,2.39,copd,surgery,1.0,yes
+28.0,female,no,1.79,lung cancer,medication,3.0,yes
+70.0,female,yes,1.98,lung cancer,surgery,12.0,no
+48.0,male,no,5.86,copd,surgery,1.0,yes
+30.0,male,yes,3.95,lung cancer,therapy,5.0,yes
+20.0,female,no,1.77,pneumonia,therapy,12.0,no
+40.0,male,yes,4.93,bronchitis,therapy,14.0,yes
+55.0,male,yes,2.19,pneumonia,therapy,3.0,no
+73.0,female,no,2.44,copd,surgery,3.0,yes
+82.0,female,yes,4.49,asthma,surgery,1.0,yes
+74.0,male,no,3.09,bronchitis,surgery,10.0,yes
+34.0,female,no,1.94,copd,medication,13.0,yes
+66.0,female,yes,4.01,lung cancer,surgery,11.0,no
+72.0,male,no,2.64,lung cancer,therapy,6.0,yes
+28.0,female,yes,4.9,copd,surgery,3.0,yes
+71.0,female,yes,5.2,asthma,surgery,9.0,yes
+76.0,female,yes,2.62,asthma,surgery,8.0,no
+45.0,female,yes,5.19,bronchitis,medication,11.0,no
+60.0,male,yes,1.52,copd,medication,3.0,no
+54.0,female,no,5.19,bronchitis,surgery,5.0,yes
+26.0,female,no,5.54,copd,medication,5.0,no
+36.0,female,yes,2.44,lung cancer,therapy,4.0,no
+62.0,female,yes,3.5,lung cancer,therapy,4.0,no
+71.0,female,yes,5.86,pneumonia,surgery,2.0,no
+89.0,female,yes,2.33,asthma,medication,10.0,no
+52.0,female,yes,4.58,asthma,therapy,6.0,no
+41.0,male,no,5.97,asthma,medication,11.0,yes
+45.0,male,yes,4.64,lung cancer,surgery,6.0,yes
+68.0,female,yes,5.51,bronchitis,surgery,9.0,no
+82.0,female,no,3.3,bronchitis,medication,3.0,no
+68.0,female,yes,2.85,pneumonia,medication,11.0,yes
+32.0,male,yes,3.62,asthma,surgery,2.0,no
+70.0,female,no,3.53,bronchitis,surgery,12.0,no
+75.0,male,yes,3.63,asthma,therapy,9.0,no
+81.0,male,no,5.87,asthma,medication,8.0,no
+51.0,female,yes,5.56,asthma,surgery,5.0,yes
+49.0,female,yes,1.81,pneumonia,therapy,14.0,no
+48.0,female,no,2.84,asthma,therapy,14.0,yes
+68.0,female,yes,3.12,bronchitis,medication,13.0,yes
+64.0,female,no,2.8,pneumonia,therapy,9.0,no
+49.0,female,yes,4.99,bronchitis,therapy,13.0,yes
+38.0,female,yes,5.27,copd,surgery,7.0,yes
+37.0,female,yes,5.03,copd,surgery,6.0,yes
+20.0,male,no,1.66,copd,therapy,3.0,yes
+66.0,female,no,4.57,pneumonia,therapy,10.0,yes
+85.0,female,no,3.18,asthma,medication,14.0,no
+57.0,male,no,2.47,lung cancer,therapy,10.0,yes
+70.0,female,no,1.25,lung cancer,therapy,10.0,no
+27.0,female,yes,4.47,asthma,therapy,8.0,yes
+74.0,male,no,2.22,lung cancer,therapy,8.0,no
+29.0,male,yes,1.05,lung cancer,therapy,8.0,no
+51.0,male,no,2.61,asthma,therapy,1.0,no
+69.0,female,yes,2.23,bronchitis,medication,12.0,no
+26.0,female,yes,1.05,copd,medication,6.0,yes
+27.0,male,yes,2.18,asthma,surgery,10.0,no
+84.0,female,yes,1.69,bronchitis,therapy,1.0,yes
+86.0,male,no,1.83,copd,therapy,5.0,no
+78.0,male,no,3.64,asthma,medication,9.0,no
+27.0,male,yes,1.19,asthma,surgery,3.0,yes
+54.0,male,no,4.7,copd,surgery,6.0,no
+51.0,male,no,2.59,asthma,surgery,7.0,yes
+35.0,female,yes,3.16,pneumonia,surgery,5.0,no
+87.0,male,no,3.26,asthma,therapy,13.0,no
+56.0,female,no,3.56,asthma,surgery,2.0,no
+26.0,male,no,2.63,pneumonia,medication,7.0,yes
+26.0,male,yes,3.21,bronchitis,surgery,12.0,yes
+52.0,male,no,4.23,copd,therapy,10.0,yes
+42.0,male,yes,3.47,lung cancer,therapy,6.0,yes
+38.0,female,no,4.1,bronchitis,therapy,3.0,yes
+38.0,male,no,3.72,lung cancer,surgery,14.0,no
+55.0,female,yes,4.7,copd,medication,7.0,no
+48.0,male,no,4.53,pneumonia,surgery,4.0,yes
+79.0,female,no,3.67,copd,surgery,10.0,no
+20.0,male,yes,5.37,lung cancer,medication,11.0,no
+66.0,male,no,3.16,copd,surgery,8.0,no
+39.0,female,yes,4.82,copd,surgery,7.0,no
+30.0,female,no,3.91,pneumonia,medication,9.0,yes
+21.0,female,yes,1.36,copd,therapy,8.0,no
+31.0,male,yes,1.15,asthma,surgery,1.0,yes
+39.0,male,no,4.74,bronchitis,medication,7.0,yes
+24.0,female,yes,4.79,copd,therapy,3.0,yes
+56.0,male,no,5.77,asthma,medication,12.0,no
+57.0,female,no,1.27,bronchitis,therapy,4.0,no
+28.0,female,no,3.98,bronchitis,therapy,6.0,no
+43.0,female,yes,1.45,lung cancer,therapy,2.0,yes
+49.0,male,no,3.81,asthma,medication,5.0,yes
+78.0,female,yes,3.4,copd,therapy,5.0,yes
+33.0,female,no,1.52,pneumonia,surgery,3.0,no
+28.0,male,no,4.06,lung cancer,medication,14.0,yes
+85.0,female,yes,4.84,pneumonia,surgery,13.0,no
+44.0,male,no,5.53,lung cancer,therapy,5.0,yes
+23.0,male,no,5.77,pneumonia,therapy,11.0,yes
+45.0,female,yes,5.33,asthma,medication,5.0,yes
+48.0,male,yes,1.8,copd,surgery,9.0,yes
+56.0,male,yes,3.18,lung cancer,therapy,7.0,no
+89.0,female,yes,3.01,pneumonia,therapy,1.0,yes
+37.0,male,no,3.88,copd,therapy,3.0,no
+57.0,male,no,3.55,bronchitis,therapy,4.0,no
+53.0,female,no,1.52,lung cancer,surgery,10.0,no
+36.0,female,no,5.29,asthma,therapy,6.0,no
+56.0,male,yes,2.55,asthma,surgery,3.0,yes
+46.0,male,no,1.59,asthma,medication,9.0,no
+31.0,female,yes,4.53,lung cancer,therapy,5.0,no
+72.0,female,yes,5.25,pneumonia,surgery,6.0,yes
+36.0,female,no,3.95,pneumonia,therapy,2.0,no
+45.0,female,yes,4.15,asthma,surgery,11.0,no
+81.0,female,no,5.23,asthma,surgery,9.0,yes
+21.0,male,yes,5.53,copd,medication,12.0,yes
+73.0,male,no,5.5,copd,medication,12.0,no
+84.0,male,yes,5.88,bronchitis,surgery,14.0,no
+72.0,female,yes,1.64,lung cancer,surgery,7.0,no
+55.0,male,no,5.12,copd,medication,3.0,no
+48.0,female,no,5.95,pneumonia,medication,6.0,no
+40.0,female,no,3.36,lung cancer,surgery,7.0,no
+59.0,female,no,3.65,lung cancer,surgery,5.0,no
+30.0,male,yes,2.61,asthma,surgery,14.0,yes
+55.0,female,yes,1.38,copd,medication,12.0,no
+78.0,female,yes,5.48,lung cancer,medication,2.0,no
+58.0,male,no,5.01,copd,surgery,12.0,no
+73.0,female,no,1.7,bronchitis,therapy,7.0,no
+41.0,female,no,3.05,copd,therapy,9.0,yes
+88.0,male,no,2.27,lung cancer,surgery,13.0,no
+75.0,female,yes,5.3,lung cancer,medication,11.0,no
+52.0,female,yes,4.5,asthma,surgery,4.0,yes
+81.0,female,yes,1.46,lung cancer,medication,12.0,yes
+45.0,female,yes,3.37,lung cancer,therapy,2.0,no
+36.0,female,no,4.31,copd,therapy,1.0,no
+20.0,male,no,5.56,copd,medication,11.0,no
+80.0,female,no,3.02,copd,surgery,14.0,no
+58.0,female,no,4.74,pneumonia,surgery,9.0,yes
+54.0,female,yes,5.34,bronchitis,surgery,9.0,yes
+63.0,male,no,4.76,copd,therapy,12.0,no
+70.0,male,yes,1.7,lung cancer,surgery,9.0,yes
+78.0,female,yes,5.65,bronchitis,therapy,10.0,yes
+36.0,female,no,1.86,asthma,medication,10.0,no
+76.0,female,no,2.79,lung cancer,therapy,10.0,yes
+74.0,female,no,2.45,pneumonia,medication,13.0,yes
+31.0,male,no,5.51,pneumonia,therapy,3.0,yes
+40.0,female,no,5.19,lung cancer,surgery,8.0,yes
+31.0,female,no,3.62,asthma,surgery,8.0,no
+78.0,female,no,4.71,bronchitis,therapy,12.0,yes
+45.0,female,no,2.84,pneumonia,medication,7.0,yes
+66.0,female,no,2.82,asthma,therapy,2.0,yes
+29.0,male,no,3.22,lung cancer,medication,9.0,yes
+35.0,female,no,4.78,pneumonia,therapy,2.0,yes
+36.0,female,no,4.75,lung cancer,surgery,13.0,yes
+42.0,male,yes,2.33,copd,medication,7.0,yes
+26.0,female,no,5.73,copd,therapy,14.0,no
+28.0,male,yes,2.07,asthma,therapy,1.0,no
+67.0,male,no,1.37,copd,medication,6.0,no
+78.0,female,yes,5.46,asthma,medication,4.0,yes
+37.0,female,yes,5.96,asthma,surgery,5.0,yes
+50.0,female,yes,5.22,bronchitis,therapy,11.0,no
+22.0,female,no,3.16,bronchitis,therapy,10.0,no
+56.0,female,yes,3.69,asthma,medication,2.0,no
+62.0,male,yes,3.23,pneumonia,surgery,13.0,yes
+59.0,female,no,3.82,copd,surgery,7.0,yes
+74.0,female,no,3.35,copd,medication,12.0,yes
+58.0,female,no,1.24,asthma,therapy,8.0,yes
+34.0,female,yes,5.41,asthma,medication,4.0,no
+23.0,female,yes,3.22,pneumonia,medication,9.0,no
+44.0,male,yes,3.94,bronchitis,surgery,3.0,yes
+52.0,male,no,1.02,copd,therapy,6.0,yes
+85.0,female,yes,1.5,copd,therapy,14.0,no
+53.0,male,no,2.02,lung cancer,medication,6.0,yes
+51.0,female,yes,4.07,pneumonia,surgery,13.0,yes
+58.0,male,no,1.94,asthma,surgery,9.0,yes
+65.0,male,yes,2.43,bronchitis,therapy,4.0,yes
+48.0,female,no,3.38,copd,medication,13.0,yes
+81.0,female,yes,5.77,asthma,medication,12.0,no
+81.0,male,no,2.24,copd,surgery,12.0,yes
+76.0,male,yes,4.66,asthma,surgery,5.0,no
+35.0,male,no,3.2,asthma,therapy,3.0,yes
+75.0,female,yes,2.49,copd,therapy,7.0,yes
+29.0,female,yes,3.28,copd,therapy,2.0,yes
+44.0,male,yes,4.99,bronchitis,therapy,9.0,yes
+68.0,female,yes,1.34,lung cancer,therapy,6.0,yes
+33.0,female,yes,5.41,asthma,therapy,3.0,no
+56.0,female,no,2.85,pneumonia,medication,4.0,no
+44.0,male,yes,1.92,pneumonia,surgery,12.0,no
+72.0,female,no,5.91,asthma,surgery,6.0,no
+34.0,male,yes,1.48,asthma,therapy,4.0,yes
+68.0,male,yes,3.95,lung cancer,therapy,14.0,yes
+87.0,female,no,4.13,lung cancer,medication,13.0,no
+62.0,male,yes,2.44,bronchitis,medication,5.0,no
+89.0,male,no,5.7,asthma,therapy,5.0,yes
+75.0,male,no,5.86,asthma,surgery,6.0,yes
+82.0,female,yes,1.19,asthma,medication,4.0,yes
+81.0,female,yes,1.06,bronchitis,medication,4.0,no
+23.0,male,yes,2.16,bronchitis,therapy,8.0,yes
+39.0,male,no,5.44,asthma,surgery,8.0,no
+76.0,female,yes,2.86,copd,surgery,7.0,no
+60.0,male,no,3.28,lung cancer,surgery,5.0,yes
+24.0,male,yes,5.26,lung cancer,surgery,3.0,yes
+68.0,female,yes,2.82,lung cancer,therapy,3.0,no
+28.0,male,yes,2.05,asthma,therapy,7.0,no
+39.0,female,no,4.88,bronchitis,medication,3.0,yes
+80.0,male,no,3.43,pneumonia,surgery,11.0,yes
+54.0,female,no,2.12,bronchitis,therapy,13.0,yes
+81.0,female,yes,1.83,lung cancer,medication,4.0,no
+22.0,male,no,2.14,bronchitis,medication,5.0,no
+51.0,male,no,3.63,asthma,therapy,13.0,no
+32.0,male,yes,3.26,bronchitis,medication,7.0,no
+30.0,male,no,5.34,copd,medication,8.0,yes
+75.0,female,yes,3.26,bronchitis,medication,10.0,yes
+28.0,female,no,4.03,pneumonia,surgery,11.0,no
+86.0,female,no,3.79,bronchitis,surgery,6.0,no
+44.0,male,yes,4.26,bronchitis,therapy,4.0,no
+61.0,female,yes,1.77,lung cancer,medication,14.0,no
+28.0,female,no,4.23,asthma,therapy,5.0,yes
+59.0,female,yes,1.91,pneumonia,surgery,10.0,no
+44.0,male,yes,4.75,asthma,medication,12.0,yes
+24.0,male,yes,2.7,asthma,medication,6.0,no
+30.0,female,no,4.55,copd,surgery,2.0,yes
+57.0,female,yes,3.04,pneumonia,medication,3.0,no
+56.0,female,no,3.94,asthma,surgery,8.0,no
+79.0,female,yes,2.77,bronchitis,therapy,11.0,no
+67.0,female,yes,3.41,bronchitis,therapy,2.0,yes
+47.0,female,no,3.99,lung cancer,medication,10.0,yes
+88.0,male,yes,3.36,pneumonia,therapy,10.0,yes
+59.0,female,no,4.49,asthma,surgery,13.0,no
+64.0,female,yes,3.17,bronchitis,therapy,8.0,no
+81.0,female,no,2.01,pneumonia,surgery,12.0,yes
+77.0,male,yes,2.07,bronchitis,surgery,10.0,no
+86.0,female,yes,1.03,pneumonia,medication,5.0,no
+59.0,male,no,4.74,bronchitis,medication,8.0,yes
+59.0,male,yes,4.97,copd,therapy,12.0,yes
+52.0,male,yes,2.01,pneumonia,medication,5.0,yes
+25.0,male,no,5.8,asthma,medication,1.0,no
+59.0,female,yes,5.58,copd,therapy,13.0,yes
+78.0,male,yes,4.53,bronchitis,medication,1.0,no
+60.0,female,no,2.1,lung cancer,surgery,10.0,no
+32.0,female,no,1.04,pneumonia,medication,2.0,yes
+64.0,male,no,4.58,pneumonia,medication,8.0,no
+72.0,female,yes,2.72,lung cancer,surgery,4.0,no
+61.0,female,yes,4.93,lung cancer,medication,9.0,no
+46.0,male,yes,5.1,copd,surgery,12.0,no
+57.0,female,yes,1.65,asthma,therapy,3.0,no
+24.0,male,yes,3.04,asthma,medication,14.0,yes
+77.0,male,no,4.82,bronchitis,surgery,11.0,no
+42.0,female,yes,2.76,copd,therapy,12.0,no
+61.0,male,yes,5.19,copd,medication,3.0,yes
+29.0,female,yes,1.33,asthma,medication,1.0,no
+51.0,male,yes,5.71,asthma,medication,10.0,no
+49.0,male,yes,1.44,copd,medication,8.0,no
+58.0,female,no,2.46,asthma,therapy,12.0,yes
+50.0,female,yes,2.86,pneumonia,therapy,4.0,no
+21.0,male,yes,4.88,bronchitis,therapy,3.0,no
+85.0,male,yes,4.79,copd,therapy,9.0,no
+32.0,male,yes,1.59,bronchitis,surgery,8.0,no
+46.0,male,no,4.53,copd,medication,14.0,no
+36.0,male,yes,3.89,bronchitis,medication,3.0,no
+83.0,male,yes,4.5,copd,medication,13.0,no
+49.0,male,yes,3.47,pneumonia,surgery,12.0,no
+82.0,male,no,1.28,asthma,surgery,9.0,no
+56.0,female,yes,4.49,lung cancer,surgery,8.0,yes
+41.0,male,yes,3.53,bronchitis,surgery,11.0,yes
+87.0,female,no,5.26,copd,medication,8.0,no
+36.0,male,yes,2.14,copd,medication,8.0,no
+31.0,male,no,1.61,copd,surgery,7.0,yes
+36.0,male,yes,2.28,copd,therapy,11.0,yes
+84.0,female,no,5.83,copd,medication,10.0,yes
+41.0,female,no,3.87,pneumonia,medication,14.0,no
+69.0,male,no,5.45,copd,therapy,11.0,yes
+83.0,female,yes,3.38,pneumonia,medication,13.0,no
+66.0,male,yes,5.27,asthma,surgery,10.0,no
+55.0,male,yes,5.34,bronchitis,therapy,12.0,no
+71.0,female,yes,2.46,pneumonia,medication,1.0,no
+26.0,male,yes,1.64,asthma,surgery,3.0,yes
+48.0,female,yes,5.28,copd,therapy,7.0,no
+30.0,female,no,3.94,asthma,surgery,11.0,no
+52.0,female,yes,5.45,pneumonia,therapy,13.0,yes
+25.0,female,yes,5.69,copd,medication,5.0,yes
+51.0,female,yes,1.27,asthma,surgery,9.0,no
+77.0,male,yes,2.87,lung cancer,medication,3.0,yes
+65.0,female,no,4.97,pneumonia,medication,5.0,no
+48.0,female,yes,2.4,copd,medication,14.0,no
+23.0,male,yes,3.78,copd,therapy,13.0,no
+58.0,female,yes,1.67,asthma,therapy,13.0,yes
+34.0,male,no,5.07,copd,medication,5.0,yes
+48.0,female,yes,4.03,bronchitis,therapy,7.0,no
+51.0,female,yes,2.7,copd,surgery,1.0,yes
+66.0,female,no,3.53,lung cancer,surgery,2.0,yes
+41.0,female,no,1.43,pneumonia,medication,11.0,no
+86.0,male,yes,1.19,pneumonia,surgery,8.0,no
+75.0,male,no,4.77,bronchitis,therapy,4.0,no
+66.0,female,yes,2.84,lung cancer,medication,3.0,no
+25.0,female,yes,4.11,pneumonia,medication,2.0,yes
+22.0,female,yes,2.52,bronchitis,surgery,5.0,no
+20.0,male,yes,3.25,bronchitis,medication,5.0,yes
+57.0,male,yes,1.5,pneumonia,medication,3.0,yes
+34.0,female,yes,5.66,lung cancer,therapy,12.0,yes
+54.0,male,no,2.94,bronchitis,therapy,5.0,no
+44.0,female,yes,3.57,bronchitis,medication,6.0,yes
+31.0,female,yes,1.28,lung cancer,surgery,2.0,no
+46.0,female,yes,1.4,bronchitis,medication,3.0,no
+79.0,male,no,5.28,bronchitis,surgery,5.0,yes
+65.0,female,yes,1.46,asthma,therapy,3.0,no
+36.0,female,yes,5.17,bronchitis,surgery,11.0,no
+72.0,female,no,2.8,copd,surgery,2.0,yes
+46.0,male,no,1.76,asthma,medication,1.0,no
+65.0,male,yes,1.33,lung cancer,medication,14.0,yes
+22.0,female,yes,1.64,copd,therapy,6.0,yes
+83.0,female,yes,2.56,lung cancer,therapy,5.0,no
+72.0,male,no,3.94,bronchitis,therapy,8.0,yes
+39.0,female,yes,3.06,pneumonia,therapy,5.0,no
+65.0,male,yes,3.37,asthma,medication,5.0,no
+34.0,male,yes,3.07,lung cancer,therapy,14.0,no
+44.0,female,yes,5.21,copd,medication,11.0,yes
+79.0,male,no,5.45,bronchitis,medication,3.0,yes
+21.0,female,no,1.38,asthma,surgery,5.0,yes
+30.0,male,yes,1.53,pneumonia,surgery,7.0,yes
+83.0,male,yes,3.48,asthma,therapy,8.0,yes
+51.0,female,no,2.62,bronchitis,surgery,8.0,yes
+30.0,female,yes,1.13,copd,medication,11.0,yes
+64.0,female,yes,4.75,asthma,surgery,13.0,yes
+52.0,female,yes,2.07,copd,therapy,14.0,no
+60.0,female,yes,5.17,lung cancer,surgery,2.0,yes
+27.0,male,no,3.1,copd,medication,13.0,yes
+70.0,female,yes,5.36,bronchitis,surgery,13.0,no
+60.0,male,yes,5.32,lung cancer,surgery,10.0,no
+39.0,female,yes,1.96,pneumonia,medication,2.0,yes
+52.0,male,no,5.52,lung cancer,medication,5.0,no
+59.0,male,no,1.99,asthma,medication,14.0,no
+21.0,male,no,1.1,copd,therapy,10.0,no
+52.0,female,yes,4.11,pneumonia,surgery,11.0,yes
+49.0,female,yes,4.31,lung cancer,surgery,9.0,yes
+41.0,female,yes,2.7,pneumonia,therapy,9.0,yes
+57.0,female,no,1.29,lung cancer,surgery,5.0,yes
+65.0,female,no,5.65,asthma,medication,6.0,yes
+63.0,female,no,6.0,asthma,medication,8.0,yes
+80.0,male,no,4.86,lung cancer,medication,14.0,no
+86.0,male,yes,2.12,copd,therapy,2.0,no
+25.0,male,no,1.4,bronchitis,surgery,12.0,yes
+28.0,female,no,5.37,copd,medication,7.0,yes
+60.0,female,no,4.51,copd,therapy,9.0,no
+27.0,male,yes,3.79,lung cancer,medication,6.0,yes
+81.0,female,no,2.58,pneumonia,therapy,11.0,yes
+26.0,female,yes,3.43,lung cancer,therapy,11.0,yes
+23.0,male,no,2.77,copd,medication,8.0,no
+25.0,male,no,5.46,asthma,medication,6.0,yes
+41.0,male,no,1.75,copd,medication,8.0,no
+22.0,female,no,4.29,asthma,therapy,10.0,yes
+60.0,male,yes,1.97,lung cancer,medication,12.0,yes
+79.0,male,no,2.95,lung cancer,surgery,4.0,no
+31.0,male,yes,2.23,lung cancer,therapy,1.0,no
+31.0,female,no,4.34,pneumonia,therapy,4.0,no
+32.0,male,yes,4.7,bronchitis,medication,6.0,no
+64.0,female,no,5.69,pneumonia,medication,13.0,yes
+74.0,male,no,3.29,bronchitis,therapy,11.0,no
+64.0,male,yes,3.85,bronchitis,surgery,4.0,yes
+27.0,male,no,4.46,pneumonia,medication,12.0,no
+72.0,male,no,3.96,asthma,medication,13.0,yes
+74.0,male,yes,5.39,copd,medication,7.0,yes
+51.0,female,no,2.78,bronchitis,therapy,10.0,yes
+70.0,female,no,2.5,copd,therapy,14.0,yes
+37.0,female,yes,1.22,copd,surgery,5.0,yes
+41.0,female,no,5.35,lung cancer,medication,2.0,no
+56.0,female,yes,4.39,asthma,medication,9.0,yes
+78.0,female,yes,4.07,lung cancer,medication,7.0,yes
+22.0,male,yes,5.25,asthma,surgery,14.0,no
+54.0,female,no,5.35,asthma,surgery,7.0,yes
+73.0,female,no,5.63,bronchitis,medication,11.0,yes
+68.0,male,no,3.82,copd,therapy,4.0,yes
+50.0,female,yes,3.67,lung cancer,therapy,13.0,no
+80.0,male,no,3.96,asthma,surgery,10.0,yes
+39.0,female,no,1.26,pneumonia,surgery,8.0,yes
+23.0,female,no,4.21,copd,medication,7.0,yes
+39.0,male,yes,5.38,copd,surgery,13.0,no
+43.0,male,no,2.78,copd,medication,10.0,yes
+68.0,male,yes,4.38,pneumonia,therapy,13.0,yes
+85.0,male,yes,5.37,asthma,surgery,6.0,yes
+25.0,male,yes,5.66,copd,medication,12.0,no
+58.0,male,no,2.99,asthma,surgery,10.0,yes
+61.0,male,no,5.77,asthma,therapy,7.0,no
+77.0,male,no,4.51,bronchitis,surgery,6.0,no
+22.0,male,yes,5.53,asthma,medication,5.0,no
+37.0,male,yes,3.42,lung cancer,surgery,9.0,yes
+40.0,female,yes,3.83,asthma,therapy,12.0,yes
+45.0,female,no,3.35,bronchitis,medication,6.0,no
+27.0,female,no,5.16,asthma,medication,13.0,yes
+56.0,female,no,4.64,asthma,therapy,7.0,no
+79.0,male,no,5.62,bronchitis,medication,1.0,yes
+33.0,female,yes,4.88,pneumonia,therapy,5.0,no
+47.0,female,yes,4.56,copd,therapy,11.0,no
+85.0,female,yes,2.84,asthma,therapy,12.0,no
+24.0,male,no,1.2,asthma,surgery,2.0,no
+84.0,female,no,2.93,lung cancer,medication,1.0,yes
+75.0,female,no,1.83,bronchitis,therapy,9.0,no
+55.0,male,no,1.12,pneumonia,surgery,10.0,yes
+64.0,male,yes,1.67,copd,therapy,5.0,no
+42.0,male,no,4.27,copd,medication,14.0,no
+66.0,male,no,5.01,copd,surgery,11.0,yes
+50.0,female,yes,5.94,asthma,therapy,6.0,no
+30.0,female,no,2.73,lung cancer,therapy,2.0,no
+29.0,female,yes,4.0,bronchitis,medication,11.0,yes
+86.0,female,no,5.69,asthma,therapy,5.0,no
+33.0,male,yes,1.84,lung cancer,surgery,12.0,no
+20.0,female,no,4.77,lung cancer,therapy,8.0,yes
+27.0,female,yes,5.07,asthma,therapy,5.0,yes
+62.0,male,yes,1.17,bronchitis,surgery,11.0,yes
+20.0,female,yes,1.46,copd,medication,8.0,yes
+76.0,male,yes,1.25,lung cancer,surgery,6.0,yes
+47.0,female,yes,3.55,pneumonia,therapy,6.0,no
+66.0,female,yes,2.34,lung cancer,surgery,13.0,yes
+56.0,male,no,5.56,copd,therapy,4.0,yes
+68.0,male,no,2.84,lung cancer,surgery,10.0,yes
+63.0,male,yes,1.23,asthma,therapy,12.0,no
+75.0,male,yes,2.5,pneumonia,surgery,11.0,no
+47.0,male,no,3.66,bronchitis,therapy,3.0,no
+21.0,male,no,5.1,asthma,medication,10.0,yes
+56.0,female,no,5.98,lung cancer,surgery,4.0,yes
+39.0,male,yes,2.65,copd,medication,6.0,yes
+45.0,female,yes,2.91,bronchitis,therapy,14.0,no
+48.0,female,no,4.09,bronchitis,surgery,4.0,yes
+20.0,male,yes,4.59,asthma,surgery,6.0,no
+54.0,male,no,2.96,lung cancer,therapy,10.0,yes
+89.0,male,yes,5.52,bronchitis,therapy,8.0,yes
+88.0,female,yes,3.25,copd,surgery,12.0,no
+70.0,male,yes,5.76,bronchitis,medication,1.0,no
+31.0,female,yes,4.97,bronchitis,surgery,13.0,no
+39.0,female,no,1.2,asthma,therapy,1.0,no
+72.0,male,yes,2.66,asthma,surgery,14.0,yes
+62.0,female,yes,3.35,copd,medication,3.0,yes
+69.0,male,no,2.57,asthma,medication,2.0,yes
+48.0,male,yes,4.5,lung cancer,therapy,1.0,no
+76.0,male,yes,5.13,copd,surgery,1.0,no
+58.0,female,yes,4.66,lung cancer,therapy,12.0,yes
+75.0,female,no,5.95,asthma,surgery,12.0,yes
+42.0,male,no,4.83,pneumonia,surgery,7.0,yes
+63.0,female,no,2.81,bronchitis,surgery,8.0,no
+64.0,male,no,4.95,bronchitis,surgery,5.0,no
+69.0,male,yes,2.46,pneumonia,medication,12.0,yes
+27.0,male,yes,4.28,bronchitis,surgery,11.0,no
+48.0,female,no,1.15,copd,therapy,4.0,no
+62.0,female,yes,4.77,lung cancer,medication,3.0,no
+36.0,male,no,4.73,pneumonia,surgery,13.0,yes
+66.0,female,yes,4.17,lung cancer,therapy,8.0,yes
+65.0,male,yes,1.09,bronchitis,surgery,13.0,no
+20.0,female,no,3.0,bronchitis,surgery,5.0,no
+33.0,male,no,4.88,lung cancer,surgery,11.0,yes
+67.0,male,yes,2.62,lung cancer,surgery,11.0,no
+81.0,male,no,3.82,asthma,surgery,5.0,no
+85.0,male,yes,1.81,asthma,medication,13.0,yes
+82.0,male,no,4.44,pneumonia,medication,8.0,yes
+60.0,female,yes,4.84,copd,therapy,13.0,no
+32.0,male,no,2.08,asthma,surgery,13.0,yes
+50.0,male,yes,4.86,bronchitis,medication,1.0,no
+87.0,male,no,1.1,copd,surgery,11.0,no
+23.0,female,yes,4.35,lung cancer,therapy,3.0,no
+38.0,male,no,3.35,copd,therapy,2.0,yes
+32.0,female,no,5.31,asthma,therapy,10.0,yes
+20.0,female,yes,1.11,bronchitis,medication,13.0,no
+73.0,male,no,4.05,lung cancer,medication,8.0,no
+34.0,female,no,2.84,asthma,therapy,9.0,no
+84.0,male,no,3.08,copd,medication,9.0,yes
+34.0,female,yes,5.16,lung cancer,medication,1.0,yes
+40.0,male,yes,2.55,copd,therapy,1.0,yes
+79.0,male,yes,1.9,asthma,therapy,1.0,no
+52.0,female,yes,4.31,bronchitis,therapy,9.0,no
+68.0,male,yes,4.36,bronchitis,therapy,1.0,no
+54.0,male,no,2.26,bronchitis,therapy,7.0,yes
+63.0,male,no,2.62,bronchitis,medication,6.0,yes
+30.0,male,no,5.17,copd,medication,9.0,yes
+85.0,male,yes,4.81,pneumonia,surgery,11.0,no
+45.0,female,no,2.04,lung cancer,medication,14.0,yes
+67.0,male,yes,3.43,copd,medication,13.0,yes
+85.0,male,no,1.43,bronchitis,surgery,14.0,no
+89.0,female,yes,5.22,copd,surgery,6.0,yes
+45.0,female,yes,5.72,copd,surgery,9.0,no
+31.0,female,no,5.7,pneumonia,medication,9.0,no
+24.0,female,yes,3.77,pneumonia,surgery,5.0,no
+67.0,male,yes,4.0,bronchitis,surgery,4.0,yes
+63.0,male,no,4.21,lung cancer,therapy,3.0,yes
+34.0,male,yes,1.15,asthma,therapy,5.0,yes
+62.0,male,no,4.62,bronchitis,therapy,9.0,yes
+89.0,female,no,4.98,lung cancer,medication,1.0,no
+62.0,female,yes,4.36,pneumonia,medication,10.0,yes
+42.0,male,yes,1.45,pneumonia,therapy,3.0,no
+66.0,male,no,4.34,pneumonia,surgery,6.0,no
+34.0,male,no,2.42,copd,medication,11.0,yes
+44.0,male,yes,4.2,lung cancer,therapy,8.0,yes
+70.0,male,yes,1.77,pneumonia,therapy,10.0,no
+32.0,male,yes,2.33,pneumonia,therapy,5.0,no
+38.0,male,yes,5.18,pneumonia,medication,4.0,yes
+87.0,female,no,3.44,copd,surgery,6.0,yes
+48.0,female,yes,2.95,asthma,medication,1.0,yes
+54.0,male,yes,4.78,bronchitis,surgery,10.0,yes
+27.0,female,yes,5.51,copd,surgery,5.0,yes
+49.0,female,no,2.14,bronchitis,surgery,7.0,no
+37.0,male,yes,1.12,copd,therapy,8.0,no
+21.0,male,no,2.92,bronchitis,therapy,7.0,no
+68.0,female,no,1.71,copd,therapy,7.0,yes
+26.0,female,no,4.31,pneumonia,medication,2.0,yes
+58.0,female,no,1.22,asthma,therapy,6.0,yes
+50.0,female,no,2.24,asthma,surgery,11.0,yes
+82.0,female,no,3.16,bronchitis,medication,9.0,no
+75.0,male,no,4.34,asthma,therapy,12.0,yes
+61.0,male,no,3.15,copd,surgery,10.0,yes
+61.0,female,no,1.33,bronchitis,therapy,4.0,yes
+55.0,female,no,4.82,bronchitis,surgery,7.0,yes
+87.0,female,yes,5.58,bronchitis,therapy,11.0,yes
+73.0,male,yes,3.12,bronchitis,surgery,14.0,yes
+63.0,male,no,5.71,pneumonia,therapy,3.0,no
+64.0,male,no,2.34,pneumonia,therapy,11.0,yes
+32.0,female,yes,4.98,asthma,surgery,1.0,no
+28.0,male,yes,4.14,lung cancer,surgery,8.0,yes
+45.0,female,yes,1.93,bronchitis,medication,12.0,no
+28.0,female,no,3.55,pneumonia,therapy,12.0,yes
+29.0,male,no,5.38,pneumonia,medication,11.0,no
+61.0,male,yes,3.31,pneumonia,surgery,2.0,yes
+56.0,male,no,1.86,asthma,surgery,9.0,no
+87.0,female,no,3.13,lung cancer,surgery,1.0,no
+79.0,male,no,2.76,bronchitis,therapy,14.0,yes
+58.0,male,no,2.81,copd,surgery,9.0,no
+38.0,female,no,3.77,lung cancer,surgery,2.0,no
+74.0,male,no,5.49,asthma,surgery,3.0,no
+52.0,male,yes,1.12,asthma,medication,1.0,no
+67.0,female,no,2.37,asthma,surgery,6.0,no
+56.0,female,yes,2.37,asthma,surgery,11.0,no
+54.0,female,no,4.06,lung cancer,surgery,13.0,yes
+51.0,male,yes,3.19,bronchitis,medication,2.0,no
+44.0,male,no,2.02,lung cancer,surgery,8.0,no
+54.0,female,yes,1.75,copd,surgery,13.0,yes
+26.0,female,yes,1.45,bronchitis,therapy,10.0,yes
+37.0,female,yes,3.82,pneumonia,therapy,8.0,no
+86.0,female,no,1.57,pneumonia,therapy,7.0,no
+61.0,male,yes,1.69,pneumonia,therapy,13.0,no
+58.0,female,no,2.5,bronchitis,medication,10.0,yes
+43.0,male,no,4.02,lung cancer,medication,8.0,no
+79.0,female,yes,5.08,asthma,surgery,11.0,yes
+65.0,female,yes,4.81,bronchitis,medication,3.0,yes
+87.0,female,yes,2.23,lung cancer,therapy,6.0,no
+51.0,male,yes,1.04,copd,surgery,6.0,yes
+58.0,male,yes,5.4,copd,therapy,5.0,no
+55.0,male,no,2.0,bronchitis,medication,3.0,yes
+55.0,male,yes,5.74,copd,therapy,1.0,yes
+22.0,female,no,2.71,bronchitis,medication,7.0,no
+27.0,female,yes,3.2,bronchitis,therapy,2.0,no
+89.0,male,yes,4.54,asthma,therapy,1.0,no
+60.0,male,yes,3.94,copd,surgery,1.0,yes
+32.0,female,yes,3.77,copd,surgery,12.0,yes
+79.0,female,yes,1.21,copd,surgery,9.0,yes
+24.0,female,yes,1.66,bronchitis,surgery,12.0,yes
+63.0,male,yes,4.32,pneumonia,medication,4.0,no
+46.0,female,no,2.07,bronchitis,surgery,13.0,yes
+51.0,female,no,3.16,asthma,medication,12.0,yes
+27.0,female,yes,3.74,copd,therapy,5.0,no
+69.0,female,yes,1.58,lung cancer,therapy,2.0,no
+63.0,male,yes,1.26,copd,medication,2.0,no
+89.0,male,no,4.54,pneumonia,surgery,10.0,no
+21.0,male,no,1.34,bronchitis,therapy,11.0,yes
+63.0,female,yes,1.54,copd,medication,14.0,yes
+54.0,male,yes,3.32,pneumonia,therapy,6.0,yes
+49.0,female,yes,5.76,bronchitis,medication,6.0,yes
+41.0,female,yes,4.9,asthma,therapy,4.0,no
+63.0,male,yes,4.01,pneumonia,therapy,13.0,yes
+77.0,female,no,3.27,asthma,surgery,14.0,no
+50.0,male,no,4.01,pneumonia,surgery,4.0,no
+31.0,female,yes,1.57,copd,surgery,14.0,no
+35.0,female,no,1.14,copd,therapy,4.0,yes
+31.0,female,yes,5.17,copd,surgery,9.0,no
+27.0,female,no,1.7,lung cancer,therapy,12.0,no
+35.0,female,no,4.65,lung cancer,therapy,5.0,no
+49.0,female,yes,1.82,asthma,medication,9.0,no
+42.0,female,yes,3.83,pneumonia,medication,10.0,yes
+24.0,male,yes,2.56,lung cancer,medication,13.0,no
+84.0,female,no,1.89,bronchitis,surgery,10.0,no
+40.0,female,yes,3.02,lung cancer,medication,12.0,no
+41.0,female,yes,1.85,copd,medication,6.0,yes
+52.0,female,yes,5.36,pneumonia,medication,5.0,no
+35.0,male,no,2.82,copd,medication,5.0,no
+57.0,male,yes,5.76,lung cancer,medication,3.0,no
+33.0,male,no,5.73,copd,medication,7.0,no
+42.0,male,no,1.89,asthma,medication,11.0,yes
+85.0,male,yes,5.31,lung cancer,medication,12.0,yes
+86.0,female,no,2.37,pneumonia,medication,13.0,yes
+42.0,female,no,1.67,pneumonia,therapy,10.0,yes
+45.0,male,yes,1.55,asthma,surgery,8.0,no
+87.0,female,yes,5.61,asthma,medication,8.0,no
+74.0,male,yes,4.76,pneumonia,medication,8.0,no
+25.0,female,yes,3.95,pneumonia,therapy,8.0,yes
+34.0,female,no,2.86,lung cancer,medication,2.0,yes
+31.0,female,no,4.65,copd,surgery,8.0,yes
+68.0,male,no,3.1,lung cancer,medication,11.0,yes
+61.0,female,yes,5.91,lung cancer,medication,10.0,no
+57.0,female,no,2.75,pneumonia,surgery,1.0,no
+49.0,female,yes,2.21,bronchitis,therapy,11.0,no
+49.0,female,yes,4.99,asthma,surgery,2.0,yes
+25.0,female,yes,3.17,copd,medication,10.0,yes
+86.0,male,yes,5.59,bronchitis,medication,5.0,yes
+71.0,male,no,4.72,copd,surgery,8.0,no
+33.0,female,no,3.33,bronchitis,medication,9.0,yes
+34.0,male,yes,2.14,copd,medication,9.0,yes
+54.0,male,no,3.13,asthma,therapy,7.0,yes
+21.0,male,no,4.03,bronchitis,surgery,11.0,no
+39.0,female,yes,2.41,asthma,therapy,10.0,yes
+29.0,female,yes,3.41,lung cancer,therapy,3.0,no
+44.0,female,no,1.22,lung cancer,surgery,13.0,no
+44.0,female,yes,5.95,lung cancer,surgery,11.0,yes
+52.0,female,no,1.05,bronchitis,surgery,9.0,yes
+84.0,male,no,4.06,asthma,therapy,2.0,yes
+73.0,female,no,4.94,copd,surgery,9.0,no
+71.0,female,yes,2.27,asthma,therapy,11.0,yes
+22.0,male,no,4.82,asthma,surgery,13.0,no
+60.0,male,yes,4.44,asthma,medication,14.0,yes
+25.0,male,no,2.61,lung cancer,medication,8.0,yes
+44.0,male,no,3.73,pneumonia,therapy,8.0,yes
+32.0,male,yes,1.74,pneumonia,surgery,2.0,yes
+40.0,female,yes,5.41,asthma,therapy,13.0,yes
+87.0,male,no,3.95,copd,therapy,14.0,yes
+51.0,male,yes,2.99,asthma,therapy,4.0,yes
+50.0,female,no,3.08,copd,medication,12.0,yes
+37.0,female,no,1.49,copd,therapy,6.0,yes
+79.0,male,no,3.08,pneumonia,surgery,7.0,no
+82.0,male,yes,2.53,asthma,surgery,12.0,yes
+25.0,female,no,5.63,asthma,therapy,6.0,no
+21.0,female,yes,3.65,copd,surgery,4.0,no
+79.0,male,no,4.52,bronchitis,medication,5.0,yes
+42.0,female,no,2.3,lung cancer,therapy,9.0,no
+50.0,female,yes,5.71,bronchitis,therapy,5.0,yes
+29.0,male,no,2.83,copd,surgery,7.0,yes
+21.0,female,yes,1.5,copd,medication,4.0,no
+50.0,female,yes,3.38,pneumonia,therapy,7.0,yes
+28.0,male,no,4.14,lung cancer,therapy,13.0,no
+40.0,male,yes,5.9,asthma,medication,3.0,yes
+81.0,female,no,5.09,pneumonia,medication,3.0,no
+26.0,male,yes,3.54,copd,therapy,2.0,yes
+23.0,female,yes,5.65,asthma,therapy,3.0,yes
+59.0,female,yes,4.93,copd,surgery,10.0,no
+36.0,female,yes,2.48,lung cancer,medication,13.0,no
+71.0,male,yes,3.73,pneumonia,medication,1.0,no
+71.0,male,yes,2.12,asthma,medication,13.0,no
+55.0,female,no,3.22,pneumonia,surgery,9.0,no
+57.0,female,yes,3.42,pneumonia,medication,2.0,yes
+69.0,male,yes,5.16,pneumonia,therapy,12.0,no
+26.0,male,yes,5.31,pneumonia,surgery,10.0,no
+46.0,female,yes,1.87,copd,medication,12.0,yes
+33.0,female,yes,4.11,bronchitis,surgery,4.0,no
+21.0,male,no,5.93,copd,medication,6.0,yes
+40.0,male,no,3.12,lung cancer,medication,10.0,yes
+40.0,male,no,2.54,lung cancer,medication,1.0,yes
+58.0,male,yes,2.19,lung cancer,therapy,3.0,yes
+24.0,male,yes,1.41,lung cancer,medication,2.0,yes
+84.0,male,yes,4.14,bronchitis,surgery,6.0,yes
+72.0,male,no,4.36,bronchitis,therapy,14.0,yes
+51.0,female,yes,1.67,asthma,therapy,4.0,no
+79.0,male,no,2.06,pneumonia,surgery,12.0,no
+82.0,female,yes,1.29,copd,surgery,12.0,yes
+40.0,female,no,2.08,lung cancer,medication,6.0,yes
+71.0,female,yes,5.99,lung cancer,surgery,12.0,yes
+74.0,male,no,3.17,lung cancer,medication,2.0,yes
+87.0,male,yes,1.91,copd,medication,13.0,yes
+71.0,male,no,4.63,bronchitis,medication,13.0,no
+71.0,female,yes,2.57,bronchitis,surgery,9.0,no
+40.0,male,yes,3.79,bronchitis,medication,4.0,yes
+32.0,female,no,1.83,pneumonia,surgery,11.0,no
+83.0,female,no,3.01,asthma,medication,13.0,no
+36.0,female,yes,2.72,asthma,therapy,2.0,yes
+28.0,female,no,3.0,bronchitis,surgery,3.0,yes
+79.0,male,yes,2.47,bronchitis,therapy,6.0,yes
+67.0,male,yes,3.08,bronchitis,therapy,14.0,no
+48.0,male,no,4.93,bronchitis,medication,11.0,no
+53.0,female,no,6.0,copd,therapy,10.0,yes
+27.0,female,no,2.54,lung cancer,therapy,10.0,yes
+68.0,female,no,4.38,pneumonia,therapy,9.0,no
+36.0,female,no,2.7,pneumonia,therapy,9.0,yes
+51.0,male,yes,1.8,copd,medication,5.0,no
+84.0,male,no,2.68,asthma,therapy,10.0,no
+27.0,male,yes,1.21,lung cancer,medication,4.0,no
+62.0,male,yes,3.99,pneumonia,therapy,2.0,no
+70.0,male,yes,2.91,asthma,medication,5.0,no
+43.0,male,no,4.7,pneumonia,surgery,11.0,no
+36.0,female,no,2.88,copd,therapy,6.0,yes
+24.0,female,yes,1.71,copd,medication,9.0,no
+39.0,female,no,4.55,asthma,surgery,9.0,no
+34.0,male,no,3.85,lung cancer,therapy,5.0,yes
+26.0,female,yes,4.78,copd,therapy,7.0,no
+47.0,male,no,1.55,pneumonia,therapy,7.0,yes
+29.0,female,yes,1.63,pneumonia,medication,11.0,no
+57.0,female,yes,2.96,pneumonia,surgery,9.0,yes
+27.0,male,no,5.26,copd,therapy,9.0,yes
+85.0,male,no,3.53,bronchitis,surgery,12.0,no
+69.0,female,no,3.97,bronchitis,therapy,6.0,no
+86.0,female,yes,4.54,bronchitis,surgery,13.0,yes
+68.0,female,no,5.16,copd,therapy,13.0,no
+87.0,male,yes,5.05,lung cancer,medication,5.0,no
+29.0,male,no,3.12,copd,therapy,1.0,no
+40.0,female,yes,3.55,pneumonia,surgery,6.0,yes
+55.0,female,no,5.73,lung cancer,surgery,8.0,no
+21.0,female,no,5.77,copd,medication,2.0,no
+32.0,male,yes,1.9,pneumonia,therapy,8.0,no
+72.0,female,no,4.62,pneumonia,therapy,8.0,no
+51.0,male,yes,4.03,copd,therapy,10.0,yes
+51.0,male,yes,3.82,pneumonia,therapy,3.0,yes
+30.0,female,yes,5.3,asthma,medication,10.0,yes
+29.0,female,no,5.11,bronchitis,medication,8.0,yes
+34.0,female,yes,1.61,bronchitis,surgery,11.0,yes
+37.0,female,yes,2.27,asthma,therapy,14.0,no
+74.0,female,no,5.35,asthma,surgery,4.0,yes
+44.0,female,no,3.16,bronchitis,therapy,3.0,no
+78.0,male,yes,5.04,lung cancer,surgery,11.0,yes
+41.0,male,no,2.32,bronchitis,surgery,9.0,yes
+49.0,female,yes,1.02,copd,medication,8.0,no
+63.0,male,yes,3.48,bronchitis,therapy,10.0,no
+70.0,male,no,4.77,asthma,therapy,13.0,yes
+40.0,male,no,3.22,pneumonia,surgery,13.0,no
+58.0,male,yes,2.43,lung cancer,therapy,13.0,yes
+66.0,female,no,1.76,copd,surgery,8.0,yes
+40.0,male,no,5.59,copd,therapy,11.0,yes
+40.0,female,yes,5.06,pneumonia,surgery,10.0,yes
+26.0,female,yes,5.47,lung cancer,therapy,6.0,yes
+41.0,male,no,4.2,bronchitis,therapy,8.0,no
+41.0,female,yes,4.32,copd,surgery,9.0,yes
+48.0,male,no,3.07,lung cancer,therapy,11.0,yes
+48.0,female,yes,4.39,asthma,therapy,6.0,yes
+69.0,female,yes,2.68,asthma,surgery,14.0,no
+42.0,female,no,2.47,lung cancer,medication,8.0,yes
+41.0,male,yes,4.98,pneumonia,medication,12.0,yes
+62.0,female,no,3.57,copd,medication,1.0,yes
+82.0,male,no,5.18,copd,medication,5.0,yes
+42.0,male,yes,5.03,lung cancer,surgery,3.0,yes
+48.0,female,no,2.89,bronchitis,medication,8.0,no
+58.0,female,yes,2.76,asthma,therapy,6.0,no
+77.0,female,no,2.93,asthma,medication,10.0,yes
+20.0,male,no,2.19,bronchitis,surgery,6.0,yes
+24.0,female,yes,2.03,copd,surgery,12.0,no
+84.0,male,yes,1.13,bronchitis,medication,2.0,no
+23.0,female,yes,4.93,asthma,therapy,9.0,no
+83.0,male,no,2.61,pneumonia,surgery,13.0,yes
+65.0,female,yes,1.7,asthma,medication,9.0,no
+32.0,male,yes,1.25,copd,therapy,4.0,yes
+55.0,male,no,1.36,lung cancer,medication,5.0,no
+31.0,female,yes,2.71,lung cancer,therapy,11.0,yes
+33.0,male,no,3.09,copd,surgery,5.0,yes
+53.0,female,yes,5.64,bronchitis,medication,14.0,yes
+39.0,male,no,4.58,bronchitis,surgery,11.0,no
+35.0,female,yes,5.42,asthma,therapy,11.0,yes
+77.0,male,yes,4.07,bronchitis,therapy,7.0,yes
+39.0,male,no,3.0,bronchitis,medication,14.0,yes
+43.0,male,yes,5.11,bronchitis,medication,3.0,no
+73.0,male,no,2.35,copd,therapy,13.0,yes
+40.0,female,yes,1.5,copd,medication,7.0,no
+57.0,female,yes,2.76,asthma,therapy,12.0,yes
+65.0,male,yes,3.01,pneumonia,therapy,1.0,no
+23.0,male,yes,1.08,asthma,medication,9.0,no
+76.0,female,no,2.8,pneumonia,surgery,6.0,yes
+36.0,female,no,1.87,lung cancer,surgery,13.0,yes
+23.0,male,yes,5.45,pneumonia,therapy,5.0,no
+33.0,female,no,4.04,pneumonia,surgery,8.0,no
+77.0,male,no,5.99,bronchitis,medication,12.0,no
+53.0,female,yes,5.99,asthma,surgery,13.0,no
+49.0,female,no,4.15,pneumonia,surgery,2.0,no
+38.0,male,no,4.98,copd,therapy,3.0,yes
+50.0,male,no,4.91,asthma,surgery,5.0,yes
+79.0,female,no,2.78,bronchitis,therapy,8.0,yes
+79.0,female,no,3.87,asthma,therapy,12.0,no
+38.0,female,no,5.17,pneumonia,therapy,10.0,yes
+68.0,female,yes,4.44,lung cancer,medication,2.0,no
+82.0,female,no,1.11,asthma,medication,5.0,yes
+41.0,male,no,2.68,lung cancer,therapy,14.0,yes
+43.0,male,no,1.72,lung cancer,medication,9.0,no
+49.0,male,yes,2.16,asthma,surgery,2.0,no
+50.0,female,no,1.18,asthma,therapy,3.0,yes
+83.0,male,yes,2.1,copd,therapy,8.0,no
+38.0,male,no,2.55,lung cancer,medication,4.0,no
+67.0,female,yes,4.08,pneumonia,medication,4.0,no
+74.0,female,no,2.09,pneumonia,surgery,7.0,yes
+74.0,female,no,1.82,copd,medication,5.0,yes
+37.0,male,yes,2.18,copd,therapy,4.0,no
+82.0,male,no,3.51,copd,medication,7.0,no
+66.0,male,no,2.36,asthma,medication,12.0,yes
+76.0,female,yes,5.74,lung cancer,medication,3.0,no
+52.0,male,no,1.29,copd,therapy,14.0,no
+23.0,female,no,4.27,lung cancer,medication,12.0,yes
+66.0,female,no,3.85,pneumonia,surgery,2.0,no
+34.0,male,yes,4.86,bronchitis,therapy,7.0,no
+89.0,male,no,5.64,lung cancer,therapy,12.0,yes
+66.0,female,yes,2.31,pneumonia,surgery,7.0,yes
+88.0,male,yes,5.64,pneumonia,surgery,5.0,no
+80.0,male,no,5.51,asthma,therapy,4.0,no
+22.0,male,no,3.48,lung cancer,therapy,2.0,yes
+70.0,female,no,2.73,lung cancer,medication,7.0,yes
+61.0,male,yes,4.18,copd,therapy,7.0,yes
+54.0,male,no,5.75,copd,surgery,4.0,yes
+65.0,male,no,5.98,pneumonia,therapy,14.0,no
+45.0,female,no,2.88,bronchitis,therapy,4.0,yes
+88.0,female,no,4.0,bronchitis,therapy,4.0,no
+83.0,male,no,5.28,pneumonia,medication,11.0,yes
+56.0,female,yes,1.59,asthma,therapy,2.0,no
+68.0,female,no,4.45,bronchitis,medication,13.0,no
+40.0,female,yes,3.04,copd,therapy,13.0,no
+83.0,female,no,2.03,asthma,surgery,9.0,yes
+89.0,female,no,1.38,lung cancer,medication,8.0,no
+23.0,female,yes,4.48,asthma,medication,6.0,yes
+58.0,male,no,2.26,copd,surgery,13.0,no
+20.0,female,yes,1.61,copd,surgery,7.0,no
+76.0,male,yes,3.47,bronchitis,therapy,5.0,no
+60.0,male,no,3.85,bronchitis,medication,6.0,no
+79.0,male,no,4.73,copd,therapy,10.0,yes
+79.0,female,yes,1.64,copd,surgery,13.0,yes
+50.0,female,yes,4.55,asthma,medication,12.0,yes
+43.0,male,yes,2.04,bronchitis,medication,11.0,no
+55.0,male,yes,2.53,lung cancer,medication,12.0,yes
+49.0,female,yes,4.54,pneumonia,therapy,4.0,no
+26.0,female,yes,4.12,copd,medication,1.0,yes
+54.0,female,no,4.22,lung cancer,medication,10.0,yes
+33.0,male,yes,2.46,copd,surgery,5.0,yes
+29.0,female,yes,2.61,lung cancer,medication,4.0,yes
+35.0,male,no,3.19,bronchitis,therapy,6.0,no
+73.0,male,yes,2.54,bronchitis,therapy,12.0,no
+89.0,female,yes,5.92,copd,therapy,5.0,yes
+63.0,male,no,5.07,asthma,surgery,3.0,no
+64.0,male,yes,1.82,lung cancer,therapy,2.0,no
+75.0,female,no,1.03,bronchitis,surgery,13.0,no
+76.0,female,yes,1.21,bronchitis,surgery,6.0,no
+40.0,female,no,2.22,asthma,surgery,4.0,yes
+69.0,female,no,3.67,pneumonia,medication,13.0,no
+26.0,female,no,4.68,bronchitis,therapy,3.0,yes
+89.0,female,yes,2.08,pneumonia,surgery,14.0,yes
+51.0,female,no,3.54,copd,therapy,12.0,no
+39.0,male,no,5.05,lung cancer,therapy,9.0,no
+34.0,female,yes,5.2,asthma,medication,7.0,no
+45.0,female,yes,1.56,bronchitis,medication,13.0,no
+33.0,male,yes,3.83,pneumonia,medication,13.0,no
+77.0,female,no,4.17,copd,therapy,11.0,yes
+88.0,female,no,1.26,lung cancer,therapy,7.0,no
+22.0,male,yes,1.05,asthma,therapy,5.0,yes
+56.0,female,no,1.11,bronchitis,medication,2.0,yes
+38.0,male,yes,1.55,asthma,medication,12.0,no
+31.0,male,no,2.2,copd,therapy,12.0,no
+80.0,male,no,2.11,pneumonia,therapy,4.0,no
+60.0,male,no,5.93,bronchitis,therapy,13.0,no
+52.0,male,yes,2.53,bronchitis,surgery,11.0,yes
+80.0,male,yes,2.48,asthma,medication,11.0,yes
+47.0,male,yes,4.57,lung cancer,surgery,1.0,no
+77.0,male,yes,4.64,asthma,surgery,3.0,no
+60.0,female,yes,5.35,bronchitis,surgery,11.0,yes
+58.0,female,yes,5.35,bronchitis,therapy,2.0,yes
+36.0,male,no,3.15,copd,surgery,5.0,yes
+89.0,male,yes,4.21,copd,surgery,9.0,no
+84.0,male,no,1.03,asthma,surgery,11.0,no
+21.0,female,no,1.91,asthma,therapy,2.0,yes
+41.0,male,no,3.35,copd,therapy,5.0,no
+85.0,female,yes,2.13,copd,surgery,1.0,yes
+70.0,female,yes,1.66,asthma,surgery,10.0,yes
+59.0,male,no,1.89,copd,medication,2.0,no
+79.0,male,no,2.87,bronchitis,therapy,10.0,yes
+29.0,male,no,5.97,pneumonia,surgery,4.0,yes
+82.0,female,yes,4.63,lung cancer,therapy,3.0,yes
+68.0,female,yes,1.26,copd,surgery,10.0,no
+51.0,female,no,1.53,pneumonia,surgery,3.0,no
+40.0,male,yes,5.7,pneumonia,medication,3.0,yes
+39.0,female,yes,1.97,asthma,surgery,3.0,no
+45.0,male,yes,1.81,lung cancer,surgery,10.0,yes
+87.0,female,yes,2.2,pneumonia,surgery,6.0,yes
+46.0,female,yes,2.11,copd,therapy,9.0,yes
+77.0,female,yes,2.55,copd,medication,1.0,yes
+47.0,female,yes,5.61,copd,surgery,10.0,no
+85.0,female,yes,4.95,pneumonia,medication,14.0,no
+44.0,female,yes,5.09,lung cancer,therapy,3.0,no
+22.0,male,yes,2.45,copd,therapy,7.0,no
+63.0,female,yes,2.7,bronchitis,medication,2.0,yes
+61.0,male,no,5.68,copd,therapy,11.0,yes
+42.0,male,no,5.01,bronchitis,medication,9.0,no
+62.0,male,yes,5.6,asthma,medication,8.0,no
+88.0,male,no,1.5,lung cancer,therapy,14.0,yes
+70.0,male,yes,3.94,copd,therapy,7.0,no
+31.0,male,yes,1.47,asthma,medication,8.0,yes
+27.0,female,no,1.86,pneumonia,therapy,5.0,yes
+43.0,male,yes,1.06,pneumonia,medication,6.0,no
+55.0,male,yes,5.43,bronchitis,surgery,1.0,yes
+28.0,male,no,5.91,bronchitis,surgery,5.0,no
+66.0,male,yes,1.32,copd,surgery,3.0,no
+34.0,female,yes,5.52,bronchitis,medication,9.0,no
+61.0,female,no,2.57,bronchitis,medication,10.0,no
+89.0,male,yes,2.44,lung cancer,therapy,4.0,yes
+31.0,female,yes,5.45,lung cancer,surgery,3.0,no
+26.0,male,yes,4.79,copd,surgery,5.0,no
+22.0,male,no,1.6,asthma,surgery,5.0,yes
+46.0,female,no,3.66,pneumonia,therapy,8.0,no
+59.0,male,yes,2.78,copd,medication,10.0,yes
+27.0,female,yes,5.55,lung cancer,therapy,12.0,no
+51.0,female,yes,1.07,pneumonia,surgery,1.0,no
+23.0,female,no,5.69,copd,medication,2.0,yes
+89.0,male,no,4.95,pneumonia,therapy,2.0,yes
+31.0,male,no,4.14,asthma,medication,1.0,no
+30.0,female,yes,4.15,asthma,medication,2.0,no
+32.0,female,no,5.02,asthma,surgery,3.0,no
+23.0,female,no,4.17,pneumonia,medication,8.0,no
+47.0,male,no,5.28,lung cancer,medication,12.0,yes
+46.0,male,yes,2.08,bronchitis,surgery,10.0,yes
+88.0,male,no,1.85,asthma,therapy,9.0,yes
+44.0,female,no,1.0,asthma,therapy,1.0,yes
+22.0,male,no,4.59,pneumonia,surgery,12.0,no
+87.0,female,yes,1.56,copd,surgery,5.0,no
+44.0,female,no,2.22,asthma,surgery,12.0,yes
+39.0,male,no,2.49,pneumonia,surgery,12.0,yes
+45.0,female,yes,2.99,pneumonia,therapy,11.0,yes
+24.0,female,yes,4.37,pneumonia,therapy,14.0,no
+28.0,male,yes,1.62,copd,medication,14.0,no
+69.0,male,yes,3.5,copd,therapy,3.0,yes
+25.0,male,no,2.68,bronchitis,medication,5.0,no
+79.0,male,yes,2.48,pneumonia,medication,8.0,yes
+30.0,male,no,5.48,bronchitis,surgery,5.0,yes
+85.0,male,yes,4.46,copd,surgery,9.0,no
+66.0,female,no,1.61,copd,therapy,2.0,yes
+49.0,male,yes,5.87,asthma,surgery,5.0,yes
+52.0,male,no,4.78,bronchitis,surgery,7.0,no
+54.0,male,no,4.9,bronchitis,surgery,13.0,no
+71.0,male,no,3.39,bronchitis,surgery,10.0,yes
+53.0,female,yes,3.15,bronchitis,medication,10.0,no
+70.0,female,no,5.63,lung cancer,medication,11.0,yes
+76.0,female,no,5.6,bronchitis,therapy,5.0,yes
+42.0,female,no,5.57,pneumonia,therapy,13.0,no
+67.0,female,yes,5.95,lung cancer,therapy,11.0,yes
+41.0,male,no,5.37,copd,medication,4.0,yes
+36.0,male,no,5.99,asthma,therapy,2.0,no
+88.0,female,no,2.22,copd,surgery,14.0,no
+30.0,female,no,5.21,bronchitis,surgery,9.0,yes
+34.0,male,yes,5.12,copd,surgery,10.0,yes
+54.0,female,no,2.15,bronchitis,medication,10.0,yes
+52.0,female,yes,1.49,lung cancer,therapy,12.0,yes
+35.0,female,no,5.9,lung cancer,therapy,10.0,yes
+53.0,female,yes,2.48,bronchitis,therapy,10.0,yes
+85.0,male,no,5.35,pneumonia,therapy,3.0,yes
+47.0,male,no,1.11,pneumonia,medication,11.0,yes
+89.0,male,no,4.45,lung cancer,surgery,8.0,yes
+20.0,male,yes,1.39,bronchitis,therapy,1.0,no
+86.0,male,yes,2.94,bronchitis,therapy,13.0,no
+23.0,female,yes,1.93,copd,medication,14.0,no
+77.0,female,no,4.96,copd,therapy,3.0,no
+44.0,male,yes,3.08,lung cancer,therapy,4.0,no
+66.0,male,yes,1.47,bronchitis,medication,13.0,no
+82.0,male,yes,1.64,lung cancer,medication,10.0,yes
+76.0,female,no,5.3,copd,therapy,1.0,no
+72.0,female,yes,5.62,copd,medication,1.0,yes
+65.0,female,no,5.13,bronchitis,surgery,8.0,yes
+33.0,female,no,2.67,lung cancer,medication,4.0,no
+36.0,male,yes,2.36,lung cancer,surgery,1.0,no
+58.0,female,no,3.75,bronchitis,surgery,7.0,no
+65.0,female,yes,4.47,lung cancer,medication,1.0,yes
+57.0,female,no,5.16,copd,medication,12.0,yes
+33.0,male,no,5.23,bronchitis,therapy,1.0,yes
+54.0,female,no,5.77,bronchitis,therapy,7.0,no
+38.0,female,yes,3.56,bronchitis,medication,14.0,yes
+49.0,male,yes,5.57,lung cancer,medication,3.0,yes
+44.0,male,no,5.84,pneumonia,medication,3.0,no
+59.0,male,yes,5.24,copd,surgery,12.0,yes
+45.0,female,no,1.98,asthma,therapy,2.0,no
+41.0,female,no,3.74,asthma,surgery,14.0,yes
+67.0,male,no,3.27,copd,surgery,14.0,yes
+70.0,male,yes,5.39,pneumonia,surgery,4.0,no
+38.0,male,no,4.76,pneumonia,surgery,3.0,no
+47.0,male,no,1.47,asthma,medication,10.0,yes
+38.0,female,yes,4.11,lung cancer,medication,4.0,yes
+66.0,male,no,1.79,bronchitis,medication,1.0,yes
+33.0,male,no,5.3,pneumonia,therapy,5.0,no
+72.0,female,yes,5.59,pneumonia,therapy,3.0,no
+49.0,male,yes,1.02,lung cancer,therapy,10.0,yes
+28.0,male,yes,3.66,copd,therapy,14.0,yes
+33.0,female,yes,2.38,bronchitis,surgery,8.0,no
+78.0,male,no,4.87,bronchitis,surgery,4.0,no
+60.0,female,no,5.73,copd,surgery,11.0,yes
+87.0,female,no,1.5,lung cancer,surgery,2.0,no
+27.0,male,no,5.8,copd,therapy,3.0,no
+60.0,male,no,5.89,pneumonia,therapy,4.0,yes
+74.0,male,yes,1.02,pneumonia,medication,11.0,no
+81.0,female,no,2.54,bronchitis,medication,2.0,no
+67.0,female,no,5.69,bronchitis,therapy,2.0,no
+49.0,female,no,2.58,bronchitis,surgery,3.0,yes
+31.0,male,yes,4.27,lung cancer,medication,12.0,yes
+30.0,female,yes,2.21,bronchitis,medication,8.0,yes
+40.0,male,no,5.64,copd,therapy,1.0,no
+88.0,male,yes,3.14,bronchitis,surgery,3.0,yes
+39.0,female,no,3.24,asthma,surgery,3.0,yes
+86.0,female,yes,5.9,lung cancer,therapy,4.0,no
+52.0,female,no,2.65,asthma,medication,7.0,no
+80.0,male,no,5.43,lung cancer,therapy,7.0,no
+28.0,male,no,5.24,copd,surgery,9.0,yes
+54.0,male,no,4.12,copd,surgery,13.0,yes
+84.0,female,yes,1.36,lung cancer,therapy,4.0,no
+27.0,male,yes,5.18,bronchitis,therapy,6.0,no
+64.0,male,no,1.87,pneumonia,therapy,11.0,no
+65.0,female,yes,5.27,bronchitis,therapy,2.0,no
+34.0,female,yes,3.2,copd,surgery,4.0,no
+38.0,male,yes,1.3,asthma,surgery,9.0,yes
+71.0,male,no,3.83,copd,therapy,1.0,no
+41.0,female,no,3.24,asthma,medication,7.0,yes
+40.0,female,no,2.55,asthma,surgery,10.0,no
+70.0,male,yes,3.51,lung cancer,surgery,5.0,yes
+57.0,male,yes,2.69,asthma,therapy,10.0,no
+74.0,male,no,2.19,copd,medication,6.0,yes
+47.0,male,no,5.26,asthma,medication,1.0,no
+23.0,female,no,3.79,lung cancer,medication,3.0,no
+85.0,male,yes,5.22,pneumonia,therapy,11.0,yes
+20.0,female,yes,1.48,copd,therapy,9.0,yes
+57.0,male,no,2.98,lung cancer,therapy,1.0,yes
+25.0,female,yes,5.92,asthma,surgery,4.0,no
+44.0,male,no,5.04,copd,surgery,2.0,yes
+36.0,male,yes,1.8,lung cancer,surgery,2.0,yes
+80.0,female,yes,2.39,lung cancer,surgery,1.0,no
+31.0,female,no,2.65,copd,medication,5.0,no
+25.0,female,yes,4.25,pneumonia,therapy,2.0,no
+33.0,female,yes,1.62,lung cancer,surgery,10.0,no
+75.0,female,no,4.96,asthma,therapy,10.0,no
+68.0,female,no,3.89,lung cancer,medication,5.0,yes
+32.0,male,yes,4.23,copd,medication,2.0,no
+80.0,male,no,5.65,pneumonia,therapy,11.0,no
+65.0,male,yes,2.66,asthma,therapy,3.0,yes
+81.0,female,no,5.89,copd,therapy,8.0,yes
+62.0,female,no,2.62,bronchitis,therapy,12.0,yes
+39.0,male,no,3.32,lung cancer,medication,9.0,yes
+83.0,male,yes,5.79,pneumonia,therapy,7.0,yes
+28.0,female,no,1.95,pneumonia,therapy,12.0,no
+68.0,male,no,1.12,pneumonia,surgery,13.0,no
+60.0,female,yes,4.82,lung cancer,therapy,6.0,no
+36.0,male,yes,3.9,asthma,surgery,7.0,yes
+40.0,male,no,4.13,bronchitis,surgery,12.0,no
+70.0,male,no,1.26,lung cancer,therapy,6.0,yes
+58.0,female,no,1.37,lung cancer,medication,11.0,yes
+74.0,female,yes,2.44,pneumonia,therapy,13.0,no
+60.0,male,yes,4.14,lung cancer,surgery,2.0,no
+58.0,female,yes,3.83,pneumonia,surgery,13.0,no
+32.0,male,no,4.06,asthma,surgery,9.0,no
+83.0,female,yes,3.75,pneumonia,therapy,3.0,no
+30.0,female,no,2.37,copd,medication,6.0,no
+65.0,male,yes,5.25,lung cancer,therapy,13.0,yes
+64.0,female,yes,4.08,copd,medication,4.0,no
+59.0,male,yes,1.89,asthma,therapy,1.0,no
+80.0,male,no,4.71,pneumonia,therapy,12.0,no
+31.0,female,no,4.3,bronchitis,surgery,9.0,no
+64.0,male,no,5.9,asthma,therapy,13.0,no
+88.0,female,yes,4.99,asthma,surgery,1.0,no
+27.0,female,yes,2.51,asthma,surgery,3.0,yes
+44.0,male,yes,5.24,bronchitis,therapy,12.0,yes
+65.0,male,yes,4.79,bronchitis,surgery,5.0,no
+66.0,male,yes,3.13,copd,therapy,5.0,no
+68.0,female,no,1.93,bronchitis,medication,7.0,yes
+37.0,male,yes,4.61,bronchitis,surgery,1.0,yes
+85.0,male,no,2.34,asthma,surgery,5.0,yes
+87.0,male,no,5.1,copd,therapy,3.0,no
+55.0,male,no,1.38,bronchitis,medication,11.0,no
+47.0,male,yes,5.01,pneumonia,therapy,6.0,yes
+59.0,female,yes,4.94,pneumonia,medication,14.0,no
+60.0,male,yes,2.74,lung cancer,therapy,3.0,yes
+58.0,female,yes,3.27,bronchitis,surgery,1.0,yes
+21.0,male,no,3.97,lung cancer,medication,7.0,yes
+85.0,female,yes,5.62,asthma,surgery,3.0,no
+29.0,female,yes,5.95,bronchitis,medication,10.0,yes
+33.0,male,yes,4.35,lung cancer,medication,9.0,yes
+70.0,female,no,3.32,bronchitis,medication,5.0,no
+58.0,female,no,4.07,asthma,medication,1.0,no
+89.0,female,no,1.57,copd,medication,6.0,yes
+46.0,female,yes,1.57,lung cancer,medication,10.0,yes
+21.0,male,no,2.74,pneumonia,therapy,3.0,no
+57.0,male,yes,4.81,bronchitis,surgery,11.0,no
+59.0,male,no,5.26,asthma,surgery,5.0,yes
+60.0,male,no,5.8,bronchitis,therapy,6.0,yes
+31.0,male,yes,4.35,lung cancer,therapy,10.0,no
+74.0,male,yes,4.24,pneumonia,surgery,3.0,yes
+64.0,male,yes,1.14,copd,therapy,10.0,no
+81.0,male,no,1.07,asthma,medication,12.0,no
+68.0,male,no,1.65,asthma,surgery,1.0,yes
+44.0,female,no,2.26,lung cancer,medication,6.0,yes
+42.0,male,yes,3.15,asthma,therapy,14.0,no
+57.0,female,yes,1.69,bronchitis,medication,1.0,yes
+47.0,male,yes,4.37,bronchitis,surgery,10.0,yes
+40.0,female,no,3.98,pneumonia,therapy,12.0,yes
+73.0,male,no,2.47,pneumonia,therapy,3.0,no
+37.0,female,yes,1.07,asthma,therapy,12.0,yes
+55.0,female,yes,1.39,pneumonia,medication,8.0,no
+64.0,male,no,2.96,pneumonia,surgery,7.0,yes
+72.0,female,no,1.77,lung cancer,surgery,8.0,yes
+79.0,male,yes,4.14,copd,therapy,10.0,yes
+51.0,female,yes,3.74,copd,medication,2.0,yes
+47.0,male,yes,4.07,bronchitis,medication,14.0,no
+63.0,female,no,5.3,lung cancer,therapy,4.0,yes
+60.0,female,yes,4.77,asthma,therapy,1.0,yes
+82.0,female,no,3.77,bronchitis,surgery,11.0,yes
+67.0,female,yes,2.83,lung cancer,medication,5.0,yes
+51.0,female,yes,5.4,lung cancer,surgery,14.0,no
+76.0,female,no,1.2,copd,medication,10.0,no
+52.0,female,yes,5.94,copd,surgery,8.0,no
+58.0,female,yes,4.41,lung cancer,medication,2.0,no
+53.0,male,yes,1.19,lung cancer,medication,8.0,yes
+47.0,female,no,3.42,lung cancer,therapy,9.0,no
+56.0,female,yes,1.53,copd,medication,10.0,no
+87.0,male,no,5.45,copd,medication,13.0,yes
+56.0,male,no,3.75,bronchitis,surgery,1.0,yes
+75.0,female,yes,3.07,lung cancer,medication,14.0,yes
+84.0,female,no,1.36,asthma,medication,2.0,no
+84.0,female,no,4.57,copd,therapy,4.0,yes
+38.0,male,no,3.55,lung cancer,therapy,1.0,no
+48.0,male,yes,3.17,copd,medication,4.0,no
+79.0,male,no,3.97,copd,medication,11.0,no
+37.0,female,yes,2.17,copd,surgery,13.0,no
+54.0,female,no,5.71,asthma,therapy,11.0,yes
+62.0,male,no,3.94,bronchitis,therapy,2.0,yes
+68.0,male,no,3.25,bronchitis,surgery,5.0,yes
+57.0,male,no,5.03,copd,therapy,1.0,yes
+88.0,female,yes,2.46,asthma,therapy,8.0,yes
+53.0,male,yes,2.58,pneumonia,surgery,2.0,yes
+67.0,male,yes,4.96,lung cancer,medication,11.0,yes
+75.0,male,yes,1.65,lung cancer,surgery,3.0,yes
+84.0,female,no,4.81,bronchitis,therapy,3.0,no
+50.0,female,yes,1.34,lung cancer,medication,4.0,no
+23.0,female,yes,1.06,asthma,therapy,7.0,yes
+69.0,male,yes,5.49,copd,therapy,13.0,no
+49.0,male,no,2.76,bronchitis,therapy,3.0,yes
+78.0,female,yes,2.16,copd,medication,1.0,no
+64.0,female,no,3.55,lung cancer,surgery,10.0,no
+23.0,male,no,5.96,lung cancer,medication,1.0,yes
+65.0,male,yes,3.21,asthma,therapy,6.0,no
+83.0,male,no,3.46,pneumonia,therapy,5.0,no
+70.0,male,no,4.41,asthma,therapy,10.0,yes
+78.0,male,yes,1.38,asthma,medication,3.0,yes
+54.0,female,yes,2.68,copd,surgery,5.0,no
+87.0,female,yes,3.75,copd,medication,13.0,no
+48.0,female,yes,4.07,pneumonia,surgery,8.0,yes
+66.0,male,yes,1.56,bronchitis,therapy,14.0,no
+56.0,female,no,5.49,copd,surgery,10.0,yes
+68.0,male,no,2.67,lung cancer,surgery,7.0,yes
+32.0,male,no,5.96,bronchitis,medication,11.0,yes
+53.0,female,yes,1.51,lung cancer,medication,12.0,no
+61.0,male,yes,1.45,copd,therapy,1.0,yes
+51.0,male,no,1.57,copd,therapy,8.0,yes
+70.0,female,yes,1.17,pneumonia,therapy,14.0,no
+40.0,male,yes,2.05,pneumonia,medication,3.0,no
+63.0,female,yes,5.85,pneumonia,therapy,9.0,yes
+30.0,female,no,4.34,asthma,surgery,4.0,yes
+20.0,male,yes,4.88,copd,medication,13.0,yes
+82.0,male,no,3.68,bronchitis,medication,9.0,no
+43.0,male,yes,4.99,asthma,therapy,1.0,yes
+32.0,female,no,3.98,bronchitis,therapy,8.0,yes
+70.0,male,no,3.81,pneumonia,medication,11.0,no
+36.0,male,no,3.67,bronchitis,medication,7.0,yes
+38.0,female,no,5.91,pneumonia,surgery,13.0,no
+56.0,male,no,3.06,lung cancer,surgery,7.0,yes
+27.0,female,yes,4.82,asthma,surgery,7.0,yes
+55.0,female,no,1.2,pneumonia,therapy,5.0,yes
+38.0,female,yes,2.82,pneumonia,therapy,10.0,yes
+83.0,female,yes,4.05,copd,surgery,9.0,no
+64.0,female,yes,1.39,copd,medication,3.0,yes
+66.0,female,yes,5.65,lung cancer,surgery,11.0,no
+31.0,female,no,4.54,pneumonia,surgery,12.0,yes
+40.0,male,yes,2.65,lung cancer,therapy,10.0,yes
+30.0,male,yes,2.95,bronchitis,therapy,8.0,yes
+24.0,female,no,4.7,asthma,surgery,9.0,yes
+75.0,male,yes,4.01,lung cancer,surgery,2.0,yes
+39.0,female,no,4.36,copd,medication,3.0,no
+31.0,female,yes,5.95,pneumonia,surgery,8.0,no
+89.0,female,yes,2.07,asthma,medication,2.0,yes
+36.0,female,no,3.09,lung cancer,surgery,8.0,yes
+67.0,female,yes,4.82,lung cancer,medication,14.0,yes
+89.0,female,no,1.41,lung cancer,therapy,12.0,yes
+74.0,female,no,1.06,lung cancer,surgery,4.0,yes
+52.0,male,yes,3.14,copd,surgery,3.0,yes
+81.0,male,yes,3.05,pneumonia,medication,8.0,yes
+34.0,male,no,3.35,copd,therapy,13.0,yes
+46.0,female,no,2.28,pneumonia,medication,8.0,no
+83.0,female,yes,5.46,lung cancer,surgery,9.0,no
+70.0,male,yes,3.46,asthma,medication,1.0,yes
+72.0,male,no,4.0,pneumonia,therapy,5.0,yes
+70.0,male,no,1.48,asthma,therapy,12.0,no
+26.0,male,yes,3.95,bronchitis,surgery,14.0,yes
+54.0,male,no,2.72,pneumonia,surgery,11.0,yes
+64.0,male,no,5.55,copd,surgery,12.0,no
+38.0,male,no,2.37,asthma,surgery,11.0,no
+57.0,female,yes,5.79,copd,therapy,4.0,no
+78.0,male,yes,4.6,copd,therapy,5.0,no
+88.0,female,no,4.07,lung cancer,medication,1.0,yes
+50.0,male,yes,4.42,asthma,surgery,5.0,yes
+41.0,female,no,2.08,copd,therapy,6.0,no
+62.0,male,no,3.1,bronchitis,medication,1.0,no
+86.0,male,no,1.94,copd,therapy,12.0,yes
+73.0,female,yes,1.04,lung cancer,surgery,3.0,yes
+83.0,female,no,5.85,bronchitis,therapy,7.0,yes
+40.0,male,yes,1.7,bronchitis,surgery,10.0,yes
+43.0,male,yes,4.95,lung cancer,surgery,14.0,no
+54.0,male,no,4.92,asthma,medication,3.0,yes
+75.0,male,yes,1.56,copd,therapy,1.0,yes
+54.0,female,no,5.93,pneumonia,therapy,11.0,yes
+38.0,female,no,5.41,asthma,therapy,3.0,yes
+45.0,male,no,2.71,asthma,therapy,4.0,yes
+49.0,male,yes,1.53,bronchitis,medication,12.0,no
+20.0,female,yes,2.71,pneumonia,therapy,1.0,yes
+34.0,male,no,4.31,copd,medication,11.0,yes
+56.0,male,no,3.33,bronchitis,medication,6.0,yes
+27.0,female,yes,1.78,asthma,surgery,13.0,yes
+24.0,male,yes,4.95,copd,surgery,4.0,no
+79.0,male,no,1.32,asthma,medication,2.0,no
+20.0,female,yes,1.97,lung cancer,therapy,1.0,no
+85.0,female,yes,2.26,bronchitis,medication,5.0,no
+82.0,female,no,2.64,bronchitis,surgery,12.0,no
+42.0,female,no,3.69,bronchitis,medication,9.0,no
+28.0,male,no,2.06,asthma,surgery,14.0,no
+53.0,female,no,5.06,pneumonia,therapy,7.0,no
+65.0,female,no,4.87,bronchitis,therapy,4.0,yes
+23.0,male,yes,1.73,bronchitis,surgery,8.0,no
+22.0,female,no,4.87,lung cancer,surgery,4.0,yes
+64.0,male,yes,1.25,lung cancer,therapy,1.0,no
+53.0,female,no,4.04,bronchitis,therapy,14.0,yes
+64.0,female,yes,1.76,pneumonia,surgery,6.0,yes
+80.0,male,yes,5.15,copd,surgery,10.0,yes
+85.0,male,yes,2.41,pneumonia,therapy,14.0,no
+36.0,male,yes,1.25,asthma,medication,1.0,yes
+85.0,female,yes,4.75,bronchitis,medication,9.0,yes
+32.0,female,no,1.32,lung cancer,surgery,9.0,yes
+75.0,female,no,4.57,asthma,therapy,1.0,yes
+58.0,female,no,2.56,bronchitis,medication,4.0,yes
+86.0,male,no,3.87,copd,medication,3.0,no
+27.0,female,no,3.5,bronchitis,surgery,5.0,yes
+46.0,male,yes,3.28,bronchitis,therapy,8.0,yes
+58.0,female,no,4.78,bronchitis,medication,2.0,yes
+84.0,female,yes,3.26,bronchitis,medication,11.0,yes
+36.0,male,yes,5.79,copd,medication,1.0,yes
+49.0,male,no,2.3,bronchitis,surgery,13.0,no
+72.0,female,yes,4.41,lung cancer,surgery,3.0,yes
+72.0,female,yes,5.14,lung cancer,surgery,9.0,no
+38.0,male,yes,2.8,bronchitis,medication,5.0,yes
+76.0,male,no,4.0,pneumonia,surgery,4.0,yes
+44.0,male,no,1.78,bronchitis,therapy,10.0,no
+50.0,female,yes,3.68,asthma,therapy,9.0,no
+74.0,female,yes,2.15,copd,medication,4.0,yes
+51.0,male,yes,3.64,copd,surgery,14.0,yes
+81.0,female,no,3.06,pneumonia,therapy,10.0,no
+29.0,male,yes,2.34,bronchitis,surgery,1.0,no
+73.0,male,no,5.99,pneumonia,medication,13.0,yes
+71.0,male,no,1.36,copd,medication,2.0,no
+39.0,male,yes,1.22,bronchitis,surgery,4.0,no
+51.0,male,yes,2.09,pneumonia,surgery,9.0,yes
+33.0,male,yes,5.86,asthma,therapy,6.0,yes
+69.0,female,yes,5.9,asthma,surgery,6.0,yes
+47.0,male,no,4.27,lung cancer,medication,11.0,no
+72.0,female,yes,5.4,asthma,surgery,9.0,no
+41.0,female,yes,5.86,copd,therapy,4.0,no
+49.0,female,no,1.71,asthma,surgery,3.0,no
+78.0,male,no,3.87,asthma,medication,7.0,yes
+27.0,male,yes,4.9,asthma,surgery,9.0,no
+50.0,male,yes,5.89,asthma,medication,2.0,no
+53.0,female,yes,3.17,asthma,therapy,6.0,yes
+68.0,female,yes,1.75,lung cancer,medication,8.0,no
+76.0,female,no,3.33,copd,surgery,6.0,yes
+45.0,male,yes,4.4,asthma,surgery,9.0,yes
+57.0,male,yes,3.29,copd,medication,3.0,no
+69.0,female,yes,3.97,copd,surgery,11.0,yes
+88.0,female,no,1.25,lung cancer,medication,12.0,yes
+83.0,female,yes,3.81,lung cancer,therapy,2.0,no
+48.0,male,no,2.26,bronchitis,medication,4.0,no
+47.0,male,no,5.77,lung cancer,medication,3.0,no
+30.0,male,yes,3.42,copd,surgery,9.0,no
+38.0,male,no,1.91,lung cancer,medication,7.0,yes
+28.0,male,no,2.22,bronchitis,medication,6.0,no
+46.0,male,no,5.16,bronchitis,medication,10.0,no
+63.0,female,no,5.57,copd,surgery,8.0,yes
+87.0,female,yes,2.16,asthma,medication,9.0,no
+32.0,male,yes,3.54,bronchitis,medication,10.0,no
+68.0,female,no,5.99,pneumonia,surgery,7.0,no
+89.0,female,yes,4.47,lung cancer,medication,9.0,yes
+70.0,male,no,5.38,lung cancer,therapy,10.0,no
+36.0,female,no,1.08,bronchitis,surgery,14.0,yes
+77.0,male,yes,5.08,copd,therapy,7.0,no
+79.0,male,yes,2.13,bronchitis,therapy,4.0,no
+74.0,female,no,3.34,copd,surgery,13.0,yes
+66.0,male,yes,2.44,bronchitis,surgery,12.0,yes
+42.0,male,no,1.86,copd,surgery,6.0,yes
+40.0,male,yes,4.81,asthma,medication,11.0,yes
+43.0,male,no,2.48,lung cancer,therapy,6.0,yes
+30.0,male,no,2.22,copd,medication,2.0,yes
+87.0,male,no,1.68,pneumonia,therapy,7.0,no
+44.0,male,no,4.03,pneumonia,surgery,3.0,yes
+40.0,male,yes,4.53,pneumonia,therapy,11.0,no
+31.0,male,no,4.4,pneumonia,medication,12.0,yes
+56.0,female,yes,2.46,lung cancer,medication,5.0,no
+36.0,male,no,4.41,copd,medication,8.0,yes
+67.0,female,yes,2.75,copd,surgery,11.0,no
+47.0,female,yes,2.06,asthma,surgery,5.0,no
+37.0,female,no,1.44,pneumonia,surgery,3.0,no
+32.0,male,no,5.15,lung cancer,therapy,9.0,yes
+32.0,female,yes,5.27,pneumonia,medication,11.0,no
+50.0,female,yes,2.1,pneumonia,surgery,3.0,no
+21.0,female,yes,1.32,pneumonia,surgery,2.0,yes
+35.0,male,yes,4.69,bronchitis,therapy,6.0,no
+57.0,male,yes,2.97,lung cancer,medication,6.0,no
+64.0,male,yes,4.96,lung cancer,surgery,1.0,no
+28.0,male,no,2.04,pneumonia,medication,8.0,no
+27.0,male,no,2.68,lung cancer,surgery,6.0,yes
+37.0,male,yes,5.96,copd,surgery,9.0,yes
+47.0,male,yes,3.71,asthma,medication,13.0,no
+73.0,female,no,1.93,copd,therapy,6.0,yes
+84.0,male,no,2.88,lung cancer,therapy,7.0,no
+40.0,male,yes,5.91,bronchitis,surgery,1.0,no
+76.0,male,yes,5.78,copd,medication,6.0,yes
+68.0,female,yes,2.01,lung cancer,therapy,5.0,no
+73.0,male,no,5.32,asthma,therapy,12.0,yes
+29.0,female,yes,2.61,asthma,therapy,10.0,yes
+63.0,female,yes,1.79,copd,therapy,3.0,no
+72.0,male,yes,4.96,asthma,therapy,4.0,no
+32.0,female,no,3.34,lung cancer,surgery,12.0,no
+29.0,female,no,5.21,pneumonia,medication,8.0,no
+44.0,female,no,3.02,copd,surgery,10.0,no
+22.0,female,yes,1.08,bronchitis,surgery,9.0,yes
+48.0,male,no,1.95,asthma,therapy,3.0,no
+44.0,male,yes,4.27,pneumonia,surgery,6.0,yes
+84.0,female,no,2.57,bronchitis,therapy,1.0,no
+66.0,female,no,4.31,bronchitis,surgery,11.0,no
+77.0,female,no,4.61,asthma,medication,14.0,yes
+46.0,female,no,2.28,copd,medication,5.0,yes
+72.0,male,yes,1.45,bronchitis,therapy,3.0,yes
+78.0,male,no,3.13,lung cancer,surgery,13.0,yes
+66.0,female,yes,5.73,pneumonia,therapy,9.0,no
+53.0,female,yes,2.09,bronchitis,therapy,7.0,no
+56.0,male,yes,2.28,lung cancer,therapy,8.0,no
+25.0,female,no,1.5,pneumonia,therapy,3.0,yes
+26.0,female,yes,4.03,copd,therapy,3.0,yes
+44.0,male,yes,4.4,copd,surgery,14.0,yes
+52.0,female,yes,4.21,bronchitis,surgery,7.0,yes
+74.0,male,yes,5.31,bronchitis,medication,8.0,no
+26.0,female,yes,1.67,bronchitis,therapy,5.0,yes
+76.0,male,yes,2.45,lung cancer,surgery,1.0,yes
+31.0,female,yes,4.31,lung cancer,surgery,3.0,no
+35.0,male,yes,4.07,pneumonia,surgery,5.0,yes
+62.0,male,yes,3.66,lung cancer,medication,3.0,yes
+26.0,male,no,4.41,copd,medication,14.0,no
+70.0,female,yes,4.19,pneumonia,therapy,1.0,yes
+51.0,female,no,5.41,lung cancer,therapy,7.0,yes
+27.0,male,yes,3.93,bronchitis,medication,1.0,yes
+78.0,female,no,2.24,asthma,surgery,13.0,yes
+23.0,female,yes,4.39,pneumonia,medication,6.0,yes
+48.0,male,no,4.9,copd,therapy,7.0,no
+47.0,female,yes,4.62,bronchitis,surgery,12.0,no
+63.0,female,no,1.3,bronchitis,therapy,11.0,no
+23.0,male,no,3.91,copd,surgery,1.0,no
+28.0,female,yes,1.65,copd,therapy,11.0,no
+69.0,male,no,1.55,bronchitis,medication,9.0,no
+47.0,female,yes,2.72,pneumonia,medication,5.0,yes
+36.0,male,no,3.71,asthma,medication,12.0,no
+78.0,male,no,2.94,pneumonia,medication,12.0,no
+44.0,male,no,5.58,bronchitis,therapy,7.0,yes
+29.0,male,yes,4.78,copd,medication,1.0,yes
+72.0,male,no,2.32,bronchitis,therapy,13.0,no
+87.0,male,no,2.04,bronchitis,medication,6.0,yes
+47.0,male,yes,4.83,copd,surgery,7.0,yes
+84.0,male,yes,5.74,bronchitis,surgery,10.0,yes
+66.0,female,yes,5.41,lung cancer,medication,4.0,yes
+71.0,female,no,4.19,copd,therapy,6.0,yes
+73.0,male,yes,2.94,asthma,medication,5.0,no
+79.0,female,yes,3.13,bronchitis,surgery,11.0,yes
+76.0,female,yes,1.38,bronchitis,medication,9.0,yes
+66.0,male,no,1.16,bronchitis,therapy,13.0,no
+50.0,male,no,4.48,copd,surgery,12.0,no
+65.0,male,no,3.19,pneumonia,medication,1.0,no
+45.0,female,no,3.76,copd,therapy,13.0,yes
+73.0,male,yes,3.38,bronchitis,therapy,1.0,yes
+52.0,female,no,3.35,lung cancer,surgery,8.0,yes
+34.0,female,yes,4.02,asthma,medication,4.0,yes
+88.0,female,yes,2.35,bronchitis,therapy,2.0,yes
+25.0,male,yes,1.17,bronchitis,therapy,7.0,no
+57.0,female,yes,2.31,lung cancer,surgery,13.0,no
+81.0,male,no,5.55,pneumonia,surgery,13.0,no
+32.0,female,yes,1.41,bronchitis,medication,11.0,no
+25.0,female,yes,1.78,copd,medication,3.0,no
+27.0,male,no,4.15,pneumonia,therapy,3.0,no
+30.0,female,yes,2.01,pneumonia,therapy,5.0,no
+89.0,female,yes,2.2,copd,surgery,5.0,no
+60.0,female,no,2.79,bronchitis,medication,7.0,no
+35.0,male,no,5.57,asthma,medication,1.0,no
+87.0,male,yes,3.88,bronchitis,medication,9.0,yes
+67.0,male,no,4.69,lung cancer,surgery,1.0,yes
+37.0,male,yes,2.08,pneumonia,medication,1.0,yes
+38.0,male,no,4.61,copd,therapy,12.0,no
+74.0,female,yes,5.05,asthma,surgery,14.0,no
+25.0,female,yes,4.73,pneumonia,surgery,11.0,no
+23.0,male,yes,3.02,lung cancer,medication,13.0,no
+48.0,female,no,4.39,pneumonia,medication,6.0,no
+36.0,female,yes,5.96,lung cancer,surgery,10.0,no
+62.0,female,yes,2.73,pneumonia,surgery,11.0,no
+85.0,female,no,3.06,asthma,surgery,5.0,no
+27.0,male,no,2.02,asthma,surgery,10.0,no
+84.0,male,yes,2.97,asthma,medication,2.0,yes
+58.0,female,no,2.43,asthma,medication,13.0,yes
+78.0,male,no,3.28,bronchitis,surgery,4.0,no
+63.0,female,yes,2.45,asthma,surgery,6.0,yes
+28.0,male,yes,2.17,copd,therapy,12.0,yes
+56.0,female,yes,4.68,pneumonia,therapy,5.0,yes
+47.0,male,yes,3.7,pneumonia,surgery,4.0,yes
+61.0,female,yes,4.97,asthma,therapy,8.0,yes
+62.0,male,no,2.33,copd,surgery,12.0,yes
+61.0,female,yes,4.02,pneumonia,medication,7.0,yes
+85.0,male,yes,4.34,bronchitis,surgery,14.0,yes
+74.0,female,yes,4.28,asthma,surgery,4.0,no
+67.0,male,yes,3.23,asthma,medication,10.0,yes
+41.0,male,yes,2.73,bronchitis,medication,13.0,yes
+86.0,male,yes,4.79,lung cancer,therapy,5.0,yes
+32.0,female,no,2.61,asthma,therapy,12.0,yes
+64.0,female,yes,1.52,bronchitis,therapy,10.0,yes
+29.0,male,no,1.36,lung cancer,medication,5.0,yes
+28.0,male,no,1.47,asthma,therapy,3.0,no
+73.0,male,no,3.91,pneumonia,medication,13.0,no
+86.0,female,yes,4.82,bronchitis,medication,13.0,no
+54.0,male,yes,2.23,asthma,surgery,2.0,yes
+72.0,female,no,2.05,bronchitis,medication,4.0,no
+87.0,female,yes,3.61,bronchitis,surgery,5.0,yes
+84.0,female,yes,5.61,pneumonia,medication,8.0,no
+20.0,male,yes,4.2,bronchitis,medication,5.0,no
+77.0,female,no,1.86,pneumonia,therapy,1.0,yes
+45.0,male,yes,4.41,lung cancer,surgery,2.0,no
+39.0,female,yes,3.14,bronchitis,therapy,3.0,no
+29.0,male,no,3.96,pneumonia,medication,3.0,no
+78.0,female,yes,4.67,bronchitis,medication,10.0,yes
+60.0,male,no,3.57,asthma,surgery,6.0,yes
+41.0,female,yes,1.75,copd,surgery,6.0,no
+60.0,male,no,5.18,pneumonia,therapy,9.0,yes
+88.0,female,yes,1.68,pneumonia,therapy,10.0,yes
+30.0,female,yes,3.44,asthma,therapy,3.0,no
+79.0,male,yes,1.9,asthma,surgery,5.0,no
+66.0,female,yes,4.99,lung cancer,medication,1.0,yes
+45.0,male,yes,3.28,pneumonia,medication,13.0,yes
+23.0,female,no,4.31,asthma,therapy,5.0,yes
+42.0,female,no,3.75,copd,surgery,3.0,no
+34.0,female,yes,1.61,copd,medication,7.0,yes
+27.0,female,no,1.56,asthma,surgery,13.0,no
+38.0,female,no,4.72,asthma,therapy,5.0,yes
+65.0,male,no,4.56,pneumonia,surgery,6.0,no
+87.0,male,no,3.8,copd,medication,11.0,yes
+34.0,female,yes,1.42,pneumonia,therapy,12.0,no
+56.0,female,yes,5.52,copd,therapy,14.0,no
+20.0,female,yes,5.54,bronchitis,medication,7.0,no
+43.0,female,yes,5.63,asthma,surgery,7.0,yes
+59.0,male,yes,5.14,bronchitis,medication,10.0,no
+82.0,female,no,3.85,lung cancer,therapy,11.0,no
+80.0,male,yes,2.53,bronchitis,surgery,14.0,yes
+55.0,female,no,2.09,bronchitis,medication,6.0,yes
+43.0,male,yes,2.64,lung cancer,therapy,5.0,yes
+43.0,male,yes,4.14,lung cancer,therapy,4.0,yes
+23.0,male,yes,1.86,bronchitis,medication,6.0,no
+76.0,male,no,2.17,bronchitis,medication,3.0,no
+68.0,female,no,3.94,copd,surgery,3.0,no
+42.0,female,yes,4.74,lung cancer,surgery,11.0,no
+88.0,female,yes,4.33,copd,medication,5.0,yes
+81.0,male,no,3.44,asthma,therapy,4.0,yes
+29.0,male,no,2.86,lung cancer,surgery,7.0,no
+59.0,male,yes,1.14,pneumonia,medication,7.0,no
+26.0,female,yes,1.69,pneumonia,therapy,8.0,no
+57.0,male,no,1.87,bronchitis,medication,4.0,no
+80.0,female,no,1.27,asthma,surgery,4.0,yes
+22.0,female,yes,4.28,bronchitis,medication,14.0,no
+70.0,female,no,5.19,copd,surgery,14.0,no
+87.0,male,yes,5.37,bronchitis,therapy,10.0,yes
+57.0,female,no,2.07,lung cancer,medication,7.0,yes
+88.0,female,no,4.1,bronchitis,medication,9.0,yes
+49.0,female,yes,3.73,asthma,medication,1.0,no
+44.0,male,yes,5.68,asthma,therapy,6.0,yes
+46.0,female,no,2.5,copd,medication,11.0,no
+58.0,female,no,1.89,lung cancer,surgery,3.0,yes
+35.0,male,yes,2.88,lung cancer,medication,6.0,yes
+41.0,male,yes,3.34,bronchitis,medication,8.0,no
+40.0,female,yes,1.89,lung cancer,therapy,13.0,yes
+35.0,male,no,5.62,pneumonia,therapy,12.0,yes
+50.0,female,yes,3.41,asthma,therapy,5.0,yes
+51.0,female,yes,5.49,lung cancer,medication,6.0,yes
+53.0,male,no,2.25,lung cancer,surgery,10.0,yes
+28.0,male,no,3.71,copd,surgery,7.0,yes
+36.0,male,yes,5.92,lung cancer,therapy,11.0,no
+84.0,female,no,5.78,copd,therapy,8.0,yes
+82.0,female,no,3.07,lung cancer,surgery,5.0,yes
+70.0,female,no,5.76,copd,medication,5.0,yes
+55.0,male,yes,5.12,asthma,medication,7.0,no
+34.0,male,no,4.37,copd,surgery,4.0,no
+20.0,male,yes,1.29,pneumonia,surgery,3.0,yes
+42.0,male,no,4.48,lung cancer,medication,2.0,yes
+53.0,female,yes,5.12,lung cancer,therapy,7.0,yes
+60.0,male,no,2.19,pneumonia,medication,10.0,no
+32.0,female,yes,2.62,pneumonia,therapy,6.0,yes
+25.0,female,no,3.98,lung cancer,surgery,13.0,yes
+71.0,female,yes,2.44,lung cancer,surgery,14.0,no
+22.0,female,yes,3.96,pneumonia,medication,6.0,yes
+82.0,male,yes,2.49,lung cancer,surgery,7.0,no
+66.0,male,yes,1.01,asthma,surgery,10.0,yes
+83.0,female,no,4.96,lung cancer,medication,2.0,yes
+84.0,female,no,5.81,copd,therapy,6.0,yes
+86.0,female,yes,3.13,bronchitis,surgery,9.0,no
+51.0,male,yes,1.73,lung cancer,surgery,3.0,yes
+54.0,male,no,5.67,asthma,surgery,14.0,yes
+33.0,male,no,1.12,pneumonia,therapy,5.0,yes
+23.0,male,yes,2.76,bronchitis,surgery,6.0,no
+78.0,female,no,1.87,pneumonia,surgery,11.0,no
+25.0,male,no,3.09,pneumonia,medication,10.0,yes
+68.0,male,yes,2.5,copd,therapy,11.0,yes
+46.0,female,yes,1.96,copd,surgery,11.0,no
+25.0,male,no,2.35,copd,surgery,5.0,no
+32.0,female,yes,5.27,pneumonia,medication,12.0,yes
+38.0,male,no,1.75,asthma,therapy,10.0,no
+39.0,female,yes,2.39,bronchitis,medication,4.0,no
+87.0,male,yes,5.72,bronchitis,surgery,13.0,yes
+63.0,male,no,5.42,lung cancer,therapy,9.0,yes
+42.0,male,yes,1.42,asthma,medication,1.0,no
+21.0,male,yes,3.58,pneumonia,therapy,3.0,yes
+41.0,female,yes,2.13,pneumonia,surgery,3.0,yes
+76.0,male,yes,3.05,asthma,medication,13.0,no
+75.0,female,yes,3.64,copd,surgery,6.0,no
+35.0,female,no,2.04,pneumonia,medication,3.0,yes
+70.0,female,no,5.0,asthma,medication,4.0,yes
+24.0,female,no,2.09,lung cancer,medication,3.0,no
+31.0,male,no,5.8,copd,medication,8.0,no
+36.0,female,yes,3.6,bronchitis,medication,13.0,yes
+25.0,female,yes,3.0,copd,medication,2.0,yes
+24.0,male,yes,3.61,lung cancer,surgery,5.0,no
+47.0,female,yes,2.7,bronchitis,surgery,4.0,yes
+88.0,male,no,1.89,bronchitis,therapy,12.0,yes
+52.0,female,no,4.33,copd,therapy,5.0,yes
+81.0,female,yes,4.56,pneumonia,medication,3.0,yes
+69.0,female,no,5.41,lung cancer,medication,10.0,no
+38.0,female,no,2.86,copd,surgery,11.0,no
+88.0,male,yes,1.38,lung cancer,surgery,1.0,yes
+85.0,male,no,5.79,copd,surgery,8.0,no
+58.0,female,no,4.12,lung cancer,therapy,8.0,yes
+87.0,female,yes,4.33,pneumonia,surgery,4.0,no
+52.0,female,no,3.73,lung cancer,surgery,12.0,yes
+26.0,female,no,5.02,lung cancer,medication,14.0,yes
+33.0,female,no,3.76,lung cancer,therapy,9.0,yes
+38.0,male,no,3.44,pneumonia,surgery,10.0,no
+39.0,female,yes,1.42,lung cancer,therapy,5.0,yes
+48.0,male,no,1.84,copd,medication,12.0,yes
+36.0,female,yes,5.89,lung cancer,therapy,10.0,yes
+85.0,female,yes,2.88,copd,therapy,14.0,yes
+25.0,male,no,1.53,lung cancer,medication,12.0,yes
+77.0,female,no,3.47,pneumonia,medication,9.0,no
+47.0,female,yes,5.44,lung cancer,therapy,3.0,yes
+81.0,female,yes,1.05,asthma,therapy,12.0,yes
+60.0,male,no,5.43,copd,surgery,13.0,no
+88.0,female,yes,2.36,copd,surgery,7.0,yes
+60.0,female,no,1.19,copd,surgery,13.0,no
+68.0,female,yes,5.32,pneumonia,medication,2.0,yes
+22.0,female,no,3.98,lung cancer,medication,4.0,yes
+21.0,female,no,4.93,lung cancer,therapy,5.0,no
+57.0,male,no,3.76,asthma,therapy,7.0,no
+41.0,female,no,5.84,bronchitis,surgery,5.0,yes
+45.0,female,no,5.98,bronchitis,therapy,13.0,yes
+74.0,female,yes,5.25,copd,therapy,3.0,yes
+58.0,male,no,3.5,lung cancer,medication,13.0,no
+39.0,male,no,4.07,pneumonia,medication,10.0,yes
+60.0,female,yes,1.28,lung cancer,medication,11.0,yes
+73.0,female,yes,3.53,asthma,therapy,4.0,yes
+39.0,female,no,5.35,bronchitis,therapy,3.0,yes
+85.0,male,no,3.13,lung cancer,surgery,3.0,no
+49.0,male,yes,5.7,bronchitis,surgery,13.0,no
+72.0,female,no,3.14,asthma,therapy,12.0,yes
+53.0,male,yes,2.79,copd,medication,10.0,yes
+86.0,female,yes,3.6,lung cancer,therapy,11.0,no
+67.0,female,yes,5.09,copd,therapy,13.0,no
+89.0,male,no,3.67,asthma,surgery,7.0,no
+78.0,male,no,4.29,asthma,therapy,3.0,no
+48.0,male,no,3.79,bronchitis,surgery,11.0,no
+87.0,female,no,1.28,bronchitis,medication,3.0,yes
+29.0,female,yes,2.41,lung cancer,medication,11.0,no
+72.0,female,no,4.37,copd,surgery,14.0,no
+70.0,female,no,2.33,copd,therapy,3.0,yes
+67.0,female,no,2.55,copd,surgery,3.0,no
+40.0,male,yes,3.64,bronchitis,medication,8.0,no
+49.0,female,yes,5.42,bronchitis,surgery,7.0,no
+44.0,female,no,1.43,pneumonia,surgery,3.0,no
+84.0,male,no,5.25,copd,surgery,3.0,no
+64.0,female,no,4.08,asthma,medication,5.0,no
+87.0,male,no,2.46,pneumonia,surgery,1.0,no
+28.0,female,yes,5.87,pneumonia,surgery,6.0,yes
+20.0,male,no,2.71,bronchitis,medication,2.0,yes
+29.0,female,no,5.99,copd,surgery,2.0,yes
+55.0,female,no,1.02,bronchitis,therapy,14.0,no
+51.0,male,no,2.0,pneumonia,surgery,1.0,no
+25.0,male,yes,1.3,lung cancer,surgery,2.0,no
+57.0,male,yes,3.13,copd,medication,13.0,no
+46.0,male,yes,4.12,asthma,medication,7.0,no
+69.0,female,no,3.52,bronchitis,medication,9.0,no
+54.0,female,no,5.63,bronchitis,surgery,11.0,yes
+23.0,female,yes,4.54,asthma,medication,1.0,yes
+46.0,male,no,1.31,copd,surgery,8.0,yes
+45.0,female,no,1.18,bronchitis,therapy,1.0,no
+36.0,female,no,4.64,lung cancer,therapy,14.0,yes
+62.0,male,no,1.92,pneumonia,surgery,2.0,no
+71.0,male,no,1.03,copd,medication,9.0,no
+66.0,male,no,3.32,asthma,surgery,8.0,no
+82.0,male,yes,1.12,asthma,surgery,11.0,yes
+88.0,male,no,5.54,lung cancer,therapy,14.0,no
+62.0,female,no,3.59,copd,medication,13.0,no
+67.0,male,yes,1.37,copd,medication,8.0,no
+59.0,female,no,2.92,bronchitis,surgery,3.0,no
+80.0,male,yes,5.7,pneumonia,surgery,5.0,yes
+86.0,male,no,5.34,pneumonia,therapy,11.0,no
+81.0,male,yes,2.83,asthma,medication,12.0,yes
+77.0,male,no,1.22,lung cancer,therapy,8.0,yes
+35.0,male,no,1.09,asthma,medication,7.0,no
+67.0,male,yes,5.74,asthma,therapy,14.0,no
+57.0,female,no,1.05,lung cancer,therapy,10.0,no
+55.0,female,yes,5.9,asthma,medication,7.0,no
+78.0,female,yes,5.83,copd,surgery,1.0,yes
+82.0,male,no,1.8,bronchitis,medication,13.0,yes
+65.0,female,yes,1.91,pneumonia,surgery,7.0,no
+22.0,female,no,3.83,asthma,therapy,4.0,no
+27.0,male,yes,4.7,bronchitis,medication,3.0,yes
+79.0,female,yes,5.24,copd,medication,5.0,yes
+47.0,female,no,3.7,bronchitis,surgery,2.0,no
+73.0,female,yes,3.07,copd,surgery,8.0,no
+56.0,female,yes,5.89,pneumonia,medication,12.0,yes
+28.0,female,yes,3.91,bronchitis,medication,12.0,yes
+75.0,male,yes,5.33,lung cancer,therapy,9.0,no
+78.0,male,yes,5.77,asthma,therapy,5.0,no
+80.0,female,yes,3.74,copd,therapy,10.0,no
+77.0,male,yes,1.02,pneumonia,surgery,7.0,no
+79.0,male,yes,1.2,lung cancer,medication,1.0,no
+56.0,male,yes,2.27,copd,therapy,9.0,yes
+82.0,female,no,2.8,asthma,surgery,11.0,no
+41.0,male,no,3.1,pneumonia,therapy,14.0,no
+30.0,male,no,1.49,copd,medication,9.0,no
+77.0,female,no,1.21,asthma,surgery,11.0,no
+76.0,female,yes,4.37,lung cancer,therapy,1.0,yes
+26.0,male,yes,3.22,bronchitis,medication,12.0,no
+20.0,female,no,4.22,copd,therapy,4.0,no
+57.0,male,yes,1.89,asthma,surgery,5.0,yes
+48.0,female,no,3.8,bronchitis,medication,8.0,yes
+86.0,female,no,5.64,lung cancer,medication,3.0,yes
+66.0,male,no,3.04,copd,medication,8.0,no
+54.0,male,yes,5.99,bronchitis,therapy,14.0,no
+88.0,female,yes,1.21,copd,surgery,11.0,no
+20.0,male,yes,3.93,asthma,surgery,1.0,yes
+46.0,male,yes,2.38,bronchitis,medication,11.0,yes
+75.0,male,no,4.98,bronchitis,medication,11.0,yes
+42.0,female,yes,2.44,asthma,surgery,12.0,no
+40.0,male,yes,5.87,copd,surgery,8.0,yes
+80.0,female,yes,2.81,pneumonia,surgery,6.0,yes
+82.0,female,no,4.01,asthma,therapy,5.0,yes
+71.0,male,no,4.05,lung cancer,medication,9.0,no
+65.0,male,yes,4.37,copd,therapy,12.0,no
+51.0,female,no,3.02,asthma,medication,6.0,no
+74.0,male,no,5.31,lung cancer,medication,1.0,yes
+55.0,male,no,3.72,asthma,therapy,3.0,yes
+77.0,female,no,4.13,copd,surgery,13.0,yes
+58.0,female,no,5.08,pneumonia,surgery,6.0,no
+28.0,male,no,5.2,bronchitis,surgery,13.0,no
+54.0,female,no,2.36,pneumonia,therapy,8.0,no
+41.0,female,no,3.42,copd,therapy,2.0,yes
+24.0,female,no,2.14,lung cancer,therapy,10.0,yes
+61.0,female,yes,1.02,bronchitis,therapy,2.0,yes
+49.0,male,yes,5.84,asthma,therapy,1.0,no
+76.0,female,no,4.47,copd,medication,2.0,no
+48.0,female,no,3.01,lung cancer,surgery,5.0,no
+42.0,female,no,5.53,pneumonia,surgery,5.0,no
+36.0,female,no,1.82,asthma,surgery,7.0,yes
+37.0,male,no,3.31,copd,surgery,2.0,yes
+49.0,female,yes,2.0,lung cancer,therapy,8.0,yes
+51.0,female,no,4.87,copd,surgery,13.0,no
+55.0,male,no,2.94,asthma,therapy,6.0,yes
+53.0,male,yes,5.55,bronchitis,surgery,13.0,no
+66.0,female,yes,3.63,bronchitis,surgery,1.0,yes
+34.0,female,no,3.18,copd,therapy,3.0,yes
+47.0,male,no,3.91,copd,surgery,6.0,no
+43.0,male,yes,3.61,copd,medication,12.0,no
+28.0,male,yes,2.65,bronchitis,surgery,5.0,no
+66.0,female,no,3.71,lung cancer,surgery,3.0,yes
+52.0,male,no,5.79,asthma,therapy,6.0,no
+86.0,male,no,1.22,pneumonia,therapy,14.0,yes
+66.0,male,no,3.76,pneumonia,medication,9.0,yes
+48.0,female,yes,1.11,lung cancer,medication,12.0,yes
+32.0,female,yes,3.82,asthma,therapy,11.0,yes
+20.0,male,no,4.52,copd,medication,10.0,yes
+67.0,male,no,1.91,bronchitis,surgery,2.0,yes
+48.0,female,no,5.98,asthma,surgery,4.0,yes
+36.0,male,no,5.43,asthma,medication,7.0,no
+32.0,male,yes,1.33,copd,surgery,13.0,yes
+88.0,male,no,5.77,bronchitis,medication,6.0,no
+45.0,male,yes,2.41,asthma,therapy,1.0,yes
+68.0,male,yes,2.91,pneumonia,medication,9.0,no
+86.0,female,no,1.46,pneumonia,surgery,6.0,yes
+26.0,female,no,1.56,bronchitis,medication,6.0,no
+68.0,male,yes,5.72,copd,medication,12.0,no
+72.0,male,no,4.05,copd,therapy,10.0,yes
+84.0,male,yes,4.58,asthma,surgery,5.0,no
+36.0,female,no,2.31,asthma,medication,6.0,yes
+62.0,female,yes,1.23,pneumonia,medication,6.0,yes
+44.0,female,no,1.01,pneumonia,medication,7.0,no
+22.0,male,no,2.75,copd,medication,9.0,yes
+48.0,male,no,2.21,bronchitis,medication,5.0,no
+51.0,female,yes,1.31,lung cancer,surgery,5.0,no
+45.0,female,yes,1.9,asthma,therapy,4.0,yes
+35.0,male,yes,1.62,pneumonia,medication,10.0,no
+75.0,female,yes,3.97,lung cancer,medication,13.0,no
+84.0,female,no,3.72,lung cancer,surgery,2.0,no
+38.0,female,yes,2.98,copd,surgery,1.0,no
+85.0,female,no,1.94,pneumonia,therapy,10.0,no
+60.0,male,yes,3.81,lung cancer,therapy,13.0,yes
+64.0,male,no,4.46,asthma,therapy,9.0,no
+34.0,female,no,3.66,lung cancer,surgery,11.0,no
+22.0,male,no,3.17,bronchitis,therapy,8.0,yes
+30.0,female,yes,2.94,lung cancer,therapy,6.0,yes
+72.0,male,yes,5.21,copd,medication,4.0,no
+65.0,male,no,2.1,pneumonia,therapy,2.0,yes
+49.0,female,no,4.67,bronchitis,medication,8.0,no
+76.0,female,no,4.79,pneumonia,surgery,3.0,no
+67.0,female,yes,3.35,asthma,surgery,5.0,no
+85.0,male,no,1.47,bronchitis,therapy,13.0,no
+27.0,male,no,1.23,copd,medication,4.0,no
+41.0,female,no,1.56,copd,surgery,11.0,no
+25.0,male,yes,1.94,asthma,surgery,8.0,yes
+68.0,male,yes,5.68,bronchitis,medication,14.0,yes
+64.0,male,yes,5.19,asthma,medication,12.0,yes
+59.0,female,no,3.54,copd,surgery,13.0,no
+74.0,female,yes,1.93,lung cancer,surgery,12.0,no
+81.0,male,yes,1.02,pneumonia,medication,6.0,no
+49.0,male,no,5.12,copd,surgery,3.0,yes
+21.0,male,no,3.52,copd,surgery,5.0,no
+68.0,male,no,4.14,copd,surgery,9.0,no
+50.0,male,yes,1.74,bronchitis,medication,6.0,no
+55.0,female,no,1.95,pneumonia,medication,5.0,no
+77.0,male,no,1.16,bronchitis,medication,2.0,no
+81.0,female,yes,2.57,copd,therapy,10.0,no
+58.0,female,no,4.33,copd,surgery,12.0,no
+77.0,female,yes,5.2,pneumonia,surgery,2.0,no
+63.0,male,no,3.13,pneumonia,surgery,13.0,no
+48.0,male,yes,5.91,lung cancer,medication,13.0,no
+78.0,female,no,4.92,asthma,medication,8.0,no
+28.0,male,yes,5.49,asthma,therapy,10.0,no
+25.0,male,yes,3.19,copd,therapy,7.0,no
+36.0,female,yes,4.58,copd,therapy,7.0,no
+22.0,male,yes,2.35,copd,medication,5.0,no
+55.0,female,no,5.14,asthma,medication,12.0,yes
+81.0,female,yes,1.12,lung cancer,surgery,11.0,no
+61.0,female,yes,4.38,copd,surgery,14.0,yes
+61.0,male,yes,5.66,lung cancer,medication,4.0,no
+80.0,male,no,2.18,pneumonia,surgery,2.0,yes
+32.0,male,yes,4.47,copd,therapy,7.0,no
+73.0,male,yes,5.81,bronchitis,medication,3.0,no
+35.0,male,yes,2.17,asthma,surgery,12.0,yes
+59.0,female,yes,4.63,asthma,surgery,12.0,yes
+78.0,male,yes,4.37,asthma,medication,8.0,no
+21.0,female,no,2.68,bronchitis,medication,1.0,no
+29.0,male,yes,1.85,asthma,therapy,3.0,no
+63.0,male,yes,3.9,asthma,therapy,4.0,no
+30.0,female,no,3.42,lung cancer,medication,14.0,no
+69.0,male,yes,3.21,asthma,therapy,1.0,no
+31.0,male,yes,2.69,pneumonia,surgery,14.0,yes
+81.0,male,no,2.33,lung cancer,therapy,5.0,no
+86.0,female,no,1.18,bronchitis,therapy,3.0,yes
+57.0,male,no,1.93,asthma,medication,12.0,no
+86.0,female,no,4.73,pneumonia,surgery,9.0,no
+80.0,male,no,2.63,pneumonia,medication,12.0,yes
+20.0,male,yes,4.34,asthma,therapy,5.0,yes
+47.0,male,no,3.91,lung cancer,medication,4.0,no
+26.0,female,no,5.79,copd,medication,5.0,no
+23.0,male,yes,2.63,pneumonia,medication,5.0,yes
+89.0,female,no,4.01,lung cancer,medication,4.0,yes
+52.0,male,no,4.56,copd,surgery,10.0,yes
+47.0,female,yes,2.59,pneumonia,therapy,10.0,no
+56.0,female,yes,3.11,bronchitis,therapy,12.0,no
+41.0,male,no,4.86,asthma,surgery,9.0,no
+40.0,female,yes,4.11,pneumonia,therapy,4.0,yes
+79.0,female,yes,5.78,bronchitis,medication,10.0,yes
+65.0,male,no,5.4,bronchitis,surgery,2.0,yes
+67.0,female,no,2.46,lung cancer,therapy,2.0,no
+25.0,male,yes,2.17,asthma,medication,5.0,no
+78.0,male,yes,1.57,bronchitis,surgery,3.0,no
+48.0,female,no,3.75,lung cancer,therapy,3.0,no
+37.0,female,no,1.01,bronchitis,therapy,2.0,no
+57.0,male,yes,4.64,bronchitis,therapy,9.0,no
+67.0,female,no,2.75,lung cancer,surgery,11.0,no
+46.0,female,no,1.46,lung cancer,therapy,10.0,yes
+39.0,female,yes,3.58,copd,medication,4.0,yes
+62.0,female,no,3.68,copd,medication,2.0,no
+80.0,male,no,4.17,copd,medication,6.0,no
+86.0,female,no,3.71,asthma,surgery,5.0,yes
+54.0,female,no,5.64,copd,medication,3.0,yes
+34.0,male,yes,5.66,lung cancer,medication,13.0,no
+35.0,female,no,3.56,copd,surgery,3.0,yes
+32.0,female,no,2.53,asthma,medication,5.0,no
+54.0,female,no,3.3,pneumonia,medication,4.0,yes
+40.0,male,no,4.18,pneumonia,medication,2.0,yes
+73.0,male,no,3.5,bronchitis,medication,11.0,no
+49.0,male,no,1.52,lung cancer,medication,1.0,yes
+54.0,female,yes,3.4,pneumonia,medication,11.0,yes
+57.0,female,yes,5.44,asthma,surgery,1.0,no
+68.0,male,no,2.7,pneumonia,medication,11.0,no
+74.0,female,yes,3.24,asthma,medication,9.0,yes
+77.0,male,yes,4.3,pneumonia,medication,1.0,yes
+22.0,female,yes,1.25,asthma,medication,4.0,yes
+88.0,female,no,3.47,bronchitis,medication,6.0,yes
+29.0,female,no,2.48,bronchitis,surgery,7.0,no
+44.0,female,yes,2.63,copd,therapy,5.0,yes
+80.0,female,yes,1.91,pneumonia,medication,7.0,no
+85.0,female,yes,3.08,asthma,medication,10.0,yes
+62.0,male,yes,5.28,pneumonia,therapy,11.0,yes
+44.0,female,yes,2.55,copd,therapy,4.0,yes
+67.0,female,yes,2.78,copd,medication,11.0,no
+30.0,female,no,1.22,bronchitis,therapy,10.0,yes
+82.0,female,no,3.18,bronchitis,surgery,5.0,yes
+78.0,female,yes,3.7,lung cancer,surgery,4.0,no
+40.0,male,no,3.51,lung cancer,therapy,3.0,no
+31.0,female,yes,5.51,asthma,therapy,10.0,no
+69.0,female,no,2.3,lung cancer,medication,7.0,yes
+23.0,male,no,5.34,asthma,therapy,2.0,yes
+61.0,female,yes,4.22,asthma,therapy,9.0,yes
+57.0,male,no,1.1,pneumonia,therapy,8.0,yes
+44.0,female,no,4.62,copd,therapy,12.0,no
+51.0,male,no,5.99,lung cancer,surgery,6.0,no
+80.0,male,no,2.49,lung cancer,medication,13.0,yes
+37.0,male,no,2.29,copd,therapy,9.0,no
+46.0,male,yes,2.91,bronchitis,surgery,11.0,no
+74.0,female,no,2.78,copd,surgery,3.0,yes
+40.0,male,yes,2.59,copd,therapy,7.0,yes
+24.0,female,no,1.82,pneumonia,medication,13.0,no
+41.0,female,yes,5.26,bronchitis,surgery,8.0,no
+83.0,female,no,1.09,bronchitis,medication,6.0,no
+23.0,male,no,4.1,copd,therapy,3.0,no
+84.0,female,yes,3.29,pneumonia,surgery,10.0,no
+41.0,male,yes,5.5,pneumonia,surgery,6.0,no
+66.0,female,yes,5.85,asthma,medication,5.0,no
+33.0,male,no,4.82,pneumonia,medication,14.0,yes
+39.0,female,yes,1.8,lung cancer,medication,13.0,no
+69.0,male,yes,4.67,bronchitis,therapy,13.0,no
+78.0,male,no,3.23,copd,surgery,11.0,yes
+62.0,female,no,2.54,copd,therapy,1.0,yes
+47.0,male,no,2.65,pneumonia,surgery,9.0,no
+32.0,female,yes,5.44,copd,surgery,7.0,no
+68.0,female,yes,3.74,asthma,therapy,8.0,no
+85.0,male,no,3.41,lung cancer,medication,13.0,no
+55.0,female,no,1.23,bronchitis,surgery,3.0,no
+45.0,male,no,5.94,lung cancer,therapy,7.0,no
+62.0,male,no,2.83,pneumonia,therapy,1.0,no
+39.0,female,no,2.33,copd,therapy,10.0,no
+27.0,female,yes,2.72,asthma,surgery,6.0,yes
+59.0,female,no,5.41,copd,medication,10.0,no
+49.0,female,yes,1.92,asthma,therapy,12.0,no
+65.0,male,yes,2.07,copd,therapy,6.0,yes
+81.0,male,yes,1.19,copd,medication,14.0,yes
+78.0,female,yes,3.3,asthma,surgery,9.0,no
+70.0,male,yes,2.1,asthma,surgery,6.0,no
+56.0,female,no,5.18,asthma,therapy,9.0,yes
+76.0,male,no,4.45,lung cancer,therapy,3.0,yes
+27.0,male,no,5.35,pneumonia,medication,8.0,yes
+39.0,female,yes,4.98,asthma,medication,6.0,yes
+72.0,male,yes,2.73,bronchitis,surgery,4.0,yes
+36.0,female,yes,2.64,pneumonia,medication,14.0,yes
+30.0,male,yes,2.96,bronchitis,therapy,6.0,yes
+69.0,female,no,5.8,pneumonia,medication,5.0,yes
+77.0,male,yes,2.68,lung cancer,therapy,10.0,yes
+53.0,female,yes,4.89,lung cancer,therapy,11.0,yes
+69.0,male,no,3.18,lung cancer,therapy,5.0,no
+22.0,female,no,2.14,lung cancer,surgery,11.0,no
+59.0,female,yes,2.94,pneumonia,medication,13.0,yes
+42.0,female,yes,1.94,bronchitis,medication,2.0,no
+75.0,male,yes,1.86,pneumonia,therapy,14.0,no
+79.0,male,yes,3.1,bronchitis,medication,7.0,no
+29.0,female,no,5.16,pneumonia,therapy,3.0,yes
+47.0,female,no,1.56,asthma,therapy,12.0,yes
+45.0,male,no,2.81,lung cancer,surgery,2.0,no
+23.0,male,no,4.76,asthma,medication,9.0,yes
+83.0,female,yes,4.29,pneumonia,surgery,14.0,no
+57.0,male,yes,3.91,bronchitis,surgery,13.0,no
+30.0,female,yes,3.21,copd,surgery,2.0,yes
+65.0,male,no,1.78,pneumonia,surgery,3.0,yes
+81.0,female,yes,3.98,lung cancer,medication,5.0,yes
+59.0,female,no,1.13,pneumonia,surgery,13.0,yes
+43.0,male,yes,1.46,copd,medication,9.0,no
+79.0,female,yes,3.14,lung cancer,medication,3.0,yes
+36.0,male,yes,4.47,bronchitis,surgery,10.0,no
+84.0,male,yes,1.04,bronchitis,therapy,8.0,no
+74.0,male,yes,1.47,lung cancer,therapy,12.0,yes
+72.0,female,no,4.9,pneumonia,surgery,9.0,no
+28.0,male,no,3.66,lung cancer,therapy,6.0,yes
+41.0,female,yes,4.41,copd,therapy,5.0,no
+32.0,male,no,2.19,copd,medication,5.0,no
+67.0,male,yes,3.19,bronchitis,surgery,10.0,yes
+36.0,female,yes,2.33,copd,therapy,1.0,yes
+34.0,male,yes,3.23,copd,medication,3.0,no
+34.0,male,yes,4.56,pneumonia,medication,11.0,no
+58.0,male,no,5.64,pneumonia,surgery,2.0,yes
+32.0,male,yes,1.47,bronchitis,medication,2.0,yes
+51.0,female,no,2.85,asthma,therapy,4.0,yes
+28.0,female,yes,4.54,pneumonia,therapy,1.0,no
+39.0,male,no,4.28,pneumonia,therapy,9.0,yes
+63.0,male,yes,1.28,asthma,therapy,5.0,yes
+67.0,male,yes,3.76,lung cancer,therapy,14.0,yes
+37.0,male,no,4.98,copd,surgery,5.0,no
+87.0,female,yes,5.73,bronchitis,surgery,14.0,no
+81.0,male,yes,4.65,bronchitis,surgery,11.0,yes
+25.0,male,yes,3.75,bronchitis,medication,1.0,yes
+79.0,male,no,3.33,copd,therapy,4.0,no
+73.0,female,no,2.29,asthma,therapy,3.0,yes
+58.0,male,no,3.06,bronchitis,medication,11.0,no
+44.0,female,yes,2.22,bronchitis,therapy,12.0,yes
+51.0,male,no,1.65,asthma,medication,9.0,no
+78.0,male,no,5.29,bronchitis,therapy,9.0,yes
+82.0,male,yes,3.79,bronchitis,therapy,9.0,no
+72.0,female,no,5.16,bronchitis,surgery,2.0,yes
+47.0,female,yes,3.74,pneumonia,therapy,14.0,no
+22.0,male,yes,1.42,pneumonia,surgery,11.0,no
+57.0,female,yes,3.02,asthma,surgery,11.0,yes
+81.0,male,no,2.97,lung cancer,therapy,4.0,no
+76.0,female,no,2.51,asthma,medication,2.0,yes
+25.0,male,yes,3.3,pneumonia,therapy,7.0,no
+51.0,male,no,2.26,asthma,therapy,11.0,yes
+29.0,male,yes,2.87,lung cancer,surgery,3.0,yes
+22.0,male,yes,5.0,bronchitis,therapy,9.0,yes
+78.0,female,no,3.35,pneumonia,surgery,9.0,yes
+50.0,male,no,5.37,lung cancer,therapy,8.0,yes
+88.0,male,no,1.26,bronchitis,surgery,7.0,yes
+81.0,female,yes,5.45,bronchitis,medication,9.0,no
+71.0,female,no,2.1,copd,medication,11.0,yes
+60.0,male,yes,4.39,bronchitis,medication,1.0,yes
+50.0,male,yes,3.91,lung cancer,medication,11.0,yes
+41.0,female,no,3.76,bronchitis,medication,4.0,yes
+32.0,female,no,1.51,pneumonia,surgery,5.0,yes
+64.0,male,no,2.74,pneumonia,medication,8.0,yes
+68.0,female,yes,5.06,asthma,medication,1.0,yes
+39.0,male,yes,2.08,pneumonia,surgery,6.0,no
+73.0,female,yes,5.01,lung cancer,surgery,9.0,yes
+55.0,male,no,3.0,copd,therapy,10.0,yes
+34.0,male,yes,4.79,pneumonia,therapy,2.0,yes
+36.0,male,no,1.45,asthma,therapy,7.0,no
+77.0,male,no,1.32,lung cancer,surgery,2.0,yes
+42.0,male,yes,2.78,copd,surgery,11.0,yes
+65.0,male,no,4.01,pneumonia,surgery,1.0,yes
+27.0,male,yes,3.78,pneumonia,medication,2.0,yes
+78.0,female,no,3.02,asthma,therapy,11.0,yes
+78.0,male,no,3.15,lung cancer,surgery,10.0,yes
+47.0,female,no,5.77,copd,surgery,12.0,yes
+35.0,male,yes,1.73,copd,surgery,3.0,yes
+21.0,male,no,1.15,lung cancer,therapy,5.0,no
+49.0,female,no,3.63,bronchitis,medication,2.0,no
+32.0,male,no,4.9,lung cancer,therapy,8.0,yes
+40.0,male,yes,3.41,asthma,surgery,11.0,yes
+74.0,male,no,5.84,pneumonia,therapy,10.0,yes
+34.0,male,yes,1.77,bronchitis,therapy,6.0,no
+71.0,male,no,1.67,lung cancer,surgery,3.0,no
+72.0,female,no,2.02,asthma,surgery,11.0,yes
+49.0,female,no,2.48,bronchitis,surgery,8.0,no
+52.0,female,no,1.11,pneumonia,surgery,3.0,no
+76.0,male,no,5.72,pneumonia,surgery,12.0,yes
+28.0,male,no,1.05,copd,medication,10.0,no
+20.0,male,yes,2.18,copd,medication,5.0,no
+63.0,female,no,3.11,lung cancer,surgery,10.0,no
+28.0,male,no,5.6,copd,therapy,9.0,no
+51.0,female,no,5.4,copd,medication,7.0,no
+34.0,male,no,3.28,copd,therapy,10.0,no
+31.0,female,yes,3.05,copd,medication,3.0,yes
+81.0,male,no,5.7,pneumonia,surgery,6.0,no
+61.0,female,yes,3.36,bronchitis,therapy,13.0,yes
+81.0,male,no,3.46,asthma,surgery,3.0,no
+30.0,female,no,1.09,pneumonia,medication,14.0,no
+62.0,male,yes,1.74,lung cancer,surgery,7.0,yes
+59.0,male,yes,2.14,asthma,medication,11.0,no
+42.0,female,yes,3.12,asthma,therapy,14.0,no
+75.0,male,no,3.79,bronchitis,therapy,6.0,no
+25.0,male,no,5.44,bronchitis,medication,9.0,no
+69.0,female,yes,2.63,asthma,therapy,12.0,no
+56.0,male,no,1.67,asthma,therapy,14.0,yes
+83.0,female,no,3.45,asthma,medication,6.0,no
+73.0,male,no,4.73,lung cancer,surgery,4.0,yes
+68.0,female,no,1.55,pneumonia,therapy,10.0,yes
+30.0,female,yes,3.12,bronchitis,surgery,2.0,no
+40.0,female,no,1.17,copd,surgery,14.0,yes
+85.0,male,no,3.41,lung cancer,therapy,4.0,no
+82.0,male,yes,2.49,asthma,medication,4.0,yes
+47.0,female,no,5.23,asthma,medication,2.0,no
+25.0,male,yes,3.27,bronchitis,medication,13.0,no
+38.0,male,yes,3.04,asthma,medication,6.0,no
+75.0,female,yes,3.49,copd,medication,10.0,no
+47.0,male,no,1.2,bronchitis,surgery,6.0,yes
+85.0,male,yes,5.46,pneumonia,surgery,3.0,no
+57.0,female,yes,5.99,lung cancer,surgery,12.0,yes
+56.0,male,yes,1.91,bronchitis,therapy,14.0,no
+87.0,female,yes,1.6,pneumonia,therapy,9.0,no
+68.0,female,yes,1.72,copd,therapy,7.0,yes
+55.0,male,yes,4.31,asthma,surgery,14.0,yes
+77.0,male,no,5.24,asthma,therapy,3.0,no
+32.0,female,no,4.76,pneumonia,surgery,4.0,no
+71.0,female,yes,3.25,bronchitis,medication,7.0,no
+77.0,female,no,4.06,copd,surgery,11.0,no
+51.0,female,no,4.44,pneumonia,medication,8.0,no
+77.0,female,yes,3.38,copd,medication,4.0,no
+47.0,female,yes,3.79,lung cancer,surgery,2.0,no
+20.0,female,yes,4.22,pneumonia,medication,10.0,yes
+61.0,female,yes,4.06,lung cancer,therapy,8.0,no
+67.0,male,yes,4.6,bronchitis,therapy,1.0,yes
+59.0,male,yes,4.21,bronchitis,medication,9.0,yes
+82.0,male,no,3.6,asthma,surgery,8.0,yes
+23.0,male,no,4.41,asthma,therapy,3.0,no
+57.0,female,yes,3.25,asthma,therapy,10.0,yes
+46.0,male,no,2.21,bronchitis,medication,4.0,yes
+75.0,female,yes,3.95,pneumonia,medication,2.0,no
+50.0,female,no,5.86,bronchitis,medication,12.0,no
+33.0,female,yes,2.81,asthma,therapy,11.0,no
+53.0,male,yes,2.01,copd,surgery,5.0,yes
+86.0,male,yes,1.35,copd,therapy,13.0,no
+43.0,male,no,4.86,lung cancer,medication,12.0,yes
+45.0,male,yes,2.25,lung cancer,therapy,3.0,no
+43.0,male,no,3.22,bronchitis,medication,11.0,no
+24.0,female,no,2.42,copd,therapy,12.0,no
+86.0,female,no,5.48,pneumonia,medication,7.0,yes
+77.0,female,no,5.31,pneumonia,therapy,1.0,yes
+34.0,male,no,1.13,lung cancer,medication,13.0,no
+54.0,male,no,1.45,copd,surgery,13.0,no
+72.0,male,no,2.43,pneumonia,surgery,2.0,yes
+63.0,male,no,5.86,bronchitis,medication,14.0,yes
+45.0,female,yes,3.79,pneumonia,medication,10.0,yes
+66.0,male,yes,2.87,asthma,surgery,7.0,yes
+53.0,female,yes,5.44,copd,therapy,1.0,no
+31.0,female,no,2.58,copd,therapy,13.0,no
+49.0,male,no,1.9,asthma,surgery,4.0,yes
+68.0,male,no,2.45,lung cancer,surgery,6.0,no
+81.0,male,no,4.97,pneumonia,medication,5.0,yes
+34.0,female,yes,1.2,lung cancer,therapy,6.0,yes
+71.0,female,yes,4.82,copd,surgery,8.0,yes
+40.0,male,no,1.43,lung cancer,medication,1.0,yes
+24.0,female,no,5.73,copd,medication,3.0,no
+89.0,female,no,2.46,asthma,therapy,11.0,yes
+66.0,female,no,2.13,bronchitis,therapy,13.0,yes
+37.0,female,yes,5.73,bronchitis,therapy,12.0,yes
+40.0,female,yes,4.56,copd,medication,8.0,no
+42.0,female,no,4.71,asthma,therapy,4.0,yes
+83.0,female,yes,3.5,copd,medication,11.0,yes
+86.0,female,yes,3.37,pneumonia,medication,14.0,yes
+59.0,male,yes,1.55,copd,therapy,10.0,no
+71.0,male,yes,2.23,bronchitis,medication,7.0,no
+80.0,male,no,5.89,copd,medication,2.0,yes
+83.0,female,yes,4.98,lung cancer,surgery,1.0,yes
+24.0,male,no,3.06,bronchitis,medication,1.0,no
+74.0,male,yes,4.93,pneumonia,therapy,3.0,no
+56.0,female,yes,1.61,lung cancer,surgery,13.0,no
+78.0,female,yes,2.06,pneumonia,medication,10.0,no
+88.0,female,yes,3.78,lung cancer,surgery,2.0,yes
+21.0,male,no,2.57,asthma,therapy,14.0,yes
+84.0,female,no,1.42,copd,therapy,14.0,yes
+79.0,male,no,3.32,pneumonia,therapy,8.0,yes
+70.0,male,yes,4.74,asthma,medication,5.0,no
+30.0,female,no,2.1,pneumonia,therapy,6.0,yes
+58.0,female,yes,5.74,pneumonia,surgery,13.0,yes
+80.0,female,no,5.04,bronchitis,surgery,5.0,no
+77.0,male,no,2.06,bronchitis,therapy,7.0,no
+75.0,female,no,2.7,bronchitis,surgery,6.0,no
+53.0,female,yes,2.59,asthma,therapy,13.0,yes
+50.0,male,yes,5.78,copd,surgery,13.0,yes
+71.0,female,yes,4.95,bronchitis,surgery,14.0,no
+74.0,female,yes,1.93,bronchitis,medication,11.0,no
+84.0,female,no,5.36,asthma,therapy,1.0,yes
+73.0,male,yes,1.4,asthma,medication,2.0,no
+61.0,female,no,4.28,lung cancer,surgery,6.0,no
+41.0,female,yes,1.47,asthma,therapy,12.0,no
+81.0,male,yes,4.39,asthma,therapy,11.0,yes
+36.0,female,yes,2.06,copd,surgery,10.0,yes
+57.0,female,no,2.17,copd,surgery,12.0,no
+64.0,male,no,1.96,copd,medication,2.0,no
+25.0,female,no,3.87,lung cancer,surgery,1.0,yes
+80.0,male,yes,1.92,asthma,surgery,3.0,no
+34.0,female,no,3.32,bronchitis,medication,14.0,no
+73.0,male,yes,1.07,pneumonia,surgery,6.0,yes
+46.0,male,no,3.41,lung cancer,medication,5.0,no
+50.0,male,yes,5.89,pneumonia,medication,12.0,yes
+54.0,female,yes,4.95,copd,therapy,2.0,yes
+88.0,female,no,3.96,bronchitis,medication,11.0,yes
+68.0,male,no,1.95,asthma,surgery,10.0,yes
+42.0,male,no,3.84,asthma,therapy,1.0,yes
+53.0,male,yes,5.07,pneumonia,medication,2.0,no
+45.0,female,no,4.84,lung cancer,surgery,9.0,no
+66.0,male,no,5.01,asthma,medication,7.0,no
+24.0,female,yes,5.4,copd,medication,10.0,no
+25.0,male,no,3.03,bronchitis,surgery,7.0,yes
+89.0,male,yes,3.84,pneumonia,surgery,14.0,no
+78.0,male,no,4.95,asthma,surgery,4.0,no
+83.0,female,yes,4.49,bronchitis,therapy,10.0,yes
+37.0,female,no,5.98,copd,surgery,2.0,no
+23.0,female,yes,1.07,bronchitis,therapy,12.0,no
+33.0,male,yes,2.41,asthma,therapy,5.0,no
+32.0,male,no,2.31,asthma,surgery,13.0,yes
+26.0,female,no,2.11,asthma,therapy,14.0,yes
+63.0,female,yes,4.55,pneumonia,medication,4.0,yes
+38.0,male,no,4.71,bronchitis,medication,6.0,no
+38.0,male,no,4.14,copd,surgery,5.0,no
+51.0,female,yes,5.26,bronchitis,medication,4.0,yes
+43.0,male,yes,5.54,bronchitis,surgery,5.0,yes
+80.0,female,no,5.04,bronchitis,medication,11.0,yes
+36.0,male,yes,5.47,asthma,surgery,6.0,yes
+69.0,female,yes,1.06,asthma,surgery,5.0,yes
+84.0,female,yes,5.83,copd,medication,5.0,no
+55.0,male,no,4.99,bronchitis,therapy,8.0,no
+32.0,male,yes,1.64,pneumonia,therapy,6.0,no
+89.0,male,no,2.98,copd,medication,2.0,yes
+77.0,female,yes,2.36,lung cancer,medication,4.0,yes
+56.0,male,no,1.62,lung cancer,surgery,5.0,yes
+78.0,male,no,2.56,pneumonia,surgery,5.0,no
+81.0,male,yes,3.95,asthma,therapy,14.0,yes
+23.0,male,no,2.27,lung cancer,surgery,11.0,yes
+64.0,male,yes,2.29,asthma,medication,6.0,no
+47.0,female,yes,3.44,copd,surgery,8.0,no
+85.0,female,no,4.26,copd,medication,4.0,no
+22.0,female,yes,1.88,pneumonia,medication,3.0,no
+62.0,male,yes,3.99,asthma,medication,8.0,no
+50.0,female,yes,2.21,lung cancer,therapy,10.0,yes
+64.0,female,no,3.45,lung cancer,surgery,12.0,yes
+85.0,male,yes,1.37,pneumonia,therapy,5.0,yes
+27.0,female,no,1.17,bronchitis,medication,9.0,no
+49.0,female,no,2.99,lung cancer,medication,10.0,yes
+37.0,male,no,1.68,lung cancer,therapy,10.0,yes
+88.0,male,no,4.44,asthma,therapy,8.0,yes
+58.0,female,yes,5.96,lung cancer,medication,14.0,yes
+79.0,female,yes,2.98,lung cancer,medication,13.0,yes
+42.0,male,yes,5.16,copd,medication,12.0,yes
+88.0,female,yes,3.32,bronchitis,surgery,7.0,yes
+75.0,male,yes,1.64,asthma,medication,11.0,no
+23.0,female,yes,3.56,pneumonia,medication,10.0,yes
+42.0,female,no,2.4,pneumonia,therapy,9.0,no
+25.0,female,no,1.81,copd,medication,12.0,yes
+37.0,female,no,1.66,pneumonia,medication,3.0,no
+34.0,female,yes,4.49,pneumonia,surgery,14.0,no
+59.0,female,yes,3.28,lung cancer,medication,13.0,yes
+25.0,male,yes,3.66,asthma,therapy,6.0,no
+82.0,male,yes,1.73,bronchitis,therapy,11.0,yes
+86.0,male,yes,1.7,asthma,medication,6.0,yes
+30.0,male,no,3.92,copd,medication,5.0,yes
+36.0,male,yes,1.48,pneumonia,therapy,9.0,yes
+82.0,male,no,5.35,copd,surgery,4.0,yes
+60.0,female,no,5.38,lung cancer,surgery,5.0,yes
+51.0,male,yes,3.04,pneumonia,medication,2.0,yes
+84.0,male,yes,5.42,copd,therapy,5.0,yes
+30.0,female,yes,4.35,bronchitis,surgery,10.0,no
+28.0,male,yes,2.29,bronchitis,medication,1.0,no
+79.0,female,no,4.09,asthma,therapy,13.0,yes
+37.0,female,yes,4.91,copd,surgery,4.0,yes
+42.0,male,no,2.55,lung cancer,surgery,7.0,no
+66.0,female,no,4.22,lung cancer,therapy,11.0,yes
+44.0,female,no,3.58,lung cancer,therapy,9.0,yes
+44.0,female,no,4.36,bronchitis,surgery,7.0,no
+77.0,male,no,5.76,pneumonia,therapy,10.0,no
+60.0,male,no,3.43,copd,medication,14.0,no
+44.0,female,no,3.33,lung cancer,surgery,9.0,no
+29.0,female,yes,1.52,bronchitis,medication,13.0,no
+30.0,female,no,2.27,bronchitis,surgery,9.0,yes
+40.0,female,yes,5.59,bronchitis,medication,11.0,yes
+64.0,male,no,4.35,asthma,medication,4.0,yes
+26.0,female,yes,1.07,copd,surgery,2.0,yes
+83.0,female,yes,2.02,asthma,surgery,1.0,no
+83.0,male,yes,4.41,lung cancer,therapy,6.0,no
+35.0,male,no,5.66,pneumonia,therapy,9.0,no
+37.0,female,no,3.76,copd,surgery,10.0,yes
+66.0,male,no,1.61,pneumonia,therapy,13.0,yes
+67.0,female,yes,2.27,copd,therapy,3.0,no
+23.0,female,yes,5.19,bronchitis,therapy,9.0,no
+21.0,female,yes,3.58,bronchitis,medication,1.0,yes
+46.0,male,no,5.61,pneumonia,therapy,7.0,yes
+46.0,female,yes,1.18,pneumonia,therapy,11.0,yes
+82.0,male,yes,2.15,bronchitis,therapy,12.0,yes
+65.0,female,yes,5.24,pneumonia,medication,10.0,no
+32.0,female,yes,5.44,pneumonia,medication,7.0,no
+62.0,female,yes,3.37,copd,therapy,8.0,no
+36.0,male,no,4.73,pneumonia,medication,11.0,yes
+82.0,male,yes,5.02,lung cancer,therapy,9.0,yes
+88.0,male,no,3.23,copd,surgery,3.0,yes
+47.0,female,yes,1.24,copd,medication,1.0,no
+42.0,female,no,3.79,pneumonia,medication,6.0,yes
+35.0,male,yes,1.92,lung cancer,medication,11.0,yes
+71.0,male,no,1.18,asthma,surgery,9.0,yes
+56.0,male,no,5.16,asthma,surgery,6.0,yes
+48.0,male,yes,3.96,pneumonia,medication,7.0,no
+34.0,male,yes,5.47,bronchitis,therapy,2.0,no
+66.0,female,yes,1.35,lung cancer,medication,1.0,no
+65.0,male,no,5.9,asthma,surgery,1.0,no
+38.0,male,no,1.92,copd,surgery,11.0,yes
+83.0,female,yes,4.82,asthma,therapy,8.0,no
+56.0,female,yes,3.15,lung cancer,surgery,7.0,yes
+74.0,female,yes,1.75,copd,surgery,8.0,no
+48.0,male,no,2.39,lung cancer,medication,1.0,no
+82.0,female,yes,5.59,copd,surgery,2.0,yes
+21.0,female,no,3.14,bronchitis,medication,8.0,no
+41.0,female,yes,3.66,asthma,therapy,14.0,no
+35.0,female,yes,5.49,bronchitis,surgery,9.0,no
+37.0,male,no,5.99,bronchitis,medication,7.0,yes
+88.0,male,no,4.77,lung cancer,surgery,12.0,yes
+73.0,female,yes,5.85,lung cancer,medication,9.0,no
+49.0,female,no,4.94,asthma,medication,2.0,no
+64.0,female,yes,5.82,bronchitis,therapy,11.0,no
+38.0,female,no,4.54,lung cancer,surgery,1.0,yes
+53.0,male,no,1.4,pneumonia,surgery,1.0,no
+81.0,male,no,2.75,pneumonia,therapy,4.0,no
+71.0,female,yes,3.89,pneumonia,surgery,7.0,yes
+71.0,male,no,5.67,bronchitis,medication,8.0,yes
+55.0,male,no,1.17,asthma,medication,3.0,no
+38.0,female,yes,4.85,asthma,therapy,14.0,yes
+57.0,female,yes,4.61,pneumonia,medication,1.0,no
+89.0,female,no,5.82,pneumonia,surgery,3.0,yes
+76.0,male,no,5.65,pneumonia,surgery,2.0,no
+28.0,male,yes,3.6,lung cancer,medication,11.0,yes
+51.0,male,no,2.02,asthma,therapy,7.0,no
+69.0,male,yes,4.83,lung cancer,therapy,5.0,no
+39.0,male,no,4.95,copd,medication,1.0,no
+56.0,male,yes,1.98,bronchitis,medication,11.0,yes
+77.0,male,no,2.66,bronchitis,surgery,6.0,yes
+63.0,male,no,2.0,bronchitis,surgery,8.0,no
+53.0,male,yes,1.57,pneumonia,medication,4.0,yes
+28.0,male,yes,2.29,bronchitis,medication,14.0,no
+26.0,male,yes,2.42,asthma,surgery,14.0,no
+50.0,male,yes,1.05,asthma,surgery,5.0,no
+54.0,male,no,2.42,pneumonia,medication,2.0,yes
+76.0,female,no,1.6,lung cancer,therapy,6.0,yes
+50.0,female,yes,1.39,lung cancer,surgery,9.0,yes
+72.0,male,yes,3.97,copd,therapy,14.0,yes
+85.0,male,no,2.81,bronchitis,therapy,8.0,yes
+29.0,male,yes,3.12,lung cancer,medication,3.0,yes
+21.0,female,no,5.58,asthma,surgery,10.0,yes
+85.0,male,yes,3.49,pneumonia,medication,2.0,no
+35.0,female,no,1.37,copd,therapy,9.0,yes
+35.0,male,yes,1.45,bronchitis,therapy,9.0,no
+65.0,female,yes,4.26,bronchitis,medication,3.0,yes
+50.0,male,no,4.95,copd,medication,13.0,yes
+30.0,male,no,2.94,bronchitis,surgery,1.0,yes
+23.0,male,yes,3.98,pneumonia,medication,4.0,no
+31.0,female,yes,5.16,asthma,surgery,12.0,yes
+84.0,female,yes,5.56,lung cancer,therapy,10.0,yes
+66.0,male,no,2.27,asthma,surgery,6.0,no
+72.0,male,yes,4.86,pneumonia,surgery,5.0,yes
+21.0,female,no,2.33,asthma,therapy,6.0,no
+23.0,female,yes,5.72,bronchitis,therapy,7.0,yes
+45.0,female,yes,5.83,copd,therapy,10.0,yes
+59.0,female,yes,1.75,bronchitis,surgery,14.0,yes
+69.0,female,no,5.1,pneumonia,medication,10.0,yes
+62.0,female,yes,2.38,pneumonia,surgery,9.0,no
+86.0,female,no,3.93,pneumonia,medication,2.0,no
+46.0,female,no,2.74,pneumonia,medication,8.0,yes
+73.0,female,no,4.29,asthma,medication,9.0,yes
+85.0,female,no,1.08,bronchitis,surgery,4.0,yes
+68.0,male,no,1.32,copd,medication,5.0,no
+35.0,female,yes,1.5,lung cancer,therapy,5.0,yes
+21.0,female,yes,3.09,pneumonia,therapy,2.0,no
+79.0,female,yes,5.07,pneumonia,therapy,5.0,yes
+49.0,female,yes,2.22,asthma,therapy,4.0,no
+47.0,female,yes,4.84,asthma,therapy,3.0,no
+44.0,male,no,2.44,lung cancer,medication,14.0,no
+29.0,female,yes,3.05,copd,therapy,7.0,yes
+79.0,female,no,3.62,pneumonia,medication,8.0,no
+61.0,female,no,1.67,bronchitis,medication,13.0,no
+59.0,male,no,1.13,pneumonia,therapy,13.0,yes
+61.0,male,no,1.76,pneumonia,surgery,10.0,no
+66.0,male,yes,4.13,pneumonia,surgery,6.0,no
+56.0,female,yes,1.37,pneumonia,therapy,6.0,no
+46.0,male,no,1.39,asthma,medication,11.0,yes
+60.0,female,yes,1.96,bronchitis,medication,6.0,yes
+29.0,female,yes,3.94,bronchitis,medication,1.0,no
+67.0,female,no,2.12,asthma,medication,4.0,no
+39.0,male,no,5.24,asthma,therapy,2.0,yes
+58.0,female,yes,3.46,bronchitis,medication,6.0,no
+85.0,male,yes,3.03,copd,therapy,1.0,yes
+84.0,male,no,5.92,bronchitis,medication,8.0,no
+70.0,female,no,4.85,asthma,surgery,10.0,no
+55.0,female,no,5.83,lung cancer,medication,6.0,no
+21.0,male,yes,4.78,bronchitis,surgery,6.0,no
+50.0,female,no,5.4,lung cancer,therapy,10.0,yes
+76.0,male,no,5.82,asthma,medication,7.0,no
+85.0,male,yes,2.62,lung cancer,therapy,5.0,yes
+48.0,female,yes,4.99,pneumonia,therapy,14.0,yes
+34.0,female,no,2.05,asthma,medication,8.0,yes
+31.0,female,yes,3.73,pneumonia,therapy,8.0,yes
+47.0,male,no,1.9,lung cancer,medication,10.0,yes
+43.0,male,yes,2.74,bronchitis,therapy,9.0,no
+40.0,male,yes,5.66,bronchitis,surgery,12.0,no
+29.0,male,no,1.73,bronchitis,medication,6.0,yes
+37.0,female,yes,4.16,pneumonia,surgery,1.0,yes
+33.0,male,no,3.96,bronchitis,therapy,9.0,no
+53.0,male,yes,1.6,copd,surgery,3.0,yes
+77.0,female,yes,2.63,asthma,surgery,9.0,no
+41.0,male,yes,3.81,asthma,surgery,7.0,no
+55.0,female,no,5.0,pneumonia,medication,12.0,yes
+64.0,male,yes,5.86,asthma,therapy,13.0,yes
+55.0,male,no,2.07,pneumonia,therapy,3.0,yes
+41.0,male,no,1.93,lung cancer,therapy,9.0,yes
+75.0,female,yes,4.74,lung cancer,therapy,7.0,yes
+64.0,female,yes,1.1,bronchitis,medication,7.0,yes
+55.0,male,yes,3.71,bronchitis,medication,2.0,no
+37.0,female,yes,2.96,lung cancer,surgery,4.0,no
+57.0,female,yes,3.1,copd,medication,10.0,no
+86.0,male,no,5.84,pneumonia,surgery,8.0,no
+42.0,male,no,4.47,lung cancer,surgery,12.0,yes
+35.0,male,yes,4.6,asthma,therapy,2.0,yes
+78.0,female,no,3.81,asthma,surgery,13.0,yes
+87.0,male,no,4.44,pneumonia,surgery,10.0,yes
+35.0,female,no,2.45,lung cancer,therapy,12.0,no
+33.0,male,yes,2.52,bronchitis,medication,6.0,no
+80.0,male,yes,4.91,asthma,surgery,12.0,no
+65.0,male,yes,2.48,pneumonia,surgery,2.0,yes
+63.0,female,yes,5.08,copd,surgery,12.0,yes
+60.0,male,no,5.15,copd,surgery,1.0,yes
+73.0,male,yes,4.01,copd,medication,3.0,yes
+63.0,male,yes,1.93,asthma,surgery,14.0,no
+24.0,female,yes,3.71,lung cancer,therapy,2.0,yes
+46.0,female,no,2.41,pneumonia,surgery,7.0,yes
+62.0,male,no,2.62,asthma,therapy,7.0,yes
+50.0,female,no,2.76,bronchitis,surgery,4.0,yes
+36.0,male,yes,1.32,pneumonia,therapy,12.0,no
+73.0,male,yes,5.93,lung cancer,therapy,12.0,yes
+81.0,female,no,1.16,asthma,surgery,8.0,yes
+51.0,female,yes,4.31,lung cancer,medication,3.0,yes
+32.0,female,no,4.23,asthma,surgery,9.0,no
+54.0,male,yes,2.78,bronchitis,surgery,5.0,no
+48.0,male,yes,4.65,pneumonia,surgery,13.0,no
+44.0,male,no,1.57,lung cancer,medication,2.0,no
+41.0,female,yes,4.28,pneumonia,therapy,9.0,yes
+88.0,male,no,3.07,asthma,medication,8.0,no
+63.0,female,no,3.34,pneumonia,medication,12.0,no
+35.0,female,no,4.43,bronchitis,medication,7.0,yes
+65.0,female,yes,2.75,pneumonia,therapy,6.0,no
+86.0,female,yes,4.53,bronchitis,therapy,14.0,yes
+84.0,female,no,3.69,asthma,therapy,10.0,yes
+77.0,female,no,3.35,bronchitis,surgery,14.0,no
+72.0,male,no,3.56,pneumonia,surgery,10.0,no
+20.0,male,no,4.18,copd,therapy,12.0,no
+85.0,female,yes,4.3,bronchitis,therapy,8.0,no
+48.0,female,yes,2.44,lung cancer,therapy,7.0,no
+27.0,male,no,1.78,asthma,surgery,7.0,yes
+48.0,male,yes,4.2,pneumonia,surgery,1.0,yes
+70.0,male,yes,5.36,copd,medication,3.0,yes
+22.0,female,yes,1.85,copd,medication,7.0,yes
+54.0,female,yes,5.16,lung cancer,medication,5.0,yes
+88.0,male,yes,5.4,bronchitis,medication,9.0,yes
+39.0,female,yes,4.03,lung cancer,medication,12.0,yes
+58.0,male,yes,5.3,lung cancer,therapy,13.0,no
+23.0,male,no,1.08,lung cancer,medication,8.0,yes
+38.0,female,no,1.54,asthma,therapy,1.0,yes
+64.0,male,yes,1.46,bronchitis,surgery,14.0,no
+32.0,male,no,1.35,asthma,surgery,2.0,no
+32.0,male,no,3.48,lung cancer,therapy,6.0,no
+71.0,male,no,5.35,copd,medication,7.0,yes
+72.0,female,no,1.85,pneumonia,therapy,9.0,no
+62.0,male,yes,2.76,copd,surgery,14.0,yes
+61.0,female,yes,4.87,bronchitis,medication,4.0,no
+42.0,female,yes,4.36,lung cancer,surgery,4.0,yes
+47.0,female,yes,5.66,copd,therapy,12.0,no
+28.0,male,no,5.38,pneumonia,surgery,2.0,yes
+39.0,female,no,2.6,asthma,surgery,8.0,yes
+31.0,male,no,1.47,pneumonia,therapy,12.0,yes
+30.0,male,yes,5.38,bronchitis,therapy,1.0,yes
+45.0,male,yes,2.74,copd,medication,13.0,no
+46.0,female,no,3.17,copd,surgery,5.0,no
+62.0,male,yes,2.48,pneumonia,medication,4.0,yes
+38.0,female,no,4.14,lung cancer,therapy,10.0,no
+83.0,male,no,3.1,lung cancer,surgery,10.0,yes
+25.0,male,yes,1.31,lung cancer,medication,12.0,yes
+65.0,male,yes,3.45,lung cancer,therapy,12.0,no
+84.0,male,no,1.49,lung cancer,surgery,2.0,yes
+78.0,male,no,1.35,lung cancer,surgery,8.0,yes
+66.0,male,no,4.82,copd,medication,12.0,no
+30.0,male,no,3.83,copd,therapy,5.0,yes
+80.0,female,yes,3.34,bronchitis,therapy,6.0,no
+87.0,female,no,5.44,asthma,surgery,13.0,no
+31.0,female,no,5.06,lung cancer,therapy,14.0,no
+45.0,male,no,5.07,copd,medication,5.0,yes
+70.0,female,yes,5.32,bronchitis,therapy,10.0,no
+56.0,female,yes,5.63,pneumonia,surgery,8.0,yes
+65.0,female,yes,1.12,lung cancer,medication,3.0,yes
+72.0,male,yes,1.26,pneumonia,medication,4.0,yes
+73.0,male,yes,2.39,bronchitis,therapy,2.0,yes
+68.0,male,no,1.6,pneumonia,medication,5.0,no
+26.0,female,no,1.4,asthma,medication,12.0,no
+30.0,male,yes,1.78,pneumonia,surgery,10.0,no
+73.0,male,no,2.25,copd,surgery,13.0,yes
+64.0,male,yes,3.44,asthma,medication,5.0,no
+45.0,female,no,3.59,asthma,therapy,2.0,yes
+44.0,male,no,3.61,copd,therapy,11.0,yes
+48.0,male,no,3.59,lung cancer,medication,12.0,no
+55.0,male,no,1.04,lung cancer,therapy,10.0,no
+33.0,male,yes,1.01,copd,medication,9.0,yes
+54.0,male,no,1.49,pneumonia,medication,3.0,no
+36.0,male,yes,4.52,copd,surgery,7.0,yes
+49.0,female,yes,5.47,copd,medication,10.0,no
+72.0,male,no,2.36,copd,medication,10.0,no
+83.0,female,no,3.55,copd,medication,6.0,no
+83.0,female,yes,5.03,lung cancer,surgery,7.0,no
+60.0,female,no,3.17,bronchitis,medication,8.0,no
+76.0,female,no,1.49,bronchitis,therapy,7.0,no
+26.0,male,yes,1.2,asthma,medication,12.0,yes
+69.0,male,yes,4.77,bronchitis,medication,14.0,no
+71.0,male,yes,3.13,asthma,medication,4.0,yes
+20.0,female,yes,1.49,bronchitis,surgery,5.0,yes
+23.0,female,yes,5.09,lung cancer,surgery,13.0,no
+62.0,male,no,5.75,pneumonia,surgery,8.0,no
+23.0,female,yes,1.76,pneumonia,medication,1.0,yes
+20.0,female,no,1.41,pneumonia,surgery,5.0,yes
+69.0,female,no,3.16,asthma,medication,6.0,no
+80.0,male,yes,5.14,lung cancer,surgery,13.0,no
+62.0,male,yes,1.3,asthma,medication,6.0,yes
+51.0,male,yes,2.52,bronchitis,medication,9.0,no
+37.0,male,yes,3.5,lung cancer,medication,14.0,no
+47.0,female,yes,3.11,asthma,therapy,4.0,yes
+48.0,female,yes,1.86,asthma,surgery,3.0,yes
+35.0,male,yes,2.79,lung cancer,therapy,9.0,yes
+50.0,male,yes,1.94,copd,medication,9.0,no
+23.0,female,yes,3.45,lung cancer,medication,11.0,no
+56.0,male,no,4.99,copd,surgery,10.0,yes
+36.0,female,yes,3.84,pneumonia,medication,11.0,no
+67.0,female,yes,4.18,asthma,therapy,2.0,yes
+65.0,female,no,4.45,lung cancer,therapy,14.0,yes
+67.0,female,no,4.34,asthma,medication,13.0,no
+58.0,female,yes,3.25,lung cancer,therapy,11.0,no
+23.0,female,no,4.45,asthma,medication,14.0,no
+49.0,male,yes,1.35,pneumonia,medication,10.0,no
+41.0,male,yes,4.89,asthma,therapy,13.0,yes
+85.0,male,yes,2.23,lung cancer,medication,7.0,yes
+31.0,female,yes,4.84,bronchitis,medication,2.0,yes
+55.0,female,no,1.06,lung cancer,medication,1.0,no
+37.0,female,yes,2.09,asthma,medication,9.0,no
+20.0,male,yes,4.9,copd,medication,9.0,yes
+77.0,male,no,4.78,lung cancer,medication,12.0,yes
+25.0,female,yes,5.07,pneumonia,medication,3.0,yes
+89.0,male,no,1.02,pneumonia,medication,3.0,no
+49.0,female,no,1.42,pneumonia,therapy,13.0,yes
+61.0,male,yes,1.91,pneumonia,medication,11.0,no
+52.0,male,yes,3.38,asthma,therapy,6.0,yes
+31.0,female,no,4.27,pneumonia,medication,3.0,no
+46.0,female,no,1.73,asthma,surgery,5.0,no
+58.0,male,yes,1.93,pneumonia,medication,13.0,no
+28.0,female,no,2.02,pneumonia,therapy,11.0,no
+40.0,male,yes,2.19,bronchitis,therapy,5.0,no
+48.0,female,no,2.13,asthma,medication,10.0,yes
+34.0,male,no,3.19,asthma,medication,1.0,yes
+21.0,male,yes,4.88,pneumonia,surgery,6.0,no
+71.0,male,yes,4.6,pneumonia,surgery,3.0,yes
+63.0,female,no,1.63,lung cancer,therapy,1.0,yes
+73.0,male,yes,1.24,asthma,medication,13.0,yes
+37.0,female,yes,5.39,copd,surgery,14.0,yes
+26.0,female,no,1.74,asthma,medication,13.0,yes
+62.0,male,no,1.11,bronchitis,therapy,10.0,yes
+77.0,female,no,5.93,bronchitis,medication,1.0,no
+78.0,female,yes,3.05,asthma,surgery,5.0,no
+87.0,female,no,2.48,bronchitis,therapy,14.0,no
+41.0,male,no,1.69,copd,medication,13.0,no
+85.0,male,yes,1.66,asthma,medication,1.0,yes
+63.0,female,no,1.57,lung cancer,surgery,6.0,yes
+44.0,female,no,5.81,bronchitis,medication,11.0,no
+76.0,male,yes,3.89,asthma,medication,9.0,yes
+74.0,male,yes,5.94,lung cancer,surgery,8.0,no
+33.0,male,yes,3.29,copd,therapy,3.0,yes
+58.0,female,yes,2.62,pneumonia,medication,9.0,no
+70.0,male,no,1.72,bronchitis,medication,13.0,no
+68.0,male,no,5.73,pneumonia,surgery,6.0,no
+28.0,female,no,5.93,lung cancer,therapy,13.0,no
+77.0,female,no,1.22,pneumonia,medication,14.0,no
+64.0,female,yes,1.75,lung cancer,medication,10.0,no
+51.0,female,no,1.93,asthma,medication,10.0,no
+88.0,male,yes,2.82,pneumonia,therapy,9.0,no
+88.0,male,yes,1.65,pneumonia,therapy,9.0,yes
+61.0,female,yes,3.28,bronchitis,therapy,8.0,yes
+72.0,female,yes,2.36,bronchitis,surgery,13.0,no
+78.0,male,yes,2.76,lung cancer,medication,11.0,no
+58.0,female,no,1.47,asthma,medication,7.0,yes
+34.0,male,yes,3.14,bronchitis,medication,14.0,no
+48.0,male,no,5.92,bronchitis,medication,6.0,yes
+31.0,female,no,4.3,bronchitis,surgery,14.0,yes
+57.0,female,no,5.28,lung cancer,surgery,13.0,no
+38.0,female,no,1.38,lung cancer,medication,6.0,yes
+86.0,female,no,3.31,bronchitis,surgery,9.0,yes
+27.0,male,no,5.95,lung cancer,medication,13.0,yes
+27.0,female,no,4.85,pneumonia,therapy,13.0,no
+23.0,male,no,4.9,bronchitis,surgery,12.0,yes
+70.0,female,yes,5.37,lung cancer,medication,12.0,no
+35.0,male,no,5.62,lung cancer,medication,14.0,yes
+86.0,female,no,5.13,bronchitis,medication,8.0,no
+28.0,male,yes,5.22,asthma,surgery,8.0,yes
+79.0,male,yes,4.37,bronchitis,medication,6.0,no
+34.0,female,no,2.52,bronchitis,surgery,8.0,yes
+41.0,female,no,5.68,asthma,therapy,1.0,no
+43.0,male,no,3.93,asthma,medication,5.0,yes
+29.0,male,no,5.15,asthma,therapy,10.0,yes
+75.0,female,no,5.18,asthma,medication,13.0,no
+69.0,female,yes,5.07,copd,therapy,10.0,no
+31.0,female,no,4.23,pneumonia,medication,5.0,yes
+79.0,male,no,2.83,bronchitis,medication,10.0,no
+45.0,female,no,2.52,lung cancer,surgery,14.0,yes
+60.0,male,no,1.04,pneumonia,therapy,9.0,no
+42.0,female,no,1.44,copd,surgery,7.0,yes
+25.0,male,no,3.52,bronchitis,therapy,2.0,no
+88.0,female,no,3.63,asthma,surgery,8.0,yes
+44.0,female,no,1.16,pneumonia,therapy,9.0,no
+37.0,female,no,4.87,copd,therapy,6.0,yes
+81.0,female,yes,1.26,bronchitis,surgery,9.0,no
+32.0,male,yes,1.19,copd,medication,9.0,yes
+62.0,male,yes,3.15,lung cancer,therapy,7.0,no
+78.0,female,yes,3.65,pneumonia,surgery,8.0,yes
+79.0,male,yes,1.15,copd,surgery,2.0,no
+82.0,male,no,1.2,asthma,surgery,5.0,yes
+76.0,male,no,4.06,pneumonia,surgery,3.0,yes
+75.0,male,yes,3.19,bronchitis,medication,13.0,yes
+51.0,male,yes,5.0,lung cancer,therapy,13.0,yes
+28.0,female,no,4.05,asthma,medication,12.0,yes
+87.0,male,no,2.12,copd,therapy,9.0,no
+86.0,male,no,4.14,asthma,surgery,9.0,yes
+27.0,female,yes,4.1,lung cancer,medication,11.0,no
+25.0,male,no,5.85,lung cancer,therapy,9.0,yes
+64.0,male,no,3.69,pneumonia,surgery,2.0,yes
+32.0,male,yes,4.36,bronchitis,therapy,10.0,no
+64.0,female,no,1.2,pneumonia,therapy,14.0,no
+66.0,female,yes,3.73,pneumonia,therapy,6.0,yes
+82.0,female,no,1.44,bronchitis,surgery,6.0,yes
+74.0,female,no,5.98,lung cancer,medication,8.0,no
+72.0,female,yes,5.29,lung cancer,surgery,1.0,yes
+45.0,male,no,5.6,copd,surgery,8.0,yes
+33.0,female,no,2.77,copd,surgery,2.0,yes
+64.0,female,yes,4.6,copd,medication,8.0,no
+63.0,male,no,3.21,bronchitis,surgery,3.0,no
+84.0,male,yes,4.28,bronchitis,surgery,8.0,no
+42.0,male,yes,3.12,bronchitis,medication,7.0,yes
+79.0,male,yes,3.0,lung cancer,therapy,1.0,no
+78.0,male,no,5.47,pneumonia,therapy,5.0,no
+52.0,female,yes,3.48,copd,medication,1.0,yes
+38.0,female,yes,3.72,asthma,medication,1.0,no
+71.0,male,no,5.43,asthma,surgery,8.0,no
+68.0,female,no,1.85,asthma,therapy,1.0,yes
+56.0,male,yes,3.37,copd,surgery,2.0,yes
+45.0,female,yes,5.86,asthma,surgery,5.0,no
+57.0,female,yes,2.86,copd,therapy,11.0,no
+54.0,male,no,5.85,copd,surgery,5.0,no
+79.0,male,yes,4.87,asthma,therapy,3.0,yes
+64.0,female,no,2.22,lung cancer,therapy,6.0,yes
+65.0,female,no,1.2,lung cancer,medication,5.0,no
+44.0,male,no,2.56,bronchitis,medication,10.0,yes
+25.0,male,no,3.93,lung cancer,medication,4.0,no
+83.0,male,yes,5.45,lung cancer,medication,4.0,yes
+42.0,male,yes,1.43,pneumonia,therapy,7.0,no
+37.0,female,no,2.95,lung cancer,therapy,10.0,no
+64.0,male,yes,2.31,pneumonia,medication,2.0,no
+63.0,male,yes,2.06,pneumonia,therapy,9.0,yes
+66.0,female,no,1.4,pneumonia,medication,2.0,yes
+59.0,male,no,3.81,bronchitis,surgery,6.0,yes
+70.0,female,yes,1.07,pneumonia,therapy,8.0,yes
+26.0,male,no,1.37,copd,surgery,12.0,no
+67.0,male,no,1.2,bronchitis,medication,5.0,yes
+25.0,male,yes,5.18,copd,medication,4.0,no
+28.0,male,yes,2.05,pneumonia,therapy,1.0,no
+76.0,male,no,2.64,copd,surgery,5.0,no
+50.0,male,no,5.35,bronchitis,surgery,10.0,no
+40.0,male,no,4.73,copd,medication,12.0,yes
+59.0,male,no,2.1,bronchitis,medication,5.0,yes
+68.0,male,yes,4.58,pneumonia,surgery,12.0,yes
+39.0,male,yes,2.95,bronchitis,surgery,7.0,yes
+85.0,male,yes,3.26,asthma,medication,1.0,yes
+44.0,male,no,4.74,asthma,medication,13.0,yes
+77.0,male,no,5.51,bronchitis,therapy,5.0,yes
+60.0,male,yes,1.25,pneumonia,surgery,5.0,yes
+25.0,female,yes,3.34,bronchitis,medication,12.0,no
+64.0,male,no,5.43,pneumonia,therapy,12.0,yes
+33.0,male,yes,2.81,pneumonia,medication,7.0,no
+85.0,male,yes,5.66,asthma,therapy,6.0,yes
+59.0,female,yes,4.15,copd,surgery,13.0,no
+22.0,male,no,5.67,lung cancer,medication,10.0,no
+43.0,male,yes,4.79,bronchitis,medication,3.0,yes
+38.0,female,no,1.52,bronchitis,medication,2.0,yes
+83.0,female,no,3.55,copd,medication,6.0,no
+25.0,female,no,5.72,lung cancer,surgery,9.0,no
+47.0,female,yes,4.4,asthma,medication,10.0,no
+49.0,male,no,4.94,asthma,therapy,9.0,no
+23.0,male,no,5.96,lung cancer,medication,1.0,yes
+66.0,male,yes,5.24,pneumonia,surgery,14.0,no
+35.0,male,yes,4.69,bronchitis,therapy,6.0,no
+45.0,female,yes,2.02,pneumonia,surgery,1.0,no
+31.0,male,no,5.51,pneumonia,therapy,3.0,yes
+44.0,male,yes,4.2,lung cancer,therapy,8.0,yes
+36.0,male,yes,4.89,bronchitis,surgery,12.0,no
+57.0,male,no,5.34,bronchitis,surgery,3.0,yes
+59.0,female,yes,1.75,bronchitis,surgery,14.0,yes
+46.0,male,yes,3.76,asthma,therapy,14.0,no
+50.0,female,no,2.76,bronchitis,surgery,4.0,yes
+67.0,male,yes,3.78,asthma,therapy,10.0,yes
+44.0,male,no,4.74,asthma,medication,13.0,yes
+79.0,male,yes,4.28,lung cancer,surgery,3.0,yes
+27.0,female,no,5.96,copd,medication,7.0,yes
+82.0,male,yes,2.49,lung cancer,surgery,7.0,no
+87.0,male,no,3.8,copd,medication,11.0,yes
+23.0,female,no,3.79,lung cancer,medication,3.0,no
+47.0,male,yes,4.59,asthma,therapy,8.0,yes
+51.0,male,yes,5.69,bronchitis,therapy,1.0,yes
+68.0,male,no,5.73,pneumonia,surgery,6.0,no
+87.0,female,no,5.26,copd,medication,8.0,no
+77.0,male,no,1.83,copd,medication,7.0,no
+51.0,male,yes,1.95,copd,therapy,6.0,no
+23.0,female,no,2.94,pneumonia,surgery,7.0,no
+56.0,male,no,1.62,lung cancer,surgery,5.0,yes
+51.0,male,no,2.02,asthma,therapy,7.0,no
+40.0,male,no,4.73,copd,medication,12.0,yes
+74.0,male,yes,2.65,bronchitis,medication,13.0,no
+38.0,female,yes,1.39,copd,surgery,2.0,no
+20.0,male,no,4.18,copd,therapy,12.0,no
+54.0,female,yes,4.85,copd,medication,8.0,yes
+74.0,male,no,5.77,bronchitis,medication,7.0,yes
+36.0,male,yes,5.65,asthma,surgery,12.0,no
+22.0,male,no,5.43,asthma,therapy,13.0,yes
+62.0,female,yes,5.97,copd,medication,7.0,yes
+55.0,male,no,1.54,bronchitis,therapy,14.0,no
+59.0,male,yes,5.24,copd,surgery,12.0,yes
+88.0,female,yes,1.68,pneumonia,therapy,10.0,yes
+59.0,female,yes,3.8,lung cancer,therapy,3.0,no
+34.0,male,yes,3.23,copd,medication,3.0,no
+87.0,male,no,2.04,bronchitis,medication,6.0,yes
+67.0,male,yes,5.55,copd,surgery,2.0,yes
+36.0,male,no,1.74,pneumonia,surgery,10.0,no
+68.0,female,yes,3.74,asthma,therapy,8.0,no
+78.0,male,no,4.29,asthma,therapy,3.0,no
+78.0,female,no,3.8,pneumonia,therapy,8.0,no
+86.0,male,yes,2.94,bronchitis,therapy,13.0,no
+79.0,male,no,2.06,pneumonia,surgery,12.0,no
+32.0,male,yes,5.18,copd,surgery,5.0,no
+49.0,female,no,5.56,lung cancer,surgery,13.0,no
+48.0,male,yes,1.8,copd,surgery,9.0,yes
+72.0,male,yes,2.61,lung cancer,surgery,11.0,yes
+41.0,male,yes,2.08,pneumonia,surgery,4.0,yes
+52.0,female,yes,2.51,pneumonia,therapy,14.0,yes
+37.0,female,yes,4.17,asthma,medication,9.0,no
+51.0,female,yes,4.31,lung cancer,medication,3.0,yes
+42.0,female,no,4.75,bronchitis,surgery,10.0,yes
+29.0,male,yes,1.85,asthma,therapy,3.0,no
+75.0,male,no,2.5,pneumonia,therapy,1.0,no
+78.0,male,no,4.61,lung cancer,surgery,13.0,no
+23.0,female,no,5.69,copd,medication,2.0,yes
+33.0,female,no,2.46,lung cancer,therapy,4.0,yes
+87.0,male,no,2.46,pneumonia,surgery,1.0,no
+74.0,female,yes,2.86,bronchitis,medication,5.0,no
+33.0,male,no,2.55,asthma,surgery,3.0,no
+81.0,male,no,2.33,lung cancer,therapy,5.0,no
+83.0,male,no,3.56,copd,therapy,14.0,yes
+36.0,male,no,3.71,asthma,medication,12.0,no
+26.0,male,yes,3.21,bronchitis,surgery,12.0,yes
+23.0,female,yes,1.93,copd,medication,14.0,no
+46.0,male,yes,1.26,copd,medication,2.0,yes
+51.0,male,yes,2.92,pneumonia,therapy,8.0,yes
+29.0,female,no,5.99,copd,surgery,2.0,yes
+67.0,female,yes,4.82,lung cancer,medication,14.0,yes
+50.0,female,yes,3.38,pneumonia,therapy,7.0,yes
+32.0,male,yes,1.33,copd,surgery,13.0,yes
+24.0,male,no,3.49,copd,therapy,5.0,no
+59.0,female,no,5.41,copd,medication,10.0,no
+82.0,female,no,3.18,bronchitis,surgery,5.0,yes
+47.0,male,no,5.26,asthma,medication,1.0,no
+82.0,female,no,3.16,bronchitis,medication,9.0,no
+39.0,female,yes,4.98,asthma,medication,6.0,yes
+86.0,female,no,3.5,bronchitis,therapy,12.0,yes
+29.0,female,yes,3.41,lung cancer,therapy,3.0,no
+77.0,female,no,5.53,bronchitis,therapy,8.0,no
+52.0,female,yes,3.05,asthma,surgery,11.0,no
+39.0,female,yes,5.62,asthma,surgery,3.0,no
+79.0,male,yes,3.74,asthma,therapy,2.0,yes
+58.0,male,no,1.94,asthma,surgery,9.0,yes
+83.0,female,yes,5.88,pneumonia,medication,8.0,no
+72.0,female,yes,3.34,lung cancer,therapy,7.0,yes
+44.0,female,yes,5.09,lung cancer,therapy,3.0,no
+80.0,male,no,3.27,bronchitis,medication,14.0,yes
+32.0,male,no,3.48,lung cancer,therapy,6.0,no
+73.0,male,no,2.7,bronchitis,surgery,9.0,yes
+54.0,female,yes,5.16,lung cancer,medication,5.0,yes
+87.0,male,yes,1.36,lung cancer,medication,6.0,yes
+79.0,female,yes,3.14,lung cancer,medication,3.0,yes
+44.0,female,yes,3.57,bronchitis,medication,6.0,yes
+68.0,male,yes,3.89,copd,therapy,10.0,yes
+86.0,female,no,3.79,bronchitis,surgery,6.0,no
+44.0,male,no,1.14,lung cancer,therapy,5.0,yes
+41.0,male,yes,3.34,bronchitis,medication,8.0,no
+25.0,female,no,1.5,pneumonia,therapy,3.0,yes
+84.0,female,no,5.81,copd,therapy,6.0,yes
+86.0,female,no,5.53,asthma,therapy,8.0,yes
+71.0,male,no,1.18,asthma,surgery,9.0,yes
+37.0,male,no,2.36,copd,surgery,14.0,yes
+53.0,male,yes,1.19,lung cancer,medication,8.0,yes
+81.0,female,yes,4.51,pneumonia,surgery,8.0,yes
+28.0,female,no,3.55,pneumonia,therapy,12.0,yes
+21.0,female,yes,3.09,pneumonia,therapy,2.0,no
+73.0,female,no,3.7,bronchitis,therapy,13.0,yes
+26.0,male,no,2.39,copd,medication,13.0,no
+69.0,female,yes,2.68,asthma,surgery,14.0,no
+21.0,female,yes,3.08,lung cancer,surgery,5.0,no
+20.0,female,yes,1.61,copd,surgery,7.0,no
+58.0,female,no,1.1,copd,medication,3.0,no
+20.0,female,yes,1.11,bronchitis,medication,13.0,no
+40.0,male,yes,2.65,lung cancer,therapy,10.0,yes
+25.0,female,yes,5.07,pneumonia,medication,3.0,yes
+52.0,female,no,5.66,copd,surgery,5.0,no
+77.0,male,yes,2.48,asthma,surgery,10.0,no
+61.0,female,yes,4.02,pneumonia,medication,7.0,yes
+89.0,female,yes,5.22,copd,surgery,6.0,yes
+30.0,female,yes,3.44,asthma,therapy,3.0,no
+47.0,female,yes,4.62,bronchitis,surgery,12.0,no
+54.0,female,no,5.75,bronchitis,surgery,7.0,yes
+55.0,male,yes,5.25,lung cancer,medication,14.0,no
+58.0,female,yes,5.88,copd,therapy,13.0,no
+27.0,male,no,5.26,copd,therapy,9.0,yes
+31.0,female,no,1.51,pneumonia,surgery,6.0,yes
+35.0,female,yes,3.8,copd,therapy,4.0,yes
+59.0,female,yes,1.05,lung cancer,medication,11.0,no
+40.0,male,no,1.43,lung cancer,medication,1.0,yes
+42.0,female,no,5.53,pneumonia,surgery,5.0,no
+82.0,male,no,3.68,bronchitis,medication,9.0,no
+45.0,female,yes,3.79,pneumonia,medication,10.0,yes
